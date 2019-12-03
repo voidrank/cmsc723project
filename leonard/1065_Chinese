@@ -1,0 +1,176 @@
+前一篇[文章](https://globalvoicesonline.org/2009/10/12/what-future-for-ict4d/
+"https://globalvoicesonline.org/2009/10/12/what-future-for-
+ict4d/")以宏觀角度分析資通訊科技促進人類發展的未來，本文筆者將整理個人、團體、企業與政府可使用的新工具，以發展新的資通訊科技相關計畫。
+
+重點在於研究資通訊科技如何影響人類發展，許多人主張網路與手機科技將提高人民參與政府、經濟與教育機會，從而提升生活水準。
+
+科技與網路在這些年來進步許多，有些人認為，偏遠地區民眾很快必將開始使用網路溝通，故焦點應是溝通模式為何。
+
+英國部落格 _Mainstreaming ICT_
+指出，現在就該整合[手機與電腦](http://mainstreamingict.org/2009/06/technology-for-social-
+change-social-good-community-mobile-channels/
+"http://mainstreamingict.org/2009/06/technology-for-social-change-social-good-
+community-mobile-channels/")：
+
+> 網路與手機皆為資通訊科技，故理應試著整合，我們數年來都企圖整合，成功經驗有限，不過在多國之內，網路終於日漸普及，也適用於許多行動裝置，價格也趨於平宜。
+>
+> 以手機瀏覽網路的經驗當然不同，必須以不同方式思考，例如：
+>
+>   * 不是電子郵件，而是手機簡訊。
+>   * 不是電腦螢幕，而是手機螢幕。
+>   * 別想龐大功能，鎖定最重要功能與簡易性。
+>   * 別想Flash或寬頻，鎖定簡易設計與窄頻。
+>
+
+>
+>
+> …一開始先思考Facebook、MySpace、Ning等既有社會網絡很合理，這些網站都有手機版介面，但是…這些網站當初並非為手機而設計，故成效也看得出來。
+
+**只有窄頻？沒問題**
+
+開發中國家網路用戶常面對一項重大問題，原因在於連線速度緩慢（或斷續不穩定）及部分網站充斥太多圖像，此類情況通常在新聞網站與社會網絡最為嚴重。（非洲與亞洲社會網絡熱門排名請[見此](http://www.web2fordev.net/component/content/article/1-latest-
+news/69-social-networks
+"http://www.web2fordev.net/component/content/article/1-latest-news/69-social-
+networks")）。
+
+Christian Kreutz在 _Crisscrossed_
+部落格提出一項理論，認為許多應用程式的語言版本極為有限，是因為許多人無法瀏覽這些熱門網站，原因在於對連線不穩定的民眾而言，這些網頁讀取時間太長。
+
+以下為幾個[例子](http://www.crisscrossed.net/2009/04/14/what-does-local-content-have-
+to-do-with-low-bandwidth-applications/
+"http://www.crisscrossed.net/2009/04/14/what-does-local-content-have-to-do-
+with-low-bandwidth-applications/")：
+
+>   *
+> 瀏覽Facebook檔案或是前往登入頁，[幾乎要800KB](http://tools.pingdom.com/fpt/?url=http://www.facebook.com&treeview=0&column=objectID&order=1&type=0&save=true
+> "http://tools.pingdom.com/fpt/?url=http://www.facebook.com&treeview=0&column=objectID&order=1&type=0&save=true")！在網咖裡若是以每分鐘付費，使用撥接上網，光是看一頁就將近要三分鐘。
+>   * 使用窄頻幾乎不可能上傳影音資料，尤其若是依傳輸量而非時間計費，可能得花一大筆錢。
+>   *
+> 這個部落格使用Wordpress平台，雖然是個很棒的開放程式碼工具，但並非為撥接上網者設計，若要在2.7.1版的Wordpress發表一篇新文章，得先下載750KB才行。
+>
+
+>
+> 很可惜，就連自由軟體與開放碼社群也很少討論窄頻解決方案。
+
+現居非美國地區的 _Aid Worker Daily_
+找到瀏覽這種網站的[辦法](http://aidworkerdaily.com/2009/02/16/the-loband-option/
+"http://aidworkerdaily.com/2009/02/16/the-loband-option/")：
+
+> 我不確定各位有多少人聽過[Loband](http://www.loband.org/loband/main
+> "http://www.loband.org/loband/main")，但這是以低頻寬瀏覽網站的最佳方式，會自動拿掉所有圖片及格式，只留下文字，不過還是相當易懂，本部落格若以Loband觀看是像[這樣](http://www.loband.org/loband/filter/com/aidworkerdaily?_ab_request=Go
+> "http://www.loband.org/loband/filter/com/aidworkerdaily?_ab_request=Go")，這是[Aptivate](http://www.aptivate.org/Home.html
+> "http://www.aptivate.org/Home.html")網站天才們的作品。（當然各位若使用Firefox瀏覽器，也可以從工具->選項->內容項目，取消「自動讀取圖片」）
+
+全球之聲網站用Loband瀏覽則是[如此](http://www.loband.org/loband/filter/org/globalvoicesonline?_ab_request=Go
+"http://www.loband.org/loband/filter/org/globalvoicesonline?_ab_request=Go")。
+
+_Crisscrossed_[列舉](http://www.crisscrossed.net/2009/04/14/what-does-local-
+content-have-to-do-with-low-bandwidth-applications/
+"http://www.crisscrossed.net/2009/04/14/what-does-local-content-have-to-do-
+with-low-bandwidth-applications/")其他供窄頻連線使用的產品：
+
+> [Maneno](http://www.maneno.org/
+> "http://www.maneno.org/")是項很棒的計畫，不僅為非洲[提供低頻寬需求的部落格方案](http://aidworkerdaily.com/2009/02/22/maneno-
+> a-lightweight-blogging-platform-for-folks-heading-to-the-field/
+> "http://aidworkerdaily.com/2009/02/22/maneno-a-lightweight-blogging-
+> platform-for-folks-heading-to-the-
+> field/")，還有多語言平台的服務，除了英文、阿拉伯文與葡萄牙文之外，另包括[Bamanankan](http://en.wikipedia.org/wiki/Bambara_language
+> "http://en.wikipedia.org/wiki/Bambara_language")及[Swahili](http://en.wikipedia.org/wiki/Swahili_language
+> "http://en.wikipedia.org/wiki/Swahili_language")兩種語文版本。我最近和網站製作團隊聯繫，他們承諾系統在無圖片情況下傳輸量只有13KB，加上圖片也只有33KB…
+>
+> Twitter因為人們可從手機收發訊息，故能帶來改變，但可惜[Twitter不久前放棄免費手機簡訊服務](http://www.e-stas.org/
+> "http://www.e-stas.org/")，我在e-stats研討會中詢問Twitter其中一位創辦人Jack
+> Dorsey，[這項免費服務何時會回來](https://twitter.com/ckreutz/status/1400518666
+> "https://twitter.com/ckreutz/status/1400518666")，他回答「年中」，有些人懷疑「究竟140個字元能說什麼？」若是以Netsquared的[Mobile
+> Voices](http://www.netsquared.org/projects/mobile-voices
+> "http://www.netsquared.org/projects/mobile-voices")為例，其實還不少。
+>
+>
+> 但有件事很肯定，雖然有些人只能用窄頻連線，並不代表你只能瀏覽文字為主的網站，還有許多不同方法，能讓網站既吸引人，也能大幅減少資料傳輸量，Aptivate[提供很好的低頻寬網頁設計指南](http://www.aptivate.org/webguidelines/Home.html
+> "http://www.aptivate.org/webguidelines/Home.html")。
+
+資訊揭露，多語言低頻寬部落格平台Maneno共有三位全球之聲作者參與經營，全球之聲相關報導請[見此](https://globalvoicesonline.org/2009/03/03/maneno-
+a-multilingual-blogging-platform-built-for-african-bloggers/
+"https://globalvoicesonline.org/2009/03/03/maneno-a-multilingual-blogging-
+platform-built-for-african-bloggers/")。
+
+**娛樂與營利的微部落格**
+
+人們之所以喜歡Twitter或Yammer等微部落格服務，是因為既快速，所需頻寬也相對較低，比電子郵件更快、更簡單，也常更加隨興，微部落格改變許多人[危機管理](http://aidworkerdaily.com/2009/03/25/why-
+microblogging-might-prove-a-good-fit-for-aid-agencies/
+"http://aidworkerdaily.com/2009/03/25/why-microblogging-might-prove-a-good-
+fit-for-aid-agencies/")、[事件報導](https://globalvoicesonline.org/2009/06/13/iran-
+storm-of-protest-after-election/
+"https://globalvoicesonline.org/2009/06/13/iran-storm-of-protest-after-
+election/")與推廣議題的方式。
+
+但因為缺乏隱私，並非人人希望在大型網站上書寫微部落格，故也有不同科技，能夠讓許多組織運用微部落格，在網路上建立社群。
+
+美國部落客Louis Gray[介紹](http://blog.louisgray.com/2008/08/identica-and-power-of-
+microbranded.html "http://blog.louisgray.com/2008/08/identica-and-power-of-
+microbranded.html")Laconi.ca這個平台，他形容這是個「群體式Twitter」，直接訴求特定族群，而非向全世界發聲：
+
+> 其實這不只是我所提到的小社群，各位的企業其實可跳脫這個框架，運用Identi.ca提供的軟體建立社群，Identi.ca與Twitter都擁有非
+> 常廣泛的社群，包括形形色色的使用者，很適合用來建立關係、遇見陌生人與尋找資訊，但目前無法讓我只和同好聯結，例如若我熱愛大學足球，而你沒興趣，你就
+> 不會有興趣知道我正在收看的球賽細節…
+>
+> 若美國體育電視網[ESPN](http://espn.go.com/ "http://espn.go.com/")特
+> 別為運動愛好者推出如Laconi.ca的網站，會有什麼情況發生？只需安裝Laconi.ca系統，再加上一些自由標誌、模式與特色，很快就會有一大群
+> 運動愛好者分享熱情、交流資訊，並向同好展示自己的運動生活，這些人還是能在Identi.ca與其他朋友往來，而ESPN相關社群則留在ESPN網站
+> 上。試想若同一套技術用來建立母親、父親、宗教、地方城鎮的社群，又會有何情況？
+
+另一篇介紹開放碼微部落格平台OpenMicroblogger.org的文章請[見此](http://staynalive.com/articles/2008/08/15/laconicas-
+not-the-only-cool-kid-in-town-introducing-openmicroblogger/
+"http://staynalive.com/articles/2008/08/15/laconicas-not-the-only-cool-kid-in-
+town-introducing-openmicroblogger/")。
+
+**我的手機，我的朋友**
+
+先前全球之聲報導，漁民運用手機搜尋漁獲最高市價， _Crisscrossed_
+部落格提供後續消息，[說明](http://www.crisscrossed.net/2009/05/11/mobile-activism-in-
+africa/ "http://www.crisscrossed.net/2009/05/11/mobile-activism-in-
+africa/")手機為何如此重要：
+
+> 特殊之處在於結合所有媒體，包括電話、網路、廣播與電視，人們因此能夠：  
+>  一，交流與接收資訊（廣播、電視與網路）。  
+>  二，記錄與收集資訊。  
+>  三，以文字與影音張貼資訊。  
+>  四，以不同方式在人與人之間建立網絡。
+
+他也指出，手機將有助形塑公共空間，讓公民記者能夠[拍照](http://voicesofafrica.africanews.com/site/Guinness_factory_pollutes_water_sources/list_messages/21566
+"http://voicesofafrica.africanews.com/site/Guinness_factory_pollutes_water_sources/list_messages/21566")，手機讓人們能參與廣播節目，也能發動簡訊串連，更能夠[監督選舉](http://www.kubatana.net/html/ff/ff_cont.asp
+"http://www.kubatana.net/html/ff/ff_cont.asp")。
+
+_DigiActive_ 組織的Patrick Meier[主張](http://www.slideshare.net/iRevolution/digi-
+active-for-mobile-active-2008-final-presentation
+"http://www.slideshare.net/iRevolution/digi-active-for-mobile-
+active-2008-final-
+presentation")，今日人們只要用手機便能參與社會運動，行動電話已用來組織抗爭活動，包括菲律賓、西班牙與巴基斯坦等地，手機也用來記錄人權侵害狀況，如埃及、西藏、摩洛哥等。
+
+但問題確實存在，手機簡訊成本在某些地區很高，[尤其是非洲地區](http://afromusing.com/2009/10/09/its-2009-mobile-
+costs-should-be-lower-yes-its-a-bit-of-a-rant/
+"http://afromusing.com/2009/10/09/its-2009-mobile-costs-should-be-lower-yes-
+its-a-bit-of-a-rant/")，Kreutz也表示，手機網絡可能受政府控制，且手機服務供應商是為營利，而非為了發動抗爭。
+
+**傳送大量手機簡訊**
+
+FrontlineSMS系統讓使用者能夠大量收發手機簡訊，但不需要透過網路。
+
+_Pulse + Signal_ 部落格[介紹](http://pulseandsignal.com/2009/07/17/can-your-cell-
+phone-change-lives/ "http://pulseandsignal.com/2009/07/17/can-your-cell-phone-
+change-
+lives/")FrontlineSMS系統在馬拉威應用情況，[提供](http://venturebeat.com/2009/09/03/phones-
+deliver-doctors-orders-in-africa-with-frontlinesms/
+"http://venturebeat.com/2009/09/03/phones-deliver-doctors-orders-in-africa-
+with-frontlinesms/")手機讓醫師能與偏遠地區的醫療人員溝通。
+
+> 儘管手機做為行動溝通中心，相關科技不斷進步，但在公共／全球衛生世界裡，有時這些事物都不重要。
+>
+>
+> 許多醫療相關行動科技都鎖定於資源很少的開發中國家，有許多衛生議題必須處理，手機簡訊或能發揮功能，這是絕大多數手機的基本功能，讓資料能在手機之間傳遞，這項服務能提升世界各地的衛生計畫效能。
+
+以下影片中，FrontlineSMS成員正在訓練社區醫療人員使用手機簡訊。
+
+校對：[Soup](http://taipedia.selfip.info/mediawiki/index.php/%E4%BD%BF%E7%94%A8%E8%80%85:Soup
+"使用者:Soup")
+

@@ -1,0 +1,137 @@
+With his trademark piechart head and onomatopoeic “[paku
+paku](http://answers.yahoo.com/question/index?qid=1006012000125)” chomp, [Pac-
+Man](http://en.wikipedia.org/wiki/Pac-Man) looms large in the history of the
+modern video game. No other game character can be said to have captured the
+world's attention so thoroughly and transformed the game industry so
+profoundly. Born out of Japan's burgeoning game industry of the early 1980s,
+Pac-Man has outlived many of its contemporaries and [remains popular even
+today](http://www.mefeedia.com/news/31317469).
+
+In a sign of Pac-Man's longevity, many this weekend celebrated the 30th
+birthday of the famous game character. The game's creator, Japanese video game
+company [Namco](http://www.namcobandaigames.com/), took the opportunity to
+announce a brand new twist on the Pac-Man legacy: a new game, referred to as
+“Pac-Man Reborn”, reportedly be played via Twitter. Released in beta form this
+weekend in Japan only, the new game has been described as “[the largest
+demolition derby of tiny pie charts ever
+seen](http://multiplayerblog.mtv.com/2010/05/20/pac-man-reborn-to-chow-down-
+on-twitter-and-mobile-devices/)“. (Follow
+[@pacman_reborn](http://twitter.com/pacman_reborn) in Japanese for more
+details.)
+
+[![](https://globalvoicesonline.org/wp-content/uploads/2010/05/Pac-
+man.png)](http://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png)
+
+Pac-Man circa 1980
+
+[![](https://globalvoicesonline.org/wp-content/uploads/2010/05/google-
+pacman.png)](https://globalvoicesonline.org/wp-content/uploads/2010/05/google-
+pacman.png)
+
+Google's Pac-Man logo, circa 2010
+
+For most people however, including many in Japan, the reminder of Pac-Man's 30
+year birthday came not from its maker but from Google, who commemorated the
+event by [inserting the game into its own
+logo](http://googleblog.blogspot.com/2010/05/celebrating-pac-mans-30th-
+birthday.html). Many Japanese were pleasantly surprised to stumble into the
+character, one of their country's most famous cultural exports, in its new
+online setting.
+
+On Twitter in Japanese, people tagged comments on Google's java-based game
+with the hashtag
+[#googlepacman_jp](http://search.twitter.com/search?q=%23googlepacman_jp).
+
+[@cagesmile writes](http://twitter.com/cagesmile/statuses/14450900048):
+
+>
+> Googleロゴがパックマンだ！生誕30周年だって。しかも実際に今日から２日間遊べる！忠実に再現されている。InsertCoinボタンをもう一度押すと対戦プレイ。懐かしいなぁ。当時もそうだったけど、いつも見ているほう。１面もクリアできない…。
+> #googlepacman_jp
+
+Google's logo is Pac-Man! It's the 30-year anniversary apparently. And for the
+next two days, you can actually play it! They've reproduced it really well.
+You can start a game by clicking the “Insert Coin” button. Feels like old
+times, doesn't it? I'm always the one who just watches [not plays], just like
+I was back then. I can't even get past the first stage…
+
+@fall_meet, who finally [managed to clear the first
+level](http://twitter.com/fall_meet/statuses/14537245705), pinpoints one of
+the charms of Pac-Man:
+
+> ゲームは苦手なので単純なものしかやらないです。でもパックマンは気軽に遊べていい感じ。 #googlepacman_jp
+
+I'm no good at games so I only play the really simple ones. But I like Pac-Man
+because it's so easy to play.
+
+Blogger ss1200, a more experienced Pac-Man player,
+[recalls](http://blog.ss1200.lomo.jp/?eid=939404):
+
+> 高校生のころPC-6001MkII のパックマンをやりまくってました。結構うまく移植されてましたですよ。
+
+When I was in high-school, I used to play Pac-Man like crazy on the
+PC-6001MkII [[personal computer](http://en.wikipedia.org/wiki/NEC_PC-6001)].
+They've ported it really well.
+
+Blogger and twitterer Yoshio ([@yoshio_will](http://twitter.com/yoshio_will)),
+who had trouble getting past the second level of the game, decided to [delve
+deeper](http://blog.easy-creator.net/archives/52491603.html) to see if he
+could skip ahead to the rumored 256th level. Describing Google's code for the
+Pac-Man game, he writes:
+
+> なんというか色々とすさまじい。変数名に1文字のを使われると何がなんだか。  
+>  しかも全然改行がないので読みにくくてしょうがない。  
+>
+> どうやらCanvasを使って画像を出しているっぽい。音はどうしてんのかと思ったら、音出し専用Flashをスクリプトから呼び出しているらしい。うーむなんとも。
+
+What can I say, it's really ~~a mess~~ something. Like they only use a single
+letter for the variable names. And there are absolutely no newlines so it's
+really hard to read.
+
+They seem to be using [[the HTML5 rendering
+engine](http://en.wikipedia.org/wiki/Canvas_element)] Canvas to create the
+images. I wondered what they were doing for the sounds, but it seems that it's
+calling a dedicated Flash script to produce them. Hmm…
+
+A closer look revealed the key:
+
+> g.livesが残機数、g.levelが現在のステージなので、とりあえず254面にしてみた。  
+>  あとは一時停止を解除してやれば、「内容は1面だけど番号だけは254面」で動き出します。
+>
+> この状態でとりあえず1面クリア。
+>
+> すると、次に用意されるステージは255面になります。
+
+_g.lives_ is the number of lives remaining and _g.level_ is the current level.
+To start I just set the level to 254. When I then released the pause, the game
+came back with the same first level screen, but the number switched to 254.
+
+So first of all I just cleared the level, while in this state. When I cleared
+it, the next stage that came up was level 255.
+
+After forging ahead through level 255, thanks to a bit of tinkering to grant
+extra lives, the blogger got to the 256th level, at which point things became
+strange.
+
+[![](https://globalvoicesonline.org/wp-
+content/uploads/2010/05/level256.png)](https://globalvoicesonline.org/wp-
+content/uploads/2010/05/level256.png)
+
+Level 256 from the Google version of Pac-Man
+
+> え・・・。  
+>  もしかして無理矢理256面にしたからバグった？  
+>  と思ったんですが、どうやらアーケード版のバグの再現らしい。
+
+What…? Does this mean that when you force your way to the 256th level you hit
+a bug? That's what I thought to myself, and indeed it seems that they
+recreated the bug from the arcade game.
+
+The bug is in fact a “[kill screen](http://en.wikipedia.org/wiki/Kill_screen)”
+from the original version of the game, meaning that the Google version — with
+its colorful 256th level — is in fact true to the original after all.
+
+If the novelty of the new Pac-Man game and its mysterious 256th level were not
+enough to entice you to give it a try, consider that the game can also be
+played in [2-player mode](http://www.worldbuzznow.com/play-pac-man-30th-
+anniversary-as-featured-by-google-2-players/10587). Catch it will it lasts!
+

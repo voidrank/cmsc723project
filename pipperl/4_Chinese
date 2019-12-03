@@ -1,0 +1,292 @@
+肯亞公民記者以及社運份子正逐漸轉向愛用流行的 Web 2.0 工具軟體，像是維基、部落格、Facebook、 Flickr、
+Twitter以及這些工具的混搭，來組織並分享前陣子的選舉危機、暴力事件紀錄的消息和資訊，以及分享事件的照片、募款以幫助需要的人。
+
+**混搭 (Mashups)**
+
+Kenyan Pundit 寫了一篇 [尋求製作混搭的自願者](http://www.kenyanpundit.com/?p=406
+"http://www.kenyanpundit.com/?p=406") 文章，用[Google
+Maps](http://en.wikipedia.org/wiki/Google_Maps
+"http://en.wikipedia.org/wiki/Google_Maps")來紀錄暴力和破壞發生的地點：
+
+> “Google Earth
+> 理應仔細顯示出地面上哪些地方遭受到了破壞。對我而言，如果有紀錄的話，就長遠來說是很有用的。在地方恢復和平的過程中，必須先搞清楚當初到底遭受到了怎
+> 麼樣的破壞。我們尋求著協助 – 有任何技術高手可以用 Google Maps 製作哪裡發生了暴力和破壞事件的混搭嗎?
+
+White African [也寫了一篇同樣主題的文章](http://whiteafrican.com/?p=842
+"http://whiteafrican.com/?p=842"):
+
+>
+> 基本上，當事件發生時，你會希望某個人有拍攝相關的照片或是影片。尤其是一份關於發生了什麼事、牽涉到的人物、以及發生地點的報導。這份報導就可以被上傳並且用地圖的方式來檢視，這樣子就可以輕易地搞清楚發生了什麼事，或用地點和/或類別來搜尋。
+
+[Ethan Zuckerman](http://www.ethanzuckerman.com/blog/2008/01/09/digital-
+activists-find-ways-to-help-kenya
+"http://www.ethanzuckerman.com/blog/2008/01/09/digital-activists-find-ways-to-
+help-kenya")說:
+
+> 一項主要的考量點是肯亞的大選爭議事件餘波，是媒體可能低估了在選舉暴力事件中的死傷人數。在上週的一篇部落格文章中，Ory Okolloh
+> 建議組成一個紀錄暴力事件、並將他們放在網頁地圖上的計畫。 這個想法很快就引起了在國內外肯亞人的注意。在經過一個週末後，肯亞的一名程式開發者 David
+> Kobia 把幾項元素集合在 Ushahidi 網站上，包括白種非裔部落客 Erik “Hash” Hersman
+> 的骨架設計，以及一大堆由肯亞部落客以及運動份子所輸入的資料。
+
+Kenyan Pundit 尋求能夠紀錄暴力和破壞事件的工具，促成了 [Ushahidi](http://www.ushahidi.com/
+"http://www.ushahidi.com/") 網站。 [White African](http://whiteafrican.com/?p=845
+"http://whiteafrican.com/?p=845") 是這樣介紹 [Ushahidi](http://www.ushahidi.com/
+"http://www.ushahidi.com/")的： Ushahidi 在史瓦希里語(Swahili) 中指的是證言。
+
+> Ushahidi.com
+> 是一個工具，給見證到肯亞前陣子選後暴力事件的目擊者。你可以報導你所見到的事件，然後以地圖的方式呈現給其他人看。這個計畫初期來說，技術部份是最困難
+> 的。然後，到最後這不過只是一個工具，最困難的部份是身處該區域的人們，能夠與非政府組織共同保持這些資訊的正確性，並且能夠儘可能地紀錄更多的事件。
+
+在 “社會媒體能夠變成怎樣” [Mike Stopforth
+寫到：](http://www.mikestopforth.com/2008/01/10/ushahidi-what-social-media-can-
+be/ "http://www.mikestopforth.com/2008/01/10/ushahidi-what-social-media-can-
+be/")
+
+> 這個網站不管在設計或是概念都是超簡單的 — 它是一個 Google Maps
+> 的混搭，讓使用者可以報導犯罪和暴力事件的內容和地點。目前這個網站已經完成了用網站回報的功能，未來將延伸到用手機簡訊來報導。這個網站並不需要註冊
+> (因為沒有人想要用使用者資訊來獲利)
+
+Alfajiri [則是這樣子評論 Ushahidi
+網站：](http://alfajiri.wordpress.com/2008/01/10/ushahidicom/
+"http://alfajiri.wordpress.com/2008/01/10/ushahidicom/")
+
+>
+> 在危機時期，肯亞民眾組成了複雜的訊息網路，在傳統媒體管道被政府封鎖的時候，連接並且自行報導消息。這樣子的成功有目共睹，然而核心族群的個人還做了更多。他們從無到有，記載並且查證了選後暴力的事件。
+
+這項工具 [快速地進化](http://whiteafrican.com/?p=857 "http://whiteafrican.com/?p=857")：
+
+> 本網站將會持續進化和改進。新的功能會一直加進來，以下是我們已經完成和正在趕工的功能的快速瀏覽：
+
+> • 你可以使用手機簡訊，報導事件到 +447624802635 這個號碼。
+
+> • 你可以將事件的報導和照片寄到 tips@ushahidi.com 這個電子郵件信箱。
+
+> • 我們已經加入了一個「和平進展」的按鈕，來突顯正在發生的好事情。
+
+> • 「你如何幫助這個計畫」的頁面已經製作了。目前你可以經由 MamaMikes.com 捐款，並轉交給肯亞的紅十字會。
+
+> • 在「關於本站」的頁面，有其他的按鈕 (包括用來複製/貼上的程式碼) 讓你可以輕易地把按鈕放到你的網站上。
+
+在 「數位行動份子找到了幫助肯亞的方式」這篇文章中， [Ethan
+寫道](http://www.ethanzuckerman.com/blog/2008/01/09/digital-activists-find-ways-
+to-help-kenya "http://www.ethanzuckerman.com/blog/2008/01/09/digital-
+activists-find-ways-to-help-kenya")：
+
+> 此一網路服務的快速發展呈現了許多重點 — 包括肯亞的情勢，以及其他一般而言的緊急情勢：
+
+> \- 肯亞部落客們關注著他們自己國內的情勢，而他們的熱情和技術貢獻讓我們可以看到科技在紀錄發展中情勢的創新使用方式，而且同時可以提供必要的協助。
+
+> \-
+> 開發一個網路程式仍然比開發一個手機簡訊服務來的快，雖然簡訊可能比較適合此一情況。這對於任何關注發展中國家訊息傳播應用的人來說非常重要。即使我們都知道手機是散播最廣的平台(跟廣播一樣)，我們仍需要更好的工具來開發軟體。
+
+> \- 當危機正在發生時，人們想要找到能幫得上忙的方式，也會製作線上的工具來幫忙。我們在2004耶誕隔日的南亞海嘯發生時，看到人們在SEA-EAT部落格
+> 開始一連串的努力。我們也在發生於2005年美國卡崔那（Katrina）颶風期間，看到全世界的團體努力創造出
+> Peoplefinder這個資料庫，用來尋找家人和朋友。而目前在肯亞，我們再一次看到這種行動正在進行。
+
+**行動電話** [AfricaNews.com
+正在實驗](http://voicesofafrica.africanews.com/site/page/510:kenya
+"http://voicesofafrica.africanews.com/site/page/510:kenya") 用行動電話
+[來報導肯亞的危機](http://www.bizcommunity.com/Article/111/78/20824.html
+"http://www.bizcommunity.com/Article/111/78/20824.html")：
+
+> 隨著肯亞實施媒體的封鎖，行動電話扮演著關鍵的角色。除了可以報導肯亞的大選，它們開始在報導選後流血衝突上，扮演更重要的角色。
+
+> AfricaNews.com
+> 使用可以上網的行動電話來報導肯亞的大選危機。地方非洲記者，利用先進的行動電話以及可攜式的鍵盤，用以收集文字、影像以及短片，來報導肯亞發生的事件。這些記者使用他們的行動電話將報導發佈到
+> [http://www.africanews.com。這是非洲首次嘗試行動電話記者的概念。](http://www.africanews.com%e3%80%82%e9%80%99%e6%98%af%e9%9d%9e%e6%b4%b2%e9%a6%96%e6%ac%a1%e5%98%97%e8%a9%a6%e8%a1%8c%e5%8b%95%e9%9b%bb%e8%a9%b1%e8%a8%98%e8%80%85%e7%9a%84%e6%a6%82%e5%bf%b5%e3%80%82/
+> "http://www.africanews.com。這是非洲首次嘗試行動電話記者的概念。")
+
+在
+[為肯亞危機發聲的科技](http://www.blacklooks.org/2008/01/technology_for_advocay_in_kenyan_crisis.html
+"http://www.blacklooks.org/2008/01/technology_for_advocay_in_kenyan_crisis.html")這篇文章中，
+Sokari 寫到一位利用電話預付額度來貢獻資金的活動份子：
+
+> 在恐懼和暴力的環境裡，許多商業活動都已經關閉，交通運輸有點或是非常昂貴。這種情況下，你要如何跟朋友或是家人連絡呢?
+> 當銀行或是其他金融機構(例如西聯匯款辦公室)已經關閉時，你要怎麼寄出/收取金錢呢? 答案很簡單：無所不在的行動電話。一名行動份子
+> (為了他的個人安全，我們不能提及他的姓名) 寫到他如何捐獻資金給他的同僚 — 藉著購買行動電話預付卡，然後將其散播給他的同僚。如果有個在
+> Eldoret市的人需要錢坐車，或是某些人沒辦法從西聯的辦公室收取匯款，他至少能夠打電話給他所有同僚，確定他們已經兌現了行動電話預付額度並且安 全。
+
+[Mashada,](http://www.mashada.com/ "http://www.mashada.com/")
+一個肯亞的線上論壇，製作了一個簡訊熱線，讓不能上網的肯亞民眾可以[用他們的手動傳送最新的消息](http://inanafricanminute.blogspot.com/2008/01/blogs-
+sms-and-kenyan-election.html
+"http://inanafricanminute.blogspot.com/2008/01/blogs-sms-and-kenyan-
+election.html"):
+
+> 在暴力事件爆發之後，Mashada，一個知名的線上論壇啟用了一個簡訊熱線，來協助分享消息。不僅如此，幾個知名的肯亞部落格還接受用簡訊來發表文章的迴響。
+
+同時，肯亞政府警告行動電話的使用者可能會因為[使用簡訊製造社會動盪](http://www.afromusing.com/blog/2008/01/01/quick-
+update-from-eldoret-rift-valley/
+"http://www.afromusing.com/blog/2008/01/01/quick-update-from-eldoret-rift-
+valley/")而觸法：
+
+> “網路安全部要求你們停止寄送或是轉寄可能造成社會動盪的手機簡訊。否則你們會因此而遭到檢控。”
+
+Joshua 提醒了我們[簡訊的威力以及危險：](http://inanafricanminute.blogspot.com/2008/01/blogs-
+sms-and-kenyan-election.html
+"http://inanafricanminute.blogspot.com/2008/01/blogs-sms-and-kenyan-
+election.html")
+
+> 去年在烏干達，一場抗議開發馬比拉森林 (Mabira Forest) 的示威在Kampala
+> 利用大量的簡訊組織起來，並且很快地轉變成暴力衝突，並造成至少一人死亡。
+
+**部落格** 全球之聲有一個報導肯亞事件的特別頁面，[2008肯亞大選餘波
+](https://www.globalvoicesonline.org/specialcoverage/kenya-elections-
+aftermath-2008/ "https://www.globalvoicesonline.org/specialcoverage/kenya-
+elections-aftermath-2008/")：
+
+[Black Looks 提及](http://www.blacklooks.org/2008/01/kenya_action_alerts.html
+"http://www.blacklooks.org/2008/01/kenya_action_alerts.html")了一個由[Pambazuka
+News](http://www.pambazuka.org/ "http://www.pambazuka.org/") 所創立的
+[活動警訊部落格](http://www.pambazuka.org/actionalerts/index.php
+"http://www.pambazuka.org/actionalerts/index.php")：
+
+> Pambazuka News 已經創立了一個活動警訊部落格，以用發佈肯亞最新的消息以及警訊。
+
+[White African has listed blogs ](http://whiteafrican.com/?p=841
+"http://whiteafrican.com/?p=841")也報導了肯亞選舉以及其餘波。
+
+**肯亞推特圈(Twitterverse)**
+
+Afromusing 利用她的 [Twitter 頻道](http://twitter.com/afromusing
+"http://twitter.com/afromusing") 從肯亞傳送快報：
+
+> 你可以從全世界提供協助： mamamikes 捐款網頁已經上線
+> [http://www.mamamikes.com](http://www.mamamikes.com/
+> "http://www.mamamikes.com") 03:50 AM January 11, 2008 from web
+
+> 全球之聲肯亞事件特輯網頁 [http://tinyurl](http://tinyurl/ "http://tinyurl"). com/2gxmed
+> 02:41 AM January 09, 2008 from web
+
+> 正在和mamamikes 與紅十字會合作，製作一個線上捐款網頁。明天四點有另一場會議。 09:03 AM January 07, 2008 from
+> web
+
+> NBI:試著在Eld裡找尋座標資料，給 Google 混搭網站用。如果你有資料的話說一聲，謝啦 02:10 AM January 07, 2008
+> from web
+
+> 在mamamikes 訂的額度仍然沒有送過來，謝謝代訂額度的朋友們，真的幫了大忙。 10:25 AM January 02, 2008 from web
+
+> 今天比較好點，正在上傳照片到 Flickr，試著從這一堆混亂中理清我的思緒。 10:23 AM January 02, 2008 from web
+
+> 準備看看電視上的消息。我不應該這麼做的，這會使得我開始緊張起來。 09:48 AM January 01, 2008 from web
+
+> 在 flickr上發佈照片。我人仍在 Eld，緊張情勢在白天緩和了一點點，但是情勢仍然不穩 :( 04:15 AM January 01, 2008
+> from web
+
+> kassfm 可能是唯一報導其他區域計票結果的 FM廣播電台。他們用英語、 史瓦希里語和 kalenjin 語廣播。 03:03 PM December
+> 27, 2007 from web
+
+> 開車經過投票所，大部份 Eld 的投票所看起來都是 Raila 的鐵票區 01:39 PM December 27, 2007 from web
+
+> 造訪幾個在 eld 的投票所。有幾個仍大排長龍，幾個已經計票完畢。照了幾張相。 04:39 AM December 27, 2007 from web
+
+> 國營媒體的報導和部落客 daudi 確認了Raila (譯註：肯亞反對黨領導人Raila Odinga) 支持者在 langata
+> 投票時的狀況。新的計票結果已經出爐。 01:51 AM December 27, 2007 from web
+
+KenyaNews 是一個 Twitter 頻道， [更新著肯亞所發生的事件](http://twitter.com/kenyanews
+"http://twitter.com/kenyanews"):
+
+> 反對黨領袖正計畫要從週三開始，舉行長達三日的街頭遊行抗議，這很可能會引發新的暴力衝突。 about 14 hours ago from web
+
+> Kofi Annan 預定明天抵達，並對於找到雙方的共識作最後的嘗試。 about 14 hours ago from web
+
+> 肯亞在上月難堪的選舉爭議之後，即將開始一起新的內戰。憲兵已經準備要加入了。 about 14 hours ago from web
+
+> 中國報紙看西方譴責肯亞動亂。 about 19 hours ago from web
+
+> 能不能讓敵對的現任總統Kibaki 和反對黨Raila Odinga 共同出席調停會議，已經開始引起懷疑。 about 19 hours ago
+> from web
+
+> 人權關注團體要求政府允許由反對黨領袖Raila Odinga所領導的群眾集會，這個集會將在週三開始。 04:18 PM January 13, 2008
+> from web
+
+> 在示威者重新聚集後，肯亞死亡人數升至700人。 04:17 PM January 13, 2008 from web
+
+> John Kufuor, 迦納的總統，目前非洲聯盟的主席，從家鄉飛到Nairobi. 07:21 PM January 10, 2008 from
+> web
+
+> 前聯合國秘書長 Kofi Annan 昨日被提名協助肯亞和平協議的擬定。 07:20 PM January 10, 2008 from web
+
+> 肯亞總統說不會重新計票、或是重新選舉。 01:39 PM January 09, 2008 from web
+
+> 鎮裡的醫院如 Nyeri 說他們已經塞滿了 Kikuyu 族的病患，包括斧頭、開山力、和弓箭造成的傷。 01:38 PM January 09,
+> 2008 from web
+
+**Facebook** Facebook
+也變成募款和引發關注的平台。[肯亞選後人權危機](http://www.facebook.com/group.php?gid=8563806021
+"http://www.facebook.com/group.php?gid=8563806021") 就是被創造用來引發肯亞情勢關注的工具。
+
+一些在網頁的留言如下：
+
+> Hi Nadine, 謝謝你想要幫忙! Ukunda
+> 的情勢已經開始穩定。然而，仍然有許多的家庭的生計因為這場危機的影響而陷入困境。市場關閉長達兩個星期，害怕一開市就遭到洗劫。你知道那麼的人們如何一
+> 天度過一天……無論如何，當前最需要的就是食物。有許多的孩童正挨餓著。那些我寄給Mama Kenn 的錢，我告訴她要專注於餵飽Ukunda
+> 需要食物的孩子。她有顆我所知的純潔心靈，會毫不遲疑地在自己之前先讓孩子吃飽。
+
+> 嘿，這正是我所找尋的群組。我厭倦了政治的咆哮和胡言亂語了，我只想要給予我所擁有的。所以您能否告訴我更多Ukunda 的情勢，以及需要哪些物資?
+> 我在該區有一些朋友，也很樂意寄錢給他們，請他們購買需要的物資給那些孩子。請讓我知道需要什麼，要寄給哪些人，謝謝。
+
+> 嘿
+> Huss…謝謝你的鼓勵…昨夜我連絡了我的母親，我很高興地知道她目前還好…然而我還是跑去了西聯匯了些錢給她….有新的發展記得通知我….我覺得我們有需要好好想想有哪些事要做…希望早日再見到你,
+> ox
+
+</blockquote>
+
+[肯亞的緊急危機](http://apps.facebook.com/causes/view_cause/55307?fb_page_id=7681892185&
+"http://apps.facebook.com/causes/view_cause/55307?fb_page_id=7681892185&")
+由愛爾蘭的基督教愛明計劃[Christian Blind Mission](http://www.cbm.ie/ "http://www.cbm.ie/")
+所創設:
+
+> CBM 回應著肯亞的情勢。在數週的政治動亂之後，暴力奪去了約500條性命，並且使 250,000民眾流離失所，尋求庇護。
+
+另一個群組則是
+[肯亞的和平](http://apps.facebook.com/causes/view_cause/54238?recruiter_id=12371633
+"http://apps.facebook.com/causes/view_cause/54238?recruiter_id=12371633")：
+
+> 這使得尋求資金協助的 Samaritan's Purse ( <http://www.samaritanspurse.org/> )
+> 和其他組織，正試著去滿足超過 500,000 受影響的肯亞居民的需求，包括超過 250,000 位被驅離家園的民眾。另外數千名則逃離種族暴力。
+
+**Flickr** 這個是 [2008肯亞大選](http://flickr.com/groups/kenyaelections2008/
+"http://flickr.com/groups/kenyaelections2008/") [Flickr
+頁面](http://whiteafrican.com/?p=857 "http://whiteafrican.com/?p=857"):
+
+> AfricanPath 的 Joshua Wanyama 提供協助管理 Flickr
+> 上面肯亞大選過後餘波的圖片。你可以在這裡找到2008肯亞大選餘波照片群組。你可以考慮把照片寄過來並且將其加上”KenyaElection2007″
+> 的標記。
+
+**維基** 一個由立陶宛運動份子 Andrius Kulikauskas
+所領導的[線上社群](http://www.worknets.org/wiki.cgi?
+"http://www.worknets.org/wiki.cgi?")，利用著他們的社群維基來提供協助：
+
+> 加入我們吧! 加入我們的對談以及維基來幫助肯亞重生並且獲得給立陶宛和全世界的啟發。
+
+> 和我們對談吧! 8秒鐘之前 Fred1: whetherthe number and sentence of Margret has been
+> added to kenyan to call right 跟我們一起寫維基吧! 一分鐘之前 FredKayiwa: KenyansToCall
+
+[Sokari
+寫了他們的工作](http://www.blacklooks.org/2008/01/technology_for_advocay_in_kenyan_crisis.html
+"http://www.blacklooks.org/2008/01/technology_for_advocay_in_kenyan_crisis.html"):
+
+> Worknet，一個全球性的維基社群，創作了一個極佳的資源。他們有一堆獨立的空間，提供肯亞人設立新網站和部落客、活動警訊、評論以及聊天室。
+
+[Ethan 寫到了](http://www.ethanzuckerman.com/blog/2008/01/09/digital-activists-
+find-ways-to-help-kenya
+"http://www.ethanzuckerman.com/blog/2008/01/09/digital-activists-find-ways-to-
+help-kenya") 他們使用 PayPal, M-PESA 以及肯亞知名的電子商務網站 [Mama
+Mike’s](http://www.mamamikes.com/ "http://www.mamamikes.com/"):
+
+> Andrius Kulikauskas, 立陶宛運動份子，問著他們線上群組他們能為肯亞的人們做些什麼。他們已經開始利用 Paypal
+> 募款的活動，並且將這些資助經由行動電話的預付額度服務轉帳到肯亞的民眾，所使用的服務包括 Mama Mike’s 以及
+> M-PESA。他們基於一個簡單的誠信機制來選擇受資助的人 – 他們問在肯亞的朋友，請他們推薦適當的人選。
+
+**連接數位落差**
+
+最後，[從肯亞的數位落差脈絡中](http://whiteafrican.com/?p=839
+"http://whiteafrican.com/?p=839")，這到底意味著什麼?
+
+>
+> 當部落格、電子郵件、推特和網際網路成功地把許多肯亞發生的消息傳到世界的其他角落時，我發現自己開始煩惱起來。你看看，這種傳遞應該是要發生在草根層次才是，但是許多肯亞民眾並沒有辦法接觸到這些網路上的工具。
+
+> 讓我們想想在科技菁英之外，人民的問題要如何解決才好?
+
+  * 校對：abstract
+

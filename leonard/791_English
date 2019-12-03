@@ -1,0 +1,143 @@
+Russia has experienced an enormous growth of Internet penetration during the
+last 10 years. But the quality of Internet connection isn't the same for
+everyone. Quality, price and accessibility of the broadband Internet differ a
+lot throughout the country with some territories (like
+[Sakhalin](https://globalvoicesonline.org/2010/03/07/russia-divide/) [EN])
+still being beyond the digital divide. In this article, I'll present the
+results of the study of broadband prices of the Internet in the Russia's 90
+largest cities (with the exception of Moscow and Saint Petersburg). The study
+was conducted as a part of my Ph.D. thesis for the Moscow State University.
+More detailed version will be published in the Russian magazine “[Internet v
+Cyfrah](http://www.in-numbers.ru/)” [RUS] in April, 2010.
+
+The analysis focused on unlimited Internet access at the speed of 1 megabit
+per second (mbs). The original dataset included 810 providers. Then the city
+median mean was counted. The result of the analysis showed that Russians pay
+for the same service very different prices. 1mbs unlimited Internet access
+plan costs from $180 per month in northern
+[Norilsk](http://en.wikipedia.org/wiki/Norilsk) [EN] to $12 in [Yoshkar-
+Ola](http://en.wikipedia.org/wiki/Yoshkar-Ola) [EN] in central Russia. In some
+cities, there are no 1mb unlimited plans at all and the highest speed people
+can count on is 256 kbs (if this happened, the special coefficient was used).
+
+Another problem is that in many towns in Siberia and Far East there's no
+decent broadband and people use satelite Internet which is much more
+expensive. Below is the table of the cities with the cheapest and the most
+expensive Internet in the country:
+
+**Table 1. Cities with the cheapest broadband prices (November 2009)**
+
+# | City | Broadband price  
+($ per month) | Number of providers  
+---|---|---|---  
+1 | [Yoshkar-Ola](http://en.wikipedia.org/wiki/Yoshkar-Ola) | 12 | 5  
+2 | [Kazan](http://en.wikipedia.org/wiki/Kazan) | 14 | 13  
+3 | [Naberezhnye Chelny](http://en.wikipedia.org/wiki/Naberezhnye_Chelny) | 14
+| 6  
+4 | [Orsk](http://en.wikipedia.org/wiki/Orsk) | 14 | 5  
+5 | [Izhevsk](http://en.wikipedia.org/wiki/Izhevsk) | 14 | 14  
+6 | [Omsk](http://en.wikipedia.org/wiki/Omsk) | 15 | 14  
+7 | [Orenburg](http://en.wikipedia.org/wiki/Orenburg) | 15 | 9  
+8 | [Kursk](http://en.wikipedia.org/wiki/Kursk) | 15 | 9  
+9 | [Kirov](http://en.wikipedia.org/wiki/Kirov,_Kirov_Oblast) | 16 | 9  
+10 | [Penza](http://en.wikipedia.org/wiki/Penza) | 17 | 10  
+  
+Most of the cities in the top-10 are from the [Volga
+region](http://en.wikipedia.org/wiki/Volga_Federal_District) (Yoshkar-Ola,
+[Naberezhnye Chelny](http://en.wikipedia.org/wiki/Naberezhnye_Chelny) [EN],
+[Kazan](http://en.wikipedia.org/wiki/Kazan) [EN] and others) where the
+cheapest prices were found. As a general rule, the cheapest Internet is
+prevalent in the biggest cities with developed universities (Yekaterinburg,
+Novosibirsk and others). The railroad connection is also of critical
+importance due to the technology of the construction of the broadband
+telecommunications, many of which are constructed along with the railroads.
+
+On the other side, the most expensive broadband can be found in two types of
+cities: industrial and/or [company
+towns](http://en.wikipedia.org/wiki/Company_town) [EN] and in the cities of
+the North Caucasus. People of the cities with developed oil industry (Surgut
+and Nizhnevartvosk) do not usually “suffer” from high Internet prices due to
+higher than average salaries. Both types of cities represent the “risk groups”
+where the digital divide is present. Poor infrastructure tied with low
+salaries turns into backwardness on a digital level.
+
+**Table 2. Cities with the most expensive broadband prices (November 2009)**
+
+# | City | Broadband price  
+($ per month) | Number of providers  
+---|---|---|---  
+79 | [Syktyvkar](http://en.wikipedia.org/wiki/Syktyvkar) | 66 | 2  
+80 | [Nizhnevartovsk](http://en.wikipedia.org/wiki/Nizhnevartovsk) | 67 | 1  
+81 | [Surgut](http://en.wikipedia.org/wiki/Surgut) | 68 | 6  
+82 | [Komsomolsk-on-Amur](http://en.wikipedia.org/wiki/Komsomolsk-on-Amur) |
+72 | 3  
+83 | [Novorossiysk](http://en.wikipedia.org/wiki/Novorossiysk) | 76 | 3  
+84 | [Vladikavkaz](http://en.wikipedia.org/wiki/Vladikavkaz) | 91 | 8  
+85 | [Yakutsk](http://en.wikipedia.org/wiki/Yakutsk) | 102 | 5  
+86 | [Makhachkala](http://en.wikipedia.org/wiki/Mahachkala) | 122 | 6  
+87 | [Nalchik](http://en.wikipedia.org/wiki/Nalchik) | 133 | 6  
+88 | [Norilsk](http://en.wikipedia.org/wiki/Norilsk) | 180 | 4  
+  
+Different prices of broadband in the cities lead to a serious differentiation
+on a regional level. Below is the map of the broadband prices in different
+[Federal Districts](http://en.wikipedia.org/wiki/Federal_districts_of_Russia)
+[EN] (super-regional administration territorial divisions).
+
+[![Price of Broadband in Russia, Alexey Sidorenko for
+GVO](https://globalvoicesonline.org/wp-content/uploads/2010/03/rus-internet-
+prices2-300x271.png)](https://globalvoicesonline.org/wp-
+content/uploads/2010/03/rus-internet-prices2.png)
+
+Price of Broadband in Russia, Alexey Sidorenko for GVO
+
+While in the [Center](http://en.wikipedia.org/wiki/Central_Federal_District),
+[Volga](http://en.wikipedia.org/wiki/Volga_Federal_District) and
+[Urals](http://en.wikipedia.org/wiki/Urals_Federal_District) federal districts
+the situation with the Internet is rather normal (about $30 for broadband,
+which is about 5-7 percent of the average income in 2007 and even less in
+2009), the situation is much worse in the Far East and North Caucasus where
+Internet is not only expensive but also less accessible.
+
+Role of government in promoting broadband is positive but not everywhere.
+Government companies (Center – [Domolink](http://www.domolink.ru/), North-West
+– [Avangard](http://www.avangard-dsl.ru/), Volga –
+[JDSL](http://www.jdsl.ru/), N.Caucasus – [Disel](http://www.diselcom.ru/),
+Urals – [Utel](http://www.u-tel.ru/), Siberia – [Web
+Stream](http://www.wstream.ru/), Far East – [Disly](http://www.disly.dsv.ru/))
+that work in federal districts usually offer the lowest prices and the best
+conditions. At the same time, in the “problematic” regions like Far East and
+North Caucasus, government ISP often face monopoly accusations (like it
+happened with [Dal Svyaz](https://globalvoicesonline.org/2010/03/07/russia-
+divide/)). At the same time, government ISPs are expected to be more likely to
+violate users’ rights and less eager to stick to Net Neutrality principles.
+
+Another dimension of digital divide is the size of the city. The analysis
+shows that the bigger city is the better conditions users have. Internet in
+smaller cities is usually more expensive and there is less provider competion.
+
+**Table 3. Share of broadband price in relation to the average salary**
+
+City inhabitants | Share of broadband price in the average salary  
+---|---  
+1,000,000 + | 3,6%  
+500,000 – 1,000,000 | 5,2%  
+400,000 – 500,000 | 5,6%  
+300,000 – 400,000 | 7,4%  
+200,000 – 300,000 | 8,8%  
+  
+Although Internet penetration rate growth in Russia is impressive, more
+detailed picture shows there's a lot to be done. As in other parts of the
+world, there are several factors influencing digital divide: location near
+main telecommunications arterias, size of the city and it's specialization.
+
+Soviet-era industrial company towns turn out to be less competitive in the
+post-industrial era. Cities of the unstable and underdeveloped North Caucasus
+experience the lack of both telecommunications investment and provider
+competition. Majority of population in smaller cities and towns might have
+passed the digital divide but still live in the “pre-broadband” world with
+little or no access to YouTube and other traffic-sensitive online services.
+
+While government officials in the United States and European Union raise the
+question of the country-wide affordable 30 mbs (or even 100 mbs) in the next
+decades, Russia's aim should be at least 1 megabit per second.
+

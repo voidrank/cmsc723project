@@ -1,0 +1,367 @@
+Kenyan citizen journalists and activists are increasingly turning to popular
+Web 2.0 tools and applications such as wikis, blogs, Facebook, Flickr, Twitter
+and mashups to organize and share news and information about the post election
+crisis, chronicle violence, share crisis photos and raise funds to help the
+needy.
+
+**Mashups**
+
+Kenyan Pundit wrote a post [asking for volunteers to create a
+mashup](http://www.kenyanpundit.com/?p=406) to document violence and
+destruction using [Google Maps](http://en.wikipedia.org/wiki/Google_Maps ):
+
+> “Google Earth supposedly shows in great detail where the damage is being
+> done on the ground. It occurs to me that it will be useful to keep a record
+> of this, if one is thinking long-term. For the reconciliation process to
+> occur at the local level the truth of what happened will first have to come
+> out. Guys looking to do something – any techies out there willing to do a
+> mashup of where the violence and destruction is occurring using Google
+> Maps?”
+
+White African [wrote about the same subject](http://whiteafrican.com/?p=842):
+
+> Basically, you have an incident – that hopefully someone gets a picture or
+> video of. A report on what happened and who was involved, and a location.
+> That information is submitted and then populated into a map-based view that
+> is easy to search by location and/or category.
+
+[Ethan Zuckerman](http://www.ethanzuckerman.com/blog/2008/01/09/digital-
+activists-find-ways-to-help-kenya):
+
+> One major concern in the aftermath of Kenya’s disputed elections has been
+> the possibility that the media is undercounting the dead and injured in
+> incidents of election violence. In a blog post last week, Ory Okolloh
+> suggested a project to document incidents of violence and place them on a
+> web-based map.  
+>  The idea was quickly picked up by Kenyans in the country and in the
+> diaspora, and over the weekend, Kenyan developer David Kobia put together
+> the Ushahidi website, based on a design sketch from White African blogger
+> Erik “Hash” Hersman and input from a wide range of Kenyan bloggers and
+> activists.
+
+Kenyan Pundit's call for a tool to chronicle acts of violence and destruction
+resulted into [Ushahidi](http://www.ushahidi.com). [White
+African](http://whiteafrican.com/?p=845) introduces
+[Ushahidi](http://www.ushahidi.com/). Ushahidi means testimony in Swahili:
+
+> Ushahidi.com is a tool for people who witness acts of violence in Kenya in
+> these post-election times. You can report the incident that you have seen,
+> and it will appear on a map-based view for others to see.  
+>  At the beginning of a project like this the technology portion can seem to
+> be the hardest to get off the ground. In the end, it’s just the tool, and
+> the hard work will come from people in the field who are working with NGO’s
+> to keep this information accurate and to chronicle as much of it as they
+> can.
+
+In “What Social Media Can Be” [Mike Stopforth
+writes:](http://www.mikestopforth.com/2008/01/10/ushahidi-what-social-media-
+can-be/)
+
+> The site is painfully simple in design and concept – it’s a Google Maps
+> mash-up that allows users to report incidences of crime and violence by
+> description and location. Right now this is done via the Web but SMS
+> functionality is in the pipeline. The site doesn’t require registration
+> (because, of course, nobody here wants to make money).
+
+Alfajiri [commenting on
+Ushahidi:](http://alfajiri.wordpress.com/2008/01/10/ushahidicom/)
+
+> During this time of crisis, Kenyans have formed complex information
+> networks, connecting and self reporting while traditional media access has
+> been obstructed by the Kenyan government. Success has been notable but a
+> core group of individuals have implemented something more. They are
+> documenting and verifying the post-election violence from the ground up.
+
+The tool [is evolving rapidly](http://whiteafrican.com/?p=857):
+
+> There is continued refinement and improved functionality being added all the
+> time. Here’s a quick rundown of what we’ve done and are doing.  
+>  • You can now SMS your report to +447624802635 with your mobile phone.  
+>  • You can email your reports and images to tips@ushahidi.com  
+>  • We have added a “Peace Efforts” button to highlight the good things that
+> are happening.  
+>  • The “How you can help” page has started. The first is a way to send money
+> via MamaMikes.com that will be distributed by the Kenyan Red Cross.  
+>  • There are new buttons (with copy/paste code) for you to add to your
+> websites on the about page.
+
+In “Digital activists find ways to help Kenya,” [Ethan
+writes](http://www.ethanzuckerman.com/blog/2008/01/09/digital-activists-find-
+ways-to-help-kenya):
+
+> The rapid development of this application demonstrates a number of important
+> points about the situation in Kenya, and about emergency situations in
+> general:  
+>  – Kenyan bloggers are watching the situation in their country closely, and
+> their combination of passion and technical skill means that we’re likely to
+> see innovative uses of technology to document the unfolding situation and
+> provide assistance to those in need.  
+>  – It’s still lots easier to create a web application quickly than an SMS
+> application, even if the SMS application might be more appropriate. This is
+> important for anyone concerned about applications for the developing world.
+> While we all know that mobiles are the best platform (alongside radio) for
+> reaching broad audiences, we need much better tools to build applications.  
+>  – When a crisis is unfolding, people want to find ways to help, and will
+> build tools online to help. We saw this in the wake of the Boxing Day
+> tsunami, where activists in South Asia and around the world started a series
+> of relief efforts around the SEA-EAT blog. We saw it again during Katrina,
+> where teams around the world worked to create Peoplefinder, a database
+> designed to help family members and friends find each other. And we’re
+> seeing it in Kenya.
+
+**Mobile Phones**  
+[AfricaNews.com has been
+experimenting](http://voicesofafrica.africanews.com/site/page/510:kenya) with
+mobile phones [in reporting the Kenyan
+crisis](http://www.bizcommunity.com/Article/111/78/20824.html):
+
+> With a media blackout in Kenya mobile phones played a vital role in covering
+> the Kenya elections and now they are playing an even more important role in
+> covering those elections bloody aftermath.
+>
+> AfricaNews.com makes use of internet-enabled mobile phones to report on the
+> election crisis in Kenya. Local African journalist, with advanced mobile
+> phone and a portable keyboard, collect text, photo and short video on the
+> events in Kenya as they unfold. The reporters use their mobile phone to
+> publish their reports to http://www.africanews.com. This is the first time
+> the concept of a mobile journalist has been introduced in Africa.
+
+In her post, [Technology for Advocacy in Kenyan
+Crisis](http://www.blacklooks.org/2008/01/technology_for_advocay_in_kenyan_crisis.html),
+Sokari writes about an activist using phone credits to distribute money:
+
+> In an environment of fear and violence with many businesses closed and
+> little or very expensive transport how do you communicate with friends and
+> family? How do you send and receive money when banks and other financial
+> businesses such as Western Union offices are closed? The simple answer is
+> the ubiquitous mobile phone. One activist (for purposes of his personal
+> safety we cannot mention his name) wrote how he was able to distribute a
+> donation of money by purchasing phone credits and dispersing them to
+> colleagues in need. One person in Eldoret needed money for transport, others
+> could not get to a Western Union paypoint to receive funds and so on. He was
+> then able to phone all of his colleagues and ensure they had cashed in their
+> credits and were safe.
+
+[Mashada,](http://www.mashada.com/) a Kenyan online forum, created an SMS
+Hotline to allow Kenyans with no Internet access [to send news using their
+mobile phones](http://inanafricanminute.blogspot.com/2008/01/blogs-sms-and-
+kenyan-election.html):
+
+> Soon after violence erupted, Mashada, a prominent online forum launched an
+> SMS hotline to help share information. Further, several prominent Kenyan
+> blogs are accepting comments via SMS.
+
+At the same time, the Kenyan government was warning mobile phone users of
+possible prosecution if [they use SMS to cause public
+unrest:](http://www.afromusing.com/blog/2008/01/01/quick-update-from-eldoret-
+rift-valley/)
+
+> “The Ministry of Internal Security urges you to please desist from sending
+> or forwarding any SMS that may cause public unrest. This may lead to your
+> prosecution.”
+
+Joshua reminds us of [the power and danger of
+SMS:](http://inanafricanminute.blogspot.com/2008/01/blogs-sms-and-kenyan-
+election.html)
+
+> In Uganda last year, a protest against developing Mabira Forest was
+> organized via mass SMS in Kampala and quickly turned violent and resulted in
+> at least one death.
+
+**Blogs**  
+Global Voices Online has a special Kenya coverage page, [Kenya Elections
+Aftermath 2008](https://www.globalvoicesonline.org/specialcoverage/kenya-
+elections-aftermath-2008/):
+
+[Black Looks
+writes](http://www.blacklooks.org/2008/01/kenya_action_alerts.html) about an
+[Action Alert Blog](http://www.pambazuka.org/actionalerts/index.php) created
+by [Pambazuka News](http://www.pambazuka.org/):
+
+> Pambazuka News has created an Action Alert blog for up to date news and
+> alerts on Kenya.
+
+[White African has listed blogs ](http://whiteafrican.com/?p=841)covering
+Kenyan elections and its aftermath.
+
+**Kenyan Twitterverse**
+
+Afromusing is using her [Twitter channel](http://twitter.com/afromusing) to
+send quick updates and reports from Kenya:
+
+> You can help from anywhere in the world: mamamikes donation page is live
+> http://www.mamamikes.com 03:50 AM January 11, 2008 from web
+>
+> Global voices special coverage page for kenya http://tinyurl.com/2gxmed
+> 02:41 AM January 09, 2008 from web
+>
+> working with mamamikes and Red cross to get an online donation page up.
+> Another meeting set 4 tomorrow. 09:03 AM January 07, 2008 from web
+>
+> NBI:Trying to find Geo Data in Eld for Google Mashup site. Holla if u have
+> info.thx 02:10 AM January 07, 2008 from web
+>
+> credit ordered on mamamikes still not delivered, thx to friends who sambazad
+> credit. Really helped 10:25 AM January 02, 2008 from web
+>
+> A better day. uploading pics to flickr and trying to wrap my mind around
+> this mess. 10:23 AM January 02, 2008 from web
+>
+> going to watch tv for updates, though i really shouldnt, this tension is
+> starting to get to me. 09:48 AM January 01, 2008 from web
+>
+> Posted pics on flickr. Still in Eld, tension eased a bit since its daylight,
+> still precarious situation :( 04:15 AM January 01, 2008 from web
+>
+> kassfm is perhaps the only fm radio station reporting results from diff.
+> areas.theyve had to do it in english swahili & kalenjin 03:03 PM December
+> 27, 2007 from web
+>
+> driving by polling stations, most of eldy area appears to be raila country
+> by large margins 01:39 PM December 27, 2007 from web
+>
+> visited several polling stations in eld. some with long lines some are done.
+> took pics. 04:39 AM December 27, 2007 from web
+>
+> nation media txt and blogger daudi confirm railas problem voting in
+> langata.new registers being printed 01:51 AM December 27, 2007 from web
+
+KenyaNews is a Twitter channel with [updates on what is happening in
+Kenya](http://twitter.com/kenyanews):
+
+> Opposition leaders are planning three days of street protests, starting on
+> Wednesday, raising the possibility of fresh violence. about 14 hours ago
+> from web
+>
+> Kofi Annan is due to arrive tomorrow in the latest attempt to find common
+> ground between the two sides. about 14 hours ago from web
+>
+> Kenya is braced for fresh fighting after last month's bitterly disputed
+> elections, as MPs prepare to take up their new seats. about 14 hours ago
+> from web
+>
+> China paper sees West to blame in Kenya chaos. about 19 hours ago from web
+>
+> Mediation talks seem to have faltered raising doubts of bringing together
+> the warring President Kibaki and Raila Odinga sides. about 19 hours ago from
+> web
+>
+> Human Rights Watch urged the government to allow rallies led by opposition
+> leader Raila Odinga, which are due to start Wednesday. 04:18 PM January 13,
+> 2008 from web
+>
+> Kenya death toll tops 700 as protest rallies loom. 04:17 PM January 13, 2008
+> from web
+>
+> John Kufuor, Ghana's president and the current African Union head, flew home
+> from Nairobi after failing. 07:21 PM January 10, 2008 from web
+>
+> The former UN secretary general, Kofi Annan, was yesterday enlisted to help
+> broker a peace deal in Kenya. 07:20 PM January 10, 2008 from web
+>
+> Kenya President Says No Recount, or Vote. 01:39 PM January 09, 2008 from web
+>
+> Hospitals in towns such as Nyeri say their wards are full of Kikuyu men
+> suffering from wounds from axes, machetes, and bows and arrows. 01:38 PM
+> January 09, 2008 from web
+
+**Facebook**  
+Facebook has also become a platform for fundraising and raising awareness.
+[Kenya’s Post Election Humanitarian
+Crisis](http://www.facebook.com/group.php?gid=8563806021) is created to raise
+awareness the situation in Kenya.
+
+Some of messages left on their page read:
+
+> Hi Nadine, Thanks for wanting to help! The situation in Ukunda is starting
+> to stabilize. However, there are still many families who are struggling
+> financially due to the effects of this crisis. There was a period of two
+> weeks where the market was closed, for fear of looting if they opened. You
+> know how people live there day to day… Anyhow, right now the primary need is
+> for food. There are many children who are going hungry. The money I sent to
+> Mama Kenn, I told her to focus on feeding children in Ukunda who are in
+> need. She has the purest heart of anyone I know and would feed a child
+> before she fed herself without blinking an eye.
+
+> hey, this is the kind of group im looking for. im tired of polital rants and
+> raves and i just wana give wat i can now. so could u please tell me more on
+> the situation in ukunda and which goods will be needed?  
+>  i have some friends living in the area and will be more than willin to send
+> my donations in cash to them and then having the goods which are required
+> delivered to the children.so please let me know wat is needed and to whom.
+> thanks!
+
+> Hey Huss…thanks for the inspiration…i called my Mama last night, I happy to
+> report she is doing ok…but I going to Western Union some money to her as
+> well….keep me posted friend…I feel like we all need to brainstorm some
+> things to do here…hope to see you soon, ox
+
+[Emergency Crisis in
+Kenya](http://apps.facebook.com/causes/view_cause/55307?fb_page_id=7681892185&)
+is created by the [Christian Blind Mission](http://www.cbm.ie/) Ireland:
+
+> CBM is responding to the situation in Kenya. After weeks of political
+> turmoil, violence has claimed the lives of an estimated 500 people and
+> displaced around 250,000 in search of safety.
+
+Another group is [Peace for
+Kenya](http://apps.facebook.com/causes/view_cause/54238?recruiter_id=12371633):
+
+> This cause seeks to raise money for Samaritan's Purse (
+> http://www.samaritanspurse.org/ ) and other Organizations trying to meet the
+> needs of more than 500,000 affected Kenyans, including more than 250,000
+> people who have been driven from their homes. Thousands more are escaping
+> ethnic violence.
+
+**Flickr**  
+There is a [Kenya Elections
+2008](http://flickr.com/groups/kenyaelections2008/) [Flickr
+page](http://whiteafrican.com/?p=857):
+
+> Joshua Wanyama of AfricanPath has offered to help grow and manage images on
+> Flickr of the post-election crisis in Kenya. You can find the Kenya Post-
+> Election Pictures 2008 Flickr group here. Consider sending yours in and
+> tagging your images with “KenyaElection2007
+
+**Wiki**  
+[An online community](http://www.worknets.org/wiki.cgi?) led by a Lithuanian
+activist, Andrius Kulikauskas, is using their community wiki to offer help:
+
+> Meet with us! Meet us in our chat and wiki session to help the Kenyan
+> rebirth and draw inspiration for Lithuania and all the world.  
+>  Chat with us! 8 seconds ago. Fred1: whetherthe number and sentence of
+> Margret has been added to kenyan to call right  
+>  Wiki with us! 1 minutes ago. FredKayiwa: KenyansToCall
+
+[Sokari writes about their
+work](http://www.blacklooks.org/2008/01/technology_for_advocay_in_kenyan_crisis.html):
+
+> One excellent resource has been created by Worknets a global community Wiki
+> site. They have a series of dedicated spaces which provide a resource of new
+> sites and bloggers, action alerts, commentary and chat rooms by and for
+> Kenyans.
+
+[Ethan writes about](http://www.ethanzuckerman.com/blog/2008/01/09/digital-
+activists-find-ways-to-help-kenya) their use of PayPal, M-PESA and Kenya’s
+leading e-commerce site, [Mama Mike’s](http://www.mamamikes.com/):
+
+> Andrius Kulikauskas, a Lithuanian activist, has been asking his online
+> community what they can do to help people in Kenya. They’ve begun a service
+> that raises money via PayPal and transfers it to people in Kenya via mobile
+> phone credit transfer services, like Mama Mike’s, and via M-PESA. They’re
+> vetting recipients based on a simple reputation mechanism – they’re asking
+> friends in Kenya to recommend people in need
+
+**Bridging the Digital Divide**
+
+Finally, what does all this mean in [the context of the digital divide in
+Kenya?: ](http://whiteafrican.com/?p=839)
+
+> While blogging, emails, Twitter and the internet are doing a great deal of
+> good getting the news out of what’s going on in Kenya to the rest of the
+> world, I find myself troubled. You see, the communication that needs to be
+> happening is at the grassroots level. Everyday Kenyans do not have access to
+> any of these services.  
+>  Let’s put our minds and capabilities towards solving real problems for
+> people beyond the technologically elite.
+

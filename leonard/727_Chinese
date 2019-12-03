@@ -1,0 +1,70 @@
+「[小精靈](http://en.wikipedia.org/wiki/Pac-Man)」（Pac-
+Man）有著招牌的圓餅頭，再加上吃東西時「咔嚓咔嚓」的聲音，讓它在現代電玩遊戲中占有一席之地，就全球知名度與遊戲產業影響力而言，其他電玩角色都無法與小精靈匹敵，這個遊戲誕生於八零年代初，是日本電玩產業蓬勃發展的年代，超越無數同時期的產品，至今[仍極受歡迎](http://www.mefeedia.com/news/31317469)。
+
+許多人於五月底慶祝這項遊戲屆滿30週年，當年推出遊戲的日本公司[Namco](http://www.namcobandaigames.com/)更藉此機會，宣布一件新消息：名為「小精靈重生」的新遊戲將在Twitter服務上推出，目前只於日本提供試玩版，人們稱之為「[小圓餅史上最大破壞行動](http://multiplayerblog.mtv.com/2010/05/20/pac-
+man-reborn-to-chow-down-on-twitter-and-mobile-
+devices/)」（更多資訊請追蹤日文Twitter帳號[@pacman_reborn](http://twitter.com/pacman_reborn)）。
+
+[![](https://globalvoicesonline.org/wp-content/uploads/2010/05/Pac-
+man.png)](http://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png)
+
+小精靈1980年版
+
+[![](https://globalvoicesonline.org/wp-content/uploads/2010/05/google-
+pacman.png)](https://globalvoicesonline.org/wp-content/uploads/2010/05/google-
+pacman.png)
+
+Google小精靈標誌2010年版
+
+不過對日本及各國許多民眾而言，想起小精靈30週年的原因，並非來自製作商，而是因為Google公司為紀念這個日子，將公司[標誌製作為小精靈版](http://googleblog.blogspot.com/2010/05/celebrating-
+pac-mans-30th-birthday.html)，讓許多日本民眾使用網路服務時，意外看到這項日本知名的文化出口產品。
+
+日本民眾提及此事時，大多使用[#googlepacman_jp](http://search.twitter.com/search?q=%23googlepacman_jp)這個標籤。
+
+[@cagesmile表示](http://twitter.com/cagesmile/statuses/14450900048)：
+
+> Google今天的標誌是小精靈版！顯然是為紀念30週年，而且未來兩天還能在首頁直接玩！他們重製的品質很好，只要點擊「投幣」（Insert
+> Coin）鈕，就可以開始玩，和舊版感覺一樣吧？我從以前到現在都習慣當觀眾，甚至連第一關都無法過關。
+
+@fall_meet好不容易[才通過第一關](http://twitter.com/fall_meet/statuses/14537245705)，提到小精靈其中一項迷人之處：
+
+> 我不擅長玩遊戲，故只會玩很簡單的項目，但我喜歡小精靈，因為規則非常簡單。
+
+較熟悉小精靈遊戲的ss1200[回憶](http://blog.ss1200.lomo.jp/?eid=939404)：
+
+>
+> 讀高中時，我瘋狂地在[個人電腦](http://en.wikipedia.org/wiki/NEC_PC-6001)PC-6001MkII上玩小精靈，這個複刻板很成功。
+
+部落客兼Twitter用戶Yoshio（[@yoshio_will](http://twitter.com/yoshio_will)）一直卡在第二關，決定[深入研究](http://blog.easy-
+creator.net/archives/52491603.html)，想找辦法直接跳至傳說中的第256關，他分析Google的小精靈程式碼後表示：
+
+> 就我所見，程式碼真的很驚人，他們只用一個數字做為變數，也找不到換行之處，故很難解讀。
+>
+>
+> 他們似乎是使用[HTML5的譯碼工具](http://en.wikipedia.org/wiki/Canvas_element)Canvas來創造圖像，不知道音效怎麼做，似乎是特別用Flash程式語言製作，嗯…
+
+仔細研究後才找到關鍵：
+
+> g.lives是剩餘生命數，g.level是目前所在關卡，一開始我將關卡設定為254，但取消暫停後，遊戲同樣回到第一關畫面，但數字變成254。
+>
+> 然後我先在這個狀態通過這一關，下一關便是第255關了。
+
+透過同樣手法增加生命數後，他突破第255關，但到了第256關，情況便變得奇怪。
+
+[![](https://globalvoicesonline.org/wp-
+content/uploads/2010/05/level256.png)](https://globalvoicesonline.org/wp-
+content/uploads/2010/05/level256.png)
+
+Google版本的小精靈第256關畫面
+
+> 什麼？難道強行進入第256關，就會遇上亂碼？這是我個人看法，Google似乎也重現原版的亂碼。
+
+這其實是原版遊戲便存在的亂碼畫面（[kill
+screen](http://en.wikipedia.org/wiki/Kill_screen)），代表Google版本第256關也忠實呈現原版。
+
+若新版小精靈遊戲與神秘的第256關，還不夠吸引你去嘗試，還可以考慮採用[雙打模式](http://www.worldbuzznow.com/play-
+pac-man-30th-anniversary-as-featured-by-google-2-players/10587)，玩起來更刺激！
+
+校對：[Soup](http://taipedia.selfip.info/mediawiki/index.php/%E4%BD%BF%E7%94%A8%E8%80%85:Soup
+"使用者:Soup")
+

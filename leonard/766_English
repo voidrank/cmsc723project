@@ -1,0 +1,99 @@
+[![Global Voices 3.0 R.I.P \(click for larger
+image\)](https://globalvoicesonline.org/wp-
+content/uploads/2010/04/globalvoices-pre-
+update-300x259.png)](https://globalvoicesonline.org/wp-
+content/uploads/2010/04/globalvoices-pre-update.png)
+
+Global Voices 3.0 R.I.P (click for larger image)
+
+As you may have noticed, a few things have changed here at Global Voices. Our
+old design, beloved as it was, has been replaced. I have been working for over
+a year with the Global Voices community on this massive overhaul of how our
+site looks and works, and we're excited to share it with you today.
+
+For nostalgic readers the screenshot to the right shows the site as it looked
+just before the update.
+
+### Now truly multilingual
+
+Global Voices is one of the most multilingual online communities in the world.
+Our [Lingua project](https://globalvoicesonline.org/lingua/ "Global Voices
+Lingua - our translation project"), where people from around the world
+volunteer to translate Global Voices content into different languages, has
+experienced astounding growth since it began 3 years ago. We now have over
+30,000 translations posted in a slew of different languages, some of which
+you've probably never even heard of. As a developer this growth was almost
+difficult to believe, and presented many challenges, but when you're in the
+business of spreading citizen media as far and wide as possible, growth like
+that is an amazing problem to have.
+
+The original Lingua sites were very simplified versions of the English
+website. When we first developed the system we didn't know how much it would
+end up being used, nor how best to integrate the translations with the English
+originals. Over time it became clear that the only way to show the respect and
+care our translation sites deserved was to integrate them more deeply with the
+English site. Each Lingua site needed to be an equal member of a global
+translation network, rather than a sub-site of an English original.
+
+![Redesign in Chinese and Arabic](https://globalvoicesonline.org/wp-
+content/uploads/2010/04/gv-redesign-zh-ar.png)
+
+Redesign in Chinese and Arabic
+
+That bit of rhetoric has been converted into code and is now a reality. This
+total redesign is being launched simultaneously on all of our Lingua sites,
+and its features apply to all equally. To cement this commitment the English
+version of Global Voices is now labeled as such in its own header, just like
+the other Lingua sites.
+
+The translation system itself has been completely rewritten, allowing for
+translations to _or_ from the English site, as well as chained translations
+between multiple sites. I've also simplified the process of translating posts
+immensely, from a 10-step nightmare begging for human error to the 1-step
+process that it should have been from the start.
+
+It's never been easier or sexier to be a Global Voices translator, if you
+tried it before and thought it was too hard then give it another chance now!
+If you're a polyglot who's never translated for fun then get in touch with the
+Lingua site for your language and see what all the excitement is about.
+
+### What else is new?
+
+In many ways the site is the same as always, just prettier, clearer and easier
+to use. This update wasn't about adding new features so much as making the
+existing ones more effective and available to all the Lingua sites.
+
+One major change is that the whole site is now _fluid-width_ , a web-design
+term that means it stretches based on your window size. This feature was
+chosen to make our site as accessible as possible to all our visitors
+regardless of their hardware. Try resizing your browser to see the effect.
+Global Voices should look great on on huge monitors, tiny netbooks and that
+awful 15″ CRT at the internet café.
+
+We also switched search tools from a basic Google site search to an integrated
+search that displays results more usefully to readers.
+
+### Open Source and WordPress
+
+The site, theme and translation system are built entirely on top of the open-
+source [WordPress](http://wordpress.org/ "WordPress ") platform using lots of
+custom theme and plugin code, as well as various awesome plugins from the
+WordPress community.
+
+While coding the redesign and new Lingua system I've also taken time to give
+back to the community we depend on with [several
+patches](http://core.trac.wordpress.org/search?q=props+jeremyclarke+&noquickjump=1&ticket=on&changeset=on&milestone=on&wiki=on
+"List of patches written by me on behalf of Global Voices that were committed
+to wordpress core") to fix problems and fill in missing features in the core
+of WordPress.
+
+I'm proud to say that Global Voices supports open-source and my contributions
+back to the tools that make this site possible.
+
+### We hope you like it.
+
+It's been years in the making and our entire community has pitched in to lay
+out the principles and work out the details of this redesign. We hope you, our
+readers, think it's as much of an improvement as we do and that it helps you
+enjoy the stories we share even more.
+

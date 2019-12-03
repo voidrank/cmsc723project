@@ -1,0 +1,239 @@
+In a previous [post](https://globalvoicesonline.org/2009/10/12/what-future-
+for-ict4d/), we investigated the future of ICT4D from a pretty high level. In
+this post, I am going to look at some of the new tools that individuals,
+groups, companies and governments can use to develop new projects around
+information and communication technologies.
+
+Our underlying theme is investigating how ICTs affect human development. There
+are many who argue that connection to the internet and/or mobile phone
+technologies will increase people’s participation in government, in economies,
+in education and thus increase their standard of living.
+
+Technology and access to internet has advanced so much in the past years, that
+some will argue that there is no longer a question of whether people in remote
+areas will soon communicate online. Rather, we should talk about what forms of
+communication will take place.
+
+The UK-based blog _Mainstreaming ICT_ , says the time to integrate the [mobile
+phone and the computer](http://mainstreamingict.org/2009/06/technology-for-
+social-change-social-good-community-mobile-channels/) is now.
+
+> The Internet and mobile phones are both communication and information
+> technologies so it makes sense to try to integrate them. We’ve been trying
+> to intergrate them for a number of years with limited success but finally
+> the Internet is becoming widely available and usable on a large number of
+> mobile devices and at a reasonably low cost in many countries.
+>
+> Of course the mobile browser based Internet is a different experience. You
+> have to think in a different way – for instance: -  
+>  • Instead of Email – **Think SMS**  
+>  • Instead of computer sized screen – Think **Mobile Phone screen**  
+>  • Instead of huge functionality – Think **MOST IMPORTANT functionality and
+> simplicity**  
+>  • Instead of flashy stuff and high bandwidth – think **SIMPLE design and
+> low bandwidth**
+>
+> …It makes sense to initially look at linking in with the big social networks
+> such as Facebook/My Space & Ning – they all have Mobile Internet Interfaces
+> but .. the sites weren’t originally designed with mobile in mind and IMHO it
+> really shows.
+
+**Low bandwidth? No problem**
+
+One major problem facing internet users in the developing world is the
+combination of slow connectivity (or, interrupted connections) and graphic-
+intensive websites. News websites and social networking sites are often the
+worst offenders.
+([Here’s](http://www.web2fordev.net/component/content/article/1-latest-
+news/69-social-networks) a nice rundown on the popularity of various social
+networking sites in Africa and Asia.)
+
+Christian Kreutz at the blog _Crisscrossed_ has a theory that many of the
+world’s languages have not been widely translated for applications, because so
+many people can’t read popular websites. The reason? Page load times are too
+long for people with questionable connections.
+
+Here's a few [examples](http://www.crisscrossed.net/2009/04/14/what-does-
+local-content-have-to-do-with-low-bandwidth-applications/):
+
+> • Checking up a profile on Facebook or at least access the log in page,
+> [which has alone almost
+> 800kb!](http://tools.pingdom.com/fpt/?url=http://www.facebook.com&treeview=0&column=objectID&order=1&type=0&save=true)
+> In a cybercafe, where you have to pay fees per minute, it may take up to 3
+> minutes with a dial up modem connection.  
+>  • Video or audio upload is almost impossible with a low bandwidth
+> connection and can cost you a lot when your tariff is measured in volume
+> instead of time.  
+>  • This blog is based on WordPress, which is a great open source tool, but
+> unfortunately not made for a dial up connections. If you want to publish a
+> new post on WordPress (2.7.1), you have to download over 750kb first.
+>
+> Unfortunately even the free and open source community has little activity
+> around low bandwidth solutions.
+
+The blog _Aid Worker Daily_ , based out of the US, has found a
+[solution](http://aidworkerdaily.com/2009/02/16/the-loband-option/) to viewing
+these slow-loading websites:
+
+> I am not sure how many of you are familiar with
+> [Loband](http://www.loband.org/loband/main) but it is one of the best
+> options for viewing websites over low bandwidth connections. It strips out
+> all images, formatting, etc and leaves you with a text only rendering of the
+> page which is still quite legible. You can view Aid Worker Daily over Loband
+> [HERE](http://www.loband.org/loband/filter/com/aidworkerdaily?_ab_request=Go).
+> Loband is the offspring of the geniuses over at
+> [Aptivate](http://www.aptivate.org/Home.html). (Of course, if you are using
+> [Firefox](http://www.mozilla.com/en-US/firefox/) you can always go to Tools
+> -> Options -> Content and deselect ‘Load images automatically’.)
+
+[Here](http://www.loband.org/loband/filter/org/globalvoicesonline?_ab_request=Go)
+is the home page for Global Voices Online via Loband.
+
+_Crisscrossed_ lists other products for low-bandwidth
+[connections](http://www.crisscrossed.net/2009/04/14/what-does-local-content-
+have-to-do-with-low-bandwidth-applications/).
+
+> One really great initiative is [Maneno](http://www.maneno.org/), which not
+> only [tries to provide a low bandwidth blogging
+> solution](http://aidworkerdaily.com/2009/02/22/maneno-a-lightweight-
+> blogging-platform-for-folks-heading-to-the-field/) in Africa, but also
+> focuses on offering multilingual options emphasising on various African
+> languages such as
+> [Bamanankan](http://en.wikipedia.org/wiki/Bambara_language) and
+> [Swahili](http://en.wikipedia.org/wiki/Swahili_language), beside French,
+> English, Arabic and Portuguese. I got in contact with Maneno recently and
+> their team ensured me that their system is designed as low as 13 kb without
+> images and 33 kb including images…  
+>  Twitter can make a difference as it lets you send and receive messages via
+> mobile phone. But, unfortunately, [Twitter gave up its free SMS service a
+> while ago](http://www.e-stas.org/). I asked one of the Twitter founders,
+> Jack Dorsey, at the [e-stats conference when the free service is coming
+> back](https://twitter.com/ckreutz/status/1400518666), to which he replied
+> ‘on mid year.’ This leaves the question, ‘what can be said in 140
+> characters?’ Quite a lot [when you look at the Mobile Voices
+> project](http://www.netsquared.org/projects/mobile-voices) just featured by
+> the Netsquared N2Y2 challenge.
+>
+> But one thing is for sure, just because you only have low bandwidth
+> connection, does not mean you want to see dull, text based websites. There
+> are various ways to make websites look appealing and still reduce the data
+> size considerable. Aptivate [has excellent Web Design Guidelines for Low
+> Bandwidth](http://www.aptivate.org/webguidelines/Home.html).
+
+Full disclosure: Maneno, the multi-lingual, low-bandwidth blogging platform,
+is in part run by three Global Voices authors.
+[Here](https://globalvoicesonline.org/2009/03/03/maneno-a-multilingual-
+blogging-platform-built-for-african-bloggers/) is a GV post about it.
+
+**Micro-blogging for fun and profit**
+
+People like micro-blogging, popularized through sites like Twitter and the
+business-oriented Yammer, because it is fast and relatively low-bandwidth.
+It’s quicker and easier than email and often even more informal. Micro-
+blogging has changed the way groups conduct [crisis
+management](http://aidworkerdaily.com/2009/03/25/why-microblogging-might-
+prove-a-good-fit-for-aid-agencies/), [event
+coverage](https://globalvoicesonline.org/2009/06/13/iran-storm-of-protest-
+after-election/) and issue advocacy.
+
+But not everyone wants to attempt to micro-blog on the big sites because of
+the lack of privacy. There are a number of technologies that allow
+organizations to put micro-blogging to their own use to facilitate community
+building online.
+
+Louis Gray, a US-based blogger,
+[explains](http://blog.louisgray.com/2008/08/identica-and-power-of-
+microbranded.html) the federated platform of Laconi.ca, which he describes as
+a “group Twitter” – speaking to a distinct community rather than to the whole
+world.
+
+> Well, actually, it's more of a small community concept I'm refering to –
+> your business can actually build communities off of this protocol, starting
+> with the software that Identi.ca has provided. Identi.ca and Twitter are
+> both very broad communities. People of all types and tastes are on those
+> services. Those services are good for that – it's a great way to build
+> relationships, meet new people, and find information. However, there is no
+> way currently for me to associate only with those of like tastes and
+> culture. For instance, if I am into college football and you are not, you
+> aren't going to be interested in the details of the games I'm watching….
+>
+> Now, what if [the US-based sports network] [ESPN](http://espn.go.com/) were
+> to launch a version of Laconi.ca just for sports lovers? It would just take
+> a simple install of Laconi.ca and a little cobranding of their logo, look,
+> and feel and soon an entire community of sports lovers would be sharing
+> their love for sports, communicating back and forth, and showing their other
+> sports-loving friends what they're doing in their sports-loving life. At the
+> same time, they could still follow all of those same friends they follow
+> over on Identi.ca and even other interest communities, all while still on
+> the ESPN sports community, remaining on the ESPN site. Imagine if this same
+> technique was launched for Moms, Dads, religions, or even just your local
+> city or town?
+
+[Here](http://staynalive.com/articles/2008/08/15/laconicas-not-the-only-cool-
+kid-in-town-introducing-openmicroblogger/) is a write-up on another open
+source micro-blogging platform: OpenMicroblogger.org
+
+**My mobile phone, my friend**
+
+The last post in this series began with the argument that we need to update
+the old story of the fisherman using his mobile phone to find the highest
+prices for his product. Back to the blog _Crisscrossed_ ,
+[here](http://www.crisscrossed.net/2009/05/11/mobile-activism-in-africa/) is
+an update on what makes the mobile phone so important.
+
+> It is so special because it combines all former media, such as telephone,
+> Internet, and even radio and television, and because one can:  
+>  1\. Communicate and receive information (radio, television and Internet)  
+>  2\. Document and collect information  
+>  3\. Publish information in text, audio and video  
+>  4\. Can network in different ways on a peer-to-peer basis
+
+He also noted the mobile phone will help shape the public sphere by allowing
+citizen [journalists to take
+photos](http://voicesofafrica.africanews.com/site/Guinness_factory_pollutes_water_sources/list_messages/21566).
+Phones allow people to participate in radio programs and through SMS-based
+campaigns. And they allow people to [monitor
+elections](http://www.kubatana.net/html/ff/ff_cont.asp).
+
+Patrick Meier, from the group _DigiActive_ ,
+[argues](http://www.slideshare.net/iRevolution/digi-active-for-mobile-
+active-2008-final-presentation) that people can now become activists simply by
+using a mobile phone. Portable telephones have been employed to organize and
+coordinate protests – specifically in the Philippines, Spain and Pakistan.
+Mobile phones have also been used to document human rights abuses, in Egypt,
+Tibet and Morocco.
+
+But problems do exist. The cost of SMS communication is very high, [especially
+in Africa](http://afromusing.com/2009/10/09/its-2009-mobile-costs-should-be-
+lower-yes-its-a-bit-of-a-rant/). Mobile networks can be controlled by the
+government, Kreutz says. And, mobile providers are in businses to make money,
+not facilitate protest marches.
+
+**Sending hundreds of SMS texts**
+
+FrontlineSMS distributes a program allowing users to send and receive SMS
+messages in large groups without having to hook up to the internet.
+
+[Here](http://pulseandsignal.com/2009/07/17/can-your-cell-phone-change-lives/)
+is a write up in the blog _Pulse + Signal_ about a FrontlineSMS project in
+Malawi, where they [distributed](http://venturebeat.com/2009/09/03/phones-
+deliver-doctors-orders-in-africa-with-frontlinesms/) mobile phones so doctors
+in hospitals can communicate with health workers in remote villages.
+
+> Despite all of the technological advancement surrounding these portable
+> command centers of communication – all the bells and whistles that come
+> equipped – we are at a point in the public/global health world hardly any of
+> it matters.
+>
+> A large amount of [moble technology for health] mHealth’s impact is being
+> focused into developing, low-resource countries where there are numerous
+> health issues needing to be addressed. The helpful technology that comes
+> into play is SMS (Short Messaging Service). Fondly referred to as texting,
+> SMS is one of the most basic aspects of the cell phone where data entered
+> can be sent back and forth between phones. This service has been wildly
+> useful in the implementation of more effective health initiatives around the
+> world.
+
+Finally, a video of FrontlineSMS staff training community health workers using
+SMS technology.
+

@@ -1,0 +1,442 @@
+Over the past week we have published a number of posts to present our
+conclusions and recommendations to the technology for transparency movement by
+focusing on specific categories of projects: [aid
+transparency](https://globalvoicesonline.org/2010/05/15/the-aid-transparency-
+movement/), [budget
+monitoring](https://globalvoicesonline.org/2010/05/17/technology-for-
+transparency-review-part-iii/), [election
+monitoring](https://globalvoicesonline.org/2010/05/17/technology-for-
+transparency-review-part-iii/), [civic
+complaints](https://globalvoicesonline.org/2010/05/18/technology-for-
+transparency-review-part-iv/), and [parliamentary
+informatics](https://globalvoicesonline.org/2010/05/20/technology-for-
+transparency-review-part-v/).
+
+Those five categories encompass the vast majority of projects that we
+documented throughout our research. However, there are five other categories
+of technology for transparency projects that are also worth reviewing from a
+thematic perspective.
+
+### Crime Mapping
+
+A number of websites have cropped up over the past few years in the United
+States and United Kingdom to add transparency and accessibility to crime
+reports from municipal police departments.
+[CrimeMapping.com](http://www.crimemapping.com/), [Oakland
+Crimespotting](http://oakland.crimespotting.org/),
+[CrimeMapper](http://maps.police.uk/), [LAPD Crime
+Maps](http://www.lapdcrimemaps.org/),
+[CrimeReports](http://www.crimereports.com/),
+[SpotCrime](http://www.spotcrime.com/), [Crimedar](http://www.crimedar.com/),
+and [EveryBlock](http://www.everyblock.com/) (which began in 2005 as
+[ChicagoCrime.org](http://www.chicagocrime.org/)) are just a few such
+examples. Outside of the United States and United Kingdom the majority of
+crime mapping projects seem to be based in Latin America, which
+[claims](http://www.joshuafrens-string.com/2010/05/citizen-security-democracy-
+economy.html) 8% of the world's population, 40% of world's homicides, and 66%
+of kidnappings.
+
+[WikiCrimes.org](http://www.wikicrimes.org) is a collaborative, global,
+multilingual mapping of crimes around the world that is built with [WikiMapps
+software](http://wikimapps.com/). It was conceived by [Vasco
+Furtado](http://www.wikinova.com.br/vasco), Professor at the University of
+Fortaleza, Brazil where he coordinates a research group in “Knowledge
+Engineering.” All data can both be imported and exported in the open standard
+KML format. WikiCrimes currently has 13,117 reports of crime, almost all of
+which are based in Brazil. Reports can be filtered by category, time, and
+credibility. Users can sign up for notifications of crime reports based on
+their customized filters, and there is a beta mobile application available in
+Portuguese. All crime reports are ranked by their number of views, comments,
+and confirmations, and are [re-distributed via
+Twitter](http://twitter.com/wikicrimes). Users can confirm crime reports by
+linking to relevant news items or video and photographic evidence of the
+actual crime. So far the most commented crime is a
+[homicide](http://www.wikicrimes.org/main.html?idcrime=8BB0E3FEBCFFADD2E2DF535EE2B7D223)
+that took place on March 29, 2008 at 11 in the evening in Sao Paulo. It has
+received 22 positive confirmations, one negative confirmation, and four
+comments.
+
+![wikicrimes.org](https://globalvoicesonline.org/wp-
+content/uploads/2010/05/Screen-shot-2010-05-21-at-4.39.PM_.jpg)
+
+[Delitos Ecuador](http://www.delitosecuador.com/) is a project of
+[Fundapi](http://www.fundapi.orgu) which uses
+[Ushahidi](https://transparency.globalvoicesonline.org/tools/ushahidi) to
+collect and aggregate crime reports in Ecuador. Reports can also be submitted
+via Twitter using the hashtag
+[#delitosEC](http://twitter.com/#search?q=%23delitosEC). The Illegal Drug
+Trade Map in Argentina combines a [blog with a Google
+map](http://mapadelnarcotrafico.blogspot.com/). It was created by the
+Argentinian Association Against Drugs and enables citizens to learn more about
+the illegal drug trade in Argentina, and to submit locations where they have
+seen drug dealing take place. [Panamá
+Transparente](https://transparency.globalvoicesonline.org/listing/panamá-
+transparente) uses Ushahidi to aggregate and map reports about crime in
+Panama. [Iluminemos Mexico](http://www.iluminemosmexico.org.mx/) is a citizen
+network against violence in Mexico that maps crimes and invites users to
+discuss and implement solutions to internal security problems. Outside of
+Latin America,
+[Sithi](https://transparency.globalvoicesonline.org/project/sithi) is a
+Cambodian human rights portal that aims to crowdsource and curate reports of
+human rights violations across multiple human rights organizations.
+
+**Recommendations:**
+
+While most crime mapping websites in the United States visualize official
+crime data from municipal police departments, which can then be confirmed and
+commented on by users, all of the crime mapping projects we documented depend
+on individual citizens to provide the information. This is likely due to the
+fact that police departments in most of the world still do not publish their
+crime reports, much less in a structured format that can be automatically
+mapped and re-purposed. We recommend to crime mapping project coordinators
+that they work in collaboration with local police departments in order to
+automate the publishing of official crime data. If a project has successfully
+convinced a police department to publish its crime reports, we suggest that
+they publish their experience to help provide like-minded projects with an
+advocacy strategy.
+
+While mapping crime helps us better understand both where it occurs and how
+crime spreads over time, it does not necessarily lead toward pro-active
+solutions. In fact, it can even lead to paranoia and social exclusion if
+residents react by merely investing in higher walls and more expensive alarm
+systems. Crime mapping platforms should focus on prevention as much as after-
+the-fact reporting. We recommend that they integrate their content with social
+groups that are working in neighborhoods where crime is prevalent and youth
+are at risk.
+
+We believe that crime mapping platforms should collaborate with local
+bloggers, journalists, and activists to host monthly discussions about how to
+deal with a crime problem that has been particularly troublesome over the past
+four weeks. We suggest that it is useful to think of crime through the lens of
+[epidemiology](http://en.wikipedia.org/wiki/Epidemiology), with a focus on
+curing the disease.
+
+### Extractive Industries
+
+[The Deepwater Horizon oil
+spill](http://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill)
+[illustrates](http://news.bbc.co.uk/2/hi/world/us_and_canada/10134881.stm) and
+justifies the public's interest in the activities of extractive industries.
+The [Extractive Industry Transparency Initiative](http://eiti.org/) aims to
+bring about greater disclosure of payments from companies to governments,
+contracts and information on how revenues are spent by the oil, mining, and
+gas sectors. We believe that the movement for greater extractive industry
+transparency would benefit from the use of technology to bring about greater
+awareness of the activities of the extractive industries, but so far we have
+been able to find few examples of existing projects.
+
+[Publish What You Pay](http://www.publishwhatyoupay.org/en/activities) is a
+global civil society coalition that helps citizens of resource-rich developing
+countries hold their governments accountable for the management of revenues
+from the oil, gas and mining industries. It has supported a number of
+[capacity building workshops
+worldwide](http://www.publishwhatyoupay.org/en/activities). [Landman Report
+Card](http://www.landmanreportcard.com/) is a project of the [ExtrAct group at
+MIT](http://civic.mit.edu/projects/c4fcm/extract) which aims to [provide
+information](http://civic.mit.edu/news/bringing-the-power-of-information-to-
+the-people) and tools to residents whose land is coveted by oil and gas
+companies. While its focus is almost entirely on the United States, the
+platform and resources can also be used by residents worldwide.
+
+[Nomad Green](http://en.nomadgreen.org) is a multilingual platform for
+Mongolian environmental citizen journalists to document environmental threats
+and climate change in their country. Much of their reporting and documentation
+has focused on the environmental and social impact of [open-pit
+mining](http://en.wikipedia.org/wiki/Open-pit_mining). They use [SeeClickFix
+to map examples of harmful and illegal mining](http://en.nomadgreen.org/map/),
+and to encourage direct action. The [Observatory of Mining Conflicts in Latin
+America](http://www.olca.cl/ocmal/) has a rudimentary map which links to
+information about mining-related community conflicts that have taken place
+throughout Latin America. So far it links to information about 136 different
+conflicts.
+
+**Recommendations:**
+
+We recommend that [Publish What You Pay](http://www.publishwhatyoupay.org/),
+[Revenue Watch Institute](http://www.revenuewatch.org/our-work/projects), and
+the [Extractive Industry Transparency Initiative](http://eiti.org/) all attend
+and host barcamps that invite technologists and bloggers to strategically
+discuss how online tools can be used to bring about more transparency in the
+extractive industries – both in terms of environmental/social impact and also
+financial corruption. The [World Wildlife Federation's Amazon
+Map](http://www.worldwildlife.org/what/wherewework/amazon/interactivemap.html)
+and the [Louisiana Bucket Brigade Oil Spill Crisis
+Map](http://oilspill.labucketbrigade.org/) are two models for mapping impact,
+whereas [Sourcemap](http://www.sourcemap.org/) illustrates a potential
+platform to map the flow of money related to extractive industries.
+
+### Local Government
+
+In our [podcast interview](https://globalvoicesonline.org/2010/02/09/podcast-
+interview-with-fabiano-angelico-of-transparncia-brasil/), Fabiano Angelico
+observed that while most technology for transparency projects focus on federal
+government transparency, their potential for impact is in fact much stronger
+at the local level where users are likely to be more invested in policy
+decisions that directly affect their daily lives. Compared to national level
+projects we were able to find relatively few technology for transparency
+projects at the local level, however it is also likely that there is less
+awareness and available information about those projects.
+
+[Local Accountability Portals in
+Atitlan](https://transparency.globalvoicesonline.org/listing/local-
+accountability-portals-atitlan) provides easy-to-use and cheap tools to help
+local municipalities of four different villages in the department of Sololá to
+[publish all the information](http://comude.lagungt.org/) required by law on
+their local government websites. [Concejo Visible
+Bucaramanga](https://transparency.globalvoicesonline.org/listing/consejo-
+visible) is an initiative coordinated by Universidad Industrial de Santander
+in Colombia to make more transparent the activities of the Bucaramanga
+Municipal Council Administration. It also opened a collaborative space to
+share ideas and discuss policies that matter to them. Concejo Visible
+Bucaramanga is, in fact, one of a number of similar citizen-led transparency
+initiatives that make up the Colombian [Network of Citizen
+Observers](http://www.redobservatoriosconcejo.org/).
+
+[Adote um Vereador](https://transparency.globalvoicesonline.org/project/adote-
+um-vereador) encourages Brazilian citizens to blog about the work of their
+local elected officials in order to hold them accountable. Fabiano Angelico,
+our research reviewer who is also based in Sao Paulo, [ suggests
+](https://transparency.globalvoicesonline.org/project/adote-um-
+vereador#comment-24) that participating bloggers should pick a monthly topic
+and try to raise awareness and advocate for more government data related to
+that one topic. It is worth noting that a similar “adopt a politician”
+campaign began in Peru in 2008 when the well known journalist Rosa María
+Palacios [asked](http://peru21.pe/impresa/noticia/tenemos-derecho-
+saberlo/2008-09-06/223853) citizens to mount pressure in order to get
+information about the operational expenses of national congressmen. Juan
+Arellano wrote an[ in-depth review of the
+project](https://globalvoicesonline.org/2008/10/03/peru-bloggers-adopting-
+congressional-representatives/), which is no longer active following the
+overwhelming resistance by most congressmen.
+
+**Recommendations:**
+
+We recommend to all developers and coordinators of local technology for
+transparency projects that they read Georg Neumann's post “[Developing Hyper-
+Local Integrity Systems to fight and prevent
+corruption](http://socialtransparency.wordpress.com/2010/03/11/developing-
+hyper-local-integrity-systems-to-fight-and-prevent-corruption/)“, which
+encourages such projects to use the [National Integrity System
+Assessment](http://go2.wordpress.com/?id=725X1342&site=socialtransparency.wordpress.com&url=http%3A%2F%2Fwww.transparency.org%2Fpolicy_research%2Fnis&sref=http%3A%2F%2Fsocialtransparency.wordpress.com%2F2010%2F03%2F11%2Fdeveloping-
+hyper-local-integrity-systems-to-fight-and-prevent-corruption%2F) as a
+holistic framework to analyze both the extent and causes of corruption in a
+given country.
+
+We also support and encourage the replication of “adopt a politician” projects
+in all municipalities worldwide to create more awareness and accountability at
+the local level.
+
+### Private Sector:
+
+We specifically set out to document projects that aim to increase government
+transparency and political accountability, but throughout the course of our
+research it became clear that several private sector transparency projects are
+explicitly in the public's interest, including those related to consumer
+rights and the environmental/social impact of corporate behavior.
+
+[Quien Paga Manda](http://www.quienpagamanda.com/) (“Who Pays is in Charge”)
+is a Costa Rican blog by former journalist (and Technology for Transparency
+Network advisor) Hazel Feigenblatt. It serves as an information resource about
+the responsiveness of businesses to customers who have received poor service.
+It is also meant to amplify the voices of citizens who otherwise have no
+recourse to hold private businesses accountable. Issues are categorized by
+electronics, banks, restaurants, public services, and vehicles.
+[Reclamos.cl](http://www.reclamos.cl/) is a similar consumers’ rights platform
+based in Chile, which has a strong focus on working with broadcast media to
+distribute and amplify stories about companies that are unresponsive to
+consumer complaints. So far they have managed to facilitate 1,869 mainstream
+media stories, which are broken down by media outlet on their [front
+page](http://www.reclamos.cl/). In addition to filing complaints, users can
+also list recommendations for positive service experiences. A [business
+directory](http://www.reclamos.cl/directorio_de_empresas) lists complaints by
+business, and select complaints are featured on the “emphasized complaints”
+page. Every complaint lists the number of comments it has received and the
+number of times it has been read.
+
+[Sourcemap](http://www.sourcemap.org/) is an open source, global platform for
+researching, optimizing and sharing the supply chains behind a number of
+everyday products. “We believe that people have the right to know where things
+come from and what they are made of,” declares the website. Sample sourcemaps
+include a [Giant TCR '04 Bicycle](http://www.sourcemap.org/object/giant-
+tcr-04-bicycle), [iPod](http://www.sourcemap.org/object/ipod-production),
+[Tesla Roadster](http://www.sourcemap.org/object/tesla-roadster), and [IKEA
+Sultan Alsarp bed](http://www.sourcemap.org/object/ikea-sultan-alsarp-bed).
+Sourcemaps are organized by user-submitted tags, and also by “most favorited”,
+“most commented”, and “most complex”.
+
+[CorpWatch](http://www.corpwatch.org/) is a San Francisco-based aggregator and
+platform of articles, blog posts, investigative reports, statistics, and
+multimedia related to the corporate accountability worldwide. It categorizes
+its content by
+[industry](http://www.corpwatch.org/article.php?list=type&type=203) and
+[issue](http://www.corpwatch.org/article.php?list=type&type=166).
+
+**Recommendations:**
+
+In most developing countries the past two decades have seen the privatization
+of many industries that were once run by the government. As privatization
+continues, citizens must develop new tools to hold those new private
+corporations accountable. Archon Fung rightly [points
+out](http://www.nextgov.com/nextgov/ng_20090903_7217.php) that the
+transparency movement should focus on private companies at least as much as
+government agencies. We recommend to all technology for transparency activists
+that they invest more of their time on projects that hold corporations
+accountable.
+
+All of the above-mentioned projects publish content related to multinational
+corporations. Most of them categorize that content per corporation to create
+site-wide business directories. But we do not yet have an aggregator of all of
+this related content across multiple platforms to provide a more comprehensive
+look at the responsiveness, behavior, and social/environmental impact of major
+corporations. We recommend that private sector transparency projects convene a
+conference to agree on semantic standards that can easily be aggregated and
+re-purposed across their platforms.
+
+As one of the ultimate goals of such projects is to improve the behavior and
+responsiveness of corporations, we recommend that private sector transparency
+projects partner with business schools to systematically study what advocacy
+strategies are most effective in convincing corporations to voluntarily become
+more accountable. For example, is it possible to organize a competition on
+[Sourcemap](http://www.sourcemap.org/) where major clothing companies
+voluntarily submit the supply chains of their products to compete for the
+lowest carbon footprint?
+
+### Advocacy:
+
+Admittedly, the most nebulous category of projects on the Technology for
+Transparency Network is “advocacy.” At worst it can be seen as something of a
+miscellaneous dumping ground of all projects that don't belong elsewhere. On
+the other hand, advocacy projects can also be seen as the glue which holds
+together all of the above-mentioned categories, and tries to fill the gaps in
+the transparency and accountability ecosystem. Unless awareness is spread in
+government, the media, and civil society about the need for such projects,
+they will never scale up to a level where their impact can be measured over
+time.
+
+[More information more Rights [Más Información Más
+Derechos]](https://transparency.globalvoicesonline.org/listing/more-
+information-more-rights-más-información-más-derechos) promotes public debate
+on access to public information in Colombia. In addition to its blog, it also
+promotes discussion and distributes information via
+[Twitter](http://twitter.com/mas_info),
+[Facebook](http://www.facebook.com/pages/Mas-Informacion-Mas-
+Derechos/142709506085),
+[Slideshare](http://www.slideshare.net/masinformacionmasderechos), and
+[Scribd](http://www.scribd.com/masinformacionmasderechos).
+[Képmutatás](https://transparency.globalvoicesonline.org/project/képmutatás),
+which means “hypocrisy” in Hungarian, advocates for more transparency in
+campaign financing in Hungary by estimating the unreleased expenses made by
+political parties during election campaigns and distributing their findings
+through traditional and social media.
+[Kubatana.net](https://transparency.globalvoicesonline.org/project/kubatananet)
+has built a network of over 200 civil society organizations in Zimbabwe, an
+archive of over 15,800 documents, and an SMS subscriber list of over 9,000
+individuals. It promotes collective action, such as a campaign to determine
+how toll booth revenue is being used by the government.
+[Saatsaam](https://transparency.globalvoicesonline.org/listing/saatsaam),
+which means ‘clean’ in Khmer, aims to encourage public participation in
+promoting transparency by raising awareness about the impact of corruption,
+and making related documents freely available.
+[ProAcceso](https://transparency.globalvoicesonline.org/project/proacceso),
+founded by Mercedes de Freitas of the Venezuelan chapter of Transparency
+International, is a coalition of organizations in Venezuela that advocate for
+timely, relevant government data related to public health, education,
+politics, law enforcement, the use of public resources, and salaries of public
+officials.
+
+**Recommendations:**
+
+Most advocacy projects we documented target either governments or the general
+public in their efforts to increase awareness about the importance of
+transparency and accountability, and the role that open data plays in bringing
+about both. We recognize that each audience is distinct and requires different
+strategies.
+
+For groups advocating to governments, we recommend that they frame their
+advocacy in terms of cooperation rather than hostility. Transparency and
+accountability should be framed as pathways toward political credibility. We
+specifically recommend that advocacy groups seek out like-minded supporters
+who work in high government positions and depend on them to help promote and
+amplify the importance of transparent governance and open data from within.
+
+For groups advocating to the general public, we recommend that they work
+closely with both mainstream and social media. The [World
+Bank](http://web.worldbank.org/WBSITE/EXTERNAL/WBI/EXTWBIGOVANTCOR/0,,menuPK:1740542~pagePK:64168427~piPK:64168435~theSitePK:1740530,00.html)
+and [Transparency International](http://www.transparency.org/) have published
+a number of guides and white papers on how to design effective anti-corruption
+campaigns. _[People, Spaces,
+Deliberation](http://blogs.worldbank.org/publicsphere/)_ , a blog of the World
+Bank's CommGAP initiative, also frequently publishes recommendations and case
+studies related to advocacy campaigns for transparency and accountability.
+
+As much as possible, avoid acronyms and unnecessarily technical language.
+Creativity always helps draw attention to your cause. For example, [Fifth
+Pillar](http://www.5thpillar.org/), an NGO headquartered in Chennai, India,
+printed “[Zero Ruppees](http://zerocurrency.org/)” bills with the image of
+Ghandi to be given to any official asking for a bribe. The initiative was
+covered by [CNN](http://www.cnngo.com/mumbai/none/zero-rupee-833044), the
+[Economist](http://www.economist.com/world/asia/displaystory.cfm?story_id=15393714),
+the
+[Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/india/7137567/India-
+issues-zero-rupee-banknotes.html), [Boing
+Boing](http://boingboing.net/2010/02/05/zero-rupee-note-that.html), and many
+other international media outlets. Fifth Pillar received calls from interested
+groups in Nepal, Argentina, Mexico, France and Germany who wanted to implement
+their own zero currency projects.
+
+The Zero Rupees initiative was a creative response to spread awareness about
+the problem of bribery in India. Similar creativity should be applied to
+initiatives and campaigns that advocate for open government data.
+
+### Conclusion:
+
+With this post we conclude the first phase of our research into the role of
+technology in the transparency and accountability movement. Our
+[platform](https://transparency.globalvoicesonline.org/), however, remains
+open to new submissions of relevant, innovative projects, and we anticipate a
+second phase of research with a greater focus on evaluation for impact.
+
+One of the most difficult challenges throughout our research was simply
+developing a taxonomy to categorize and describe the projects we documented.
+We recognize that technology for transparency projects might choose to
+describe themselves and their objectives in language that differs from
+traditional anti-corruption organizations and the donors that fund them. We
+believe that categories on the website will always be dynamic and will shift
+as new projects come online and maturing projects evolve their objectives and
+strategies.
+
+Over the next few days all of our research will be bundled into a single PDF
+document for the sake of cohesiveness and distribution. However, we emphasize
+that the distribution of reports is not as significant as the distribution of
+new ideas that turn into concrete projects and partnerships. As such, the
+objective of the Technology for Transparency Network will always be to
+facilitate the sharing and learning of skills and strategies across projects,
+sectors, and communities. We aim to translate our findings into as many
+languages as possible. (Already our findings have been translated into
+[Portuguese](https://pt.globalvoicesonline.org/?p=7612),
+[French](https://fr.globalvoicesonline.org/?p=34542),
+[Chinese](https://zh.globalvoicesonline.org/hant/2010/03/09/5810/),
+[Spanish](https://es.globalvoicesonline.org/2010/03/25/comentario-sobre-
+tecnologia-para-la-transparencia-parte-i/), and
+[Bahasa](https://id.globalvoicesonline.org/2010/03/24/tinjauan-proyek-
+technology-for-transparency/).) In the future we hope to host live chats with
+developers, bloggers, and activists focused on similar works of engagement in
+order to spread the best ideas and come up with new ones.
+
+We will especially re-distribute our findings, conclusions, and
+recommendations to all groups and projects that have been mentioned throughout
+our research. And we will work with like-minded research and mapping projects
+including [ParticipateDB](http://participatedb.com/),
+[Participedia](http://www.participedia.net/wiki/Welcome_to_Participedia), the
+[International Association for Public Participation](http://www.iap2.org/),
+the [National Coalition for Dialogue &
+Deliberation](http://www.thataway.org/),
+[ePractice](http://www.epractice.eu/), [MobileActive's
+mDirectory](http://mobileactive.org/areaofpractice/Democratic+Participation),
+and [LocalLabs](http://forums.e-democracy.org/groups/locallabs) to ensure that
+our work is cross-linked and cross-verified.
+
+We encourage interaction, new ideas, and challenges to everything we have
+published. Please do get involved to help push the discourse and the movement
+forward.
+
