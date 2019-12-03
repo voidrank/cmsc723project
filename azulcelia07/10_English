@@ -1,0 +1,196 @@
+![Poly logo](https://globalvoices.org/wp-
+content/uploads/2017/03/poly_logo-800x450.jpeg)
+
+Image courtesy Wikitongues.
+
+_A[version of this post](https://medium.com/r12n/learning-every-language-in-
+the-world-with-poly-de1fef273c58) was originally published at
+[r12n](https://medium.com/r12n)._
+
+[Wikitongues](https://wikitongues.org/) founders and directors Daniel Bogre
+Udell and Frederico Andrade have embraced an ambitious mission to document —
+and teach — every language in the world. And by “every language,” they really
+mean every language, including those estimated 3,000+ [languages that are
+unwritten](https://www.ethnologue.com/enterprise-faq/how-many-languages-world-
+are-unwritten-0), the world’s 300+ sign languages, and even constructed
+languages (conlangs) like [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
+and [Lojban](https://mw.lojban.org/papri/Lojban).
+
+Skepticism about such grand claims is natural, but it’s worth reviewing the
+project’s work over the past several years, work that may yet warrant such
+optimism. I recently spoke with them about the development of their language
+documentation and learning platform called Poly.
+
+### Wikitongues
+
+Wikitongues is a Brooklyn-based nonprofit that emerged from Bogre Udell and
+Andrade’s shared interest in languages and technology. Bogre Udell, who is
+also a [Global Voices contributor](https://globalvoices.org/author/daniel-
+bogre-udell/), was raised in a monolingual English household, but his interest
+in languages was sparked by living in a minority language community. He spent
+time in Spain, first in Aragon and later in Catalonia. Learning Catalan
+greatly affected his perspective on languages, and on the world: “I started
+engaging with Spain in a very different way from most foreigners, and I was
+engaging in Europe in a way that most Europeans don’t.” Andrade was [raised in
+a bilingual English-Portuguese household](https://creatorsandcreatives.com/as-
+languages-go-extinct-2595afdf2ed4), and later picked up several other
+languages. The founders shared a profound respect for the value of linguistic
+diversity, and were frustrated that the issue does not loom larger in the
+public sphere.
+
+“Children are taught how many countries there are, and [are] taught the
+regions of their own country,” Bogre Udell notes. “No one’s taught that there
+are 7,000 languages. We still see in the media today that linguistic
+discrimination is still pretty commonplace.” This shared passion for language
+— paired with their backgrounds in technology and design — provides the
+theoretical drive and practical foundation for Wikitongues.
+
+![Every language in the world](https://globalvoices.org/wp-
+content/uploads/2017/03/wikitonguesBanner-800x201.jpg)
+
+Some of Wikitongues’ video participants. Image courtesy Wikitounges.
+
+In fall 2012, Bogre Udell began video-recording short oral histories of his
+neighbors in Brooklyn, asking his subjects to speak in their native languages.
+New York is perhaps the [most linguistically diverse
+city](https://www.fastcoexist.com/1681444/the-melting-pot-of-new-york-seen-in-
+its-multilingual-tweets) in the world, with more than 700 languages spoken
+there. Bogre Udell quickly acquired a diverse range of videos which he began
+posting to a YouTube channel: “In just a few weeks we were able to record
+something like 40 different languages.” Somewhat to his surprise, he found the
+channel quickly attracted a global audience.
+
+The following spring, Bogre Udell’s friend (and fellow Parsons School of
+Design alumnus) Andrade joined the effort, and they continued recording videos
+in New York, and also traveled to collect recordings from communities
+throughout the US. As the project gained attention and popularity, offers to
+collaborate began coming in from all over the world. Wikitongues eventually
+incorporated as a nonprofit, and has coordinated a careful effort to document
+language via short videos, with a primary focus placed on endangered
+languages. As of this writing, the [Wikitongues YouTube
+channel](https://www.youtube.com/user/WikiTongues) boasts 347 videos of
+languages from every human-inhabited region of the world.
+
+The latest video, for example, features speakers of
+[Mirandese](https://en.wikipedia.org/wiki/Mirandese_language), a minority (but
+co-official) language of Portugal with a few thousand speakers.
+
+Documentation is a critical step in the revitalization process of a language,
+but the path from documentation to producing new speakers is seldom direct. In
+the late summer of 2014, the Wikitongues founders came across an [article
+describing the work of Marie
+Wilcox](https://www.nytimes.com/2014/08/19/opinion/who-speaks-wukchumni.html).
+Wilcox, born in 1933, is the last fluent speaker of
+[Wukchumni](https://en.wikipedia.org/wiki/Wukchumni), one of many endangered
+indigenous languages of present-day California. For over a decade, Wilcox had
+worked with her daughter Jennifer Malone and others to document her language,
+beginning by jotting words in notebooks and on the backs of envelopes. Bogre
+Udell and Andrade were deeply moved by her dedication to her work.
+
+Through their encounters with people such as Wilcox, the pair also realized
+that few speakers of endangered languages would be willing or able to
+participate in a similar dictionary-creation project. “This super-laborious
+process, over the course of years and years and years,” as Andrade puts it,
+was simply out of reach for most people.
+
+For Wikitongues to make the step from being a language documentation
+initiative to a language revitalization initiative, they would need to help
+speakers like Wilcox, and the speakers in their videos, connect more
+intentionally with language learners. “We brainstormed a little bit and tried
+to figure out what would be a useful, lightweight, trivial interaction that
+could really amount to some good progress” towards goals of both documentation
+and revitalization, Andrade explains. They envisioned a solution that was
+accessible, user-friendly, and would be of use to people who hoped to document
+their language and pass it on to new speakers. Work on Wikitongues’ solution
+to this challenge, Poly, began in late 2014.
+
+### Poly
+
+With support from a [successful Kickstarter
+campaign](https://www.kickstarter.com/projects/wikitongues/poly-share-and-
+learn-every-language-in-the-world) last year,
+[Poly](https://poly.wikitongues.org/) has been under rapid development, and
+recently [delivered on a
+promise](https://www.kickstarter.com/projects/wikitongues/poly-share-and-
+learn-every-language-in-the-world/posts/1813010) to release a functional
+version of the app on International Mother Tongue Day. Poly is oriented
+towards the creation of “books,” which can comprise vocabulary, phrases, and
+expressions between an arbitrary language pair. If you have been itching to
+create a Lakota-French (or [Dothraki](http://www.dothraki.com/about-
+dothraki/)-[Klingon](https://www.kli.org/)) phrasebook, a few clicks on Poly
+can provide an appropriate development environment. In the demo below, Andrade
+can be seen creating an English-Brazilian Portuguese phrasebook.
+
+The interface is simple, responsive, and easy to use. While Poly is open for
+use by any type of teacher or learner and for any language, Andrade and Bogre
+Udell hope that it will serve as a useful tool for people like Marie Wilcox,
+allowing for a straightforward documentation process that can be directly
+oriented towards learning.
+
+### Open source, open data, and open organization
+
+Poly has been an [open source project](https://github.com/wikitongues/poly)
+since its inception, “just because private repos [on Github] cost money,”
+Andrade jokes. Poly is built on a foundation of open-source technologies: the
+frontend is React, the backend is Rails and PostgreSQL. While Andrade suggests
+that being open source is somewhat symbolic at this early stage, Poly has
+already attracted “hundreds of thousands of dollars of development time” from
+a growing community of developers. “Because we are a nonprofit and a very,
+very strongly mission-driven one,” Andrade explains, “we’ve been able to
+gather the support of a lot of developers.” He describes shepherding a
+collaborative development process as “magical.”
+
+Wikitongues has also developed an open approach to the data they are curating.
+With guidance from Wikitongues co-director (and “[open source, open standards,
+open data and localized content](http://alolitasharma.com/about/)” advocate)
+Alolita Sharma, the organization is working towards making all of their
+content available under open licenses such as Creative Commons, including
+video content, video metadata, and Poly’s language data.
+
+There are challenges in dealing with data produced by members of many
+different communities — some endangered language communities are wary of
+exploitation, and many have differing conceptions of their languages as
+cultural or intellectual property. “The problem with some of the big open
+source projects or free knowledge movements is there’s a certain kind of
+dogmatism about what the licensing needs to be,” Bogre Udell says. While
+Wikitongues’ goal is openness, it recognizes that a bespoke data licensing
+approach may be necessary in some cases. The organization is actively working
+to navigate this complex ethical, legal, and cultural space. “If we can
+demonstrate that certain communities have been successful within our [open
+data] model, we can reach out to other people who are reluctant and say:
+‘look, these are the benefits,’” explains Andrade.
+
+The open source ethos of the project goes beyond code and data. Bogre Udell
+notes that the scale of what Wikitonges is trying to accomplish — to work with
+every language community in the world — requires a certain openness. According
+to Andrade, “One of our deepest philosophies as an organization is that we
+work with communities. We don’t go and record videos to ‘bring back.’” In all
+of their hundreds of videos, Wikitongues hopes to convey that there is a real
+person speaking who is willing to discuss their experience in their language.
+
+![Poly poster](https://globalvoices.org/wp-
+content/uploads/2017/03/poly_poster-400x600.jpeg)
+
+Image courtesy Wikitongues.
+
+### All the languages in the world
+
+Initiatives like Wikitongues are vital in the race to revitalize endangered
+languages. As I’ve previously noted, developing digital language resources for
+a language can help ensure the next generation has access to it, and it is
+clear that most of the hard work is going to occur outside (or at best,
+alongside) the commercial technological mainstream. In conversations with
+major tech companies, Bogre Udell found limited enthusiasm for engaging with
+languages of fewer speakers. “They want to make sure that they reach the 400
+or so largest languages,” he notes. “We had a conversation with someone at
+Google.org and they were very explicit that languages with fewer than 10,000
+speakers were not of interest.” With Poly, Wikitongues continues on its
+journey to develop an open global community focused on languages.
+
+“As a language documentation effort, we are the only one that’s trying to work
+with every language in the world,” Bogre Udell notes. “Nobody else has that
+interest.” This orientation and mission directly inform the development of
+Poly. “We want to create tools that are that are useful to the public,” he
+argues. “We want to be more useful to the speakers of the language than the
+linguists, because the speakers are the ones who need it.”
+
