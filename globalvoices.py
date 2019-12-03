@@ -56,7 +56,10 @@ for author_link in author_links:
         #r = requests.get('https://zht.globalvoices.org/author/{}/page/{}'.format(author_name, i))
         r = requests.get('{}/page/{}'.format(author_link, i))
         if r.status_code == 200:
-            index_parser.feed(r.text)
+            try:
+                index_parser.feed(r.text)
+            except Exception:
+                pass
         else:
             break
 
@@ -66,20 +69,23 @@ for author_link in author_links:
         os.mkdir(author_name)
 
     for idx, href in enumerate(index_parser._links):
-        r = requests.get(href)
-        soup = BeautifulSoup(r.text, 'html.parser')
-        chinese_text = soup.select('#single')[0]
-        chinese_text = html2text(str(chinese_text))
-        english_link = soup.find(title=re.compile(".+\ English"))['href']
-        r = requests.get(english_link)
-        soup = BeautifulSoup(r.text, 'html.parser')
-        english_text = soup.select('#single')[0]
-        english_text = html2text(str(english_text))
+        try:
+            r = requests.get(href)
+            soup = BeautifulSoup(r.text, 'html.parser')
+            chinese_text = soup.select('#single')[0]
+            chinese_text = html2text(str(chinese_text))
+            english_link = soup.find(title=re.compile(".+\ English"))['href']
+            r = requests.get(english_link)
+            soup = BeautifulSoup(r.text, 'html.parser')
+            english_text = soup.select('#single')[0]
+            english_text = html2text(str(english_text))
+        except Exception:
+            continue
 
         with open("{}/{}_English".format(author_name, idx), 'w') as f:
             f.write(english_text)
         with open("{}/{}_Chinese".format(author_name, idx), 'w') as f:
-            f.write(chinese_text)
+                f.write(chinese_text)
 
 
 

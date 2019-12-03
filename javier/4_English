@@ -1,0 +1,213 @@
+Over the last years, the [sometimes raucous
+nature](https://globalvoicesonline.org/2007/12/11/japan-flaming-and-the-
+secrets-we-hide/) of the Japanese Internet has repeatedly [come under
+fire](http://search.japantimes.co.jp/cgi-bin/nc20080116a1.html) over concerns
+about issues such as [harmful
+content](https://globalvoicesonline.org/2008/04/07/japan-major-parties-
+cooperate-to-legislate-regulation-of-harmful-internet-content/) and [copyright
+infringement](https://globalvoicesonline.org/2007/12/23/japan-economics-of-
+the-illegal-download/). Now the spotlight is back again, with news that
+legislation to ban downloads of copyrighted content is [moving ahead as
+planned](http://ascii.jp/elem/000/000/181/181781/) [ja], despite earlier
+delays. While Japan's [Copyright
+Law](http://www.cric.or.jp/cric_e/clj/index.html) currently makes an exception
+in the case of downloads for personal use, the proposed legislation [would
+modify Article 30 to remove this
+limitation](http://chosaq.net/archives/2008/01/japan-to-outlaw-downloading-
+illegally-reproduced-content.html).
+
+**The decision to outlaw downloads**
+
+A post at the Japanese-language Slashdot [described what was decided at a
+meeting held on Oct. 20th by the Private Music and Video Recording
+Subcommittee
+[私的録音録画小委員会]](http://slashdot.jp/it/article.pl?sid=08/10/21/0346234), a group
+set up to discuss levy payments for private use of audio and video recordings:
+
+>
+> 今回の私的録音録画小委員会では、iPodやHDDレコーダーに代表される「HDDやフラッシュメモリなどのストレージを内蔵した録画・録音機器」への補償金課金（いわゆるiPod課金）と、違法に複製されたコンテンツのダウンロードを違法化するという2点について議論が行われた。
+> iPod課金については、メーカー側の委員が強く反対したため、結論が先送りになったが、ダウンロード違法化については権利者側の委員が支持を表明、ほかの委員も消極的ながら支持したため、法改正を求める方針が固まった。
+
+At the meeting of the Private Music and Video Recording Subcommittee, two
+points were discussed: charging a copyright levy (the so-called iPod levy
+[iPod課金]) for “video and audio devices with built-in HDD or flash memory
+storage” such as iPods and HDD recorders, and the outlawing of downloaded
+contents that have been copied illegally. Due to strong objections on the part
+of those from the [device] makers in the committee, conclusions on the issue
+of the iPod levy were postponed; a declaration of strong support from the
+rights holders in the committee, however, combined with passive support from
+other committee members, solidified a plan for legal revision to outlaw
+downloads.
+
+IT journalist [Daisuke
+Tsuda](http://en.wikipedia.org/wiki/Daisuke_Tsuda_\(journalist\)), a member of
+the subcommittee himself, was reportedly [the only one to voice opposition at
+the meeting](http://www.itmedia.co.jp/news/articles/0810/20/news093.html)
+[ja]. After the meeting ended, Tsuda [reported on his Twitter feed what had
+happened](http://twitter.com/tsuda/statuses/967123948):
+
+>
+> 今回はあくまでダウンロードが対象。ストリーミングは対象外。なのでYouTubeやニコニコに上がった違法動画も見るだけなら大丈夫。今後はストリーミングであれやこれやできるサービスが日本で盛り上がってくるかもね。ちなみにドワンゴは昨年のパブコメでダウンロード違法化に賛成している。
+
+They're determined to make downloads the target this time. Streaming is not
+covered though. Which means that just looking at illegal videos on YouTube and
+[Nico Nico Douga](http://asiajin.com/blog/2007/12/04/niconico-douga/) is okay.
+I guess in the future there will be a lot of excitement in Japan about
+services that allow you to do this and that through streaming. By the way,
+[Dwango](http://info.dwango.co.jp/english/index.html) [the company that
+operates Nico Nico Douga] said in last year's public comments that it approves
+of the outlawing of downloads.
+
+In a [later interview](http://ascii.jp/elem/000/000/181/181781/) [ja], Tsuda
+explained that the delay in moving ahead with the ban on downloads had been
+triggered by a conflict among members of the subcommittee, with copyright
+holders and the [Japan Electronics and Information Technology Industries
+Association](http://ascii.jp/elem/000/000/133/133298/ and
+http://ascii.jp/elem/000/000/137/137416/) [JEITA] having reportedly hit a
+stalemate over the charging of a copyright levy for devices such as the iPod.
+This left the committee
+[deadlocked](http://sankei.jp.msn.com/life/trend/081021/trd0810210750002-n1.htm)
+[ja] as of last Spring, until finally they decided to move ahead with the
+downloads legislation (which they could agree on) and put aside the iPod levy
+for the time being.
+
+**Tsuda answers questions on 2-Channel's VIP Board**
+
+![](https://globalvoicesonline.org/wp-content/uploads/2008/10/2channelthread-
+small.jpg)  
+Screenshot from the thread started by Daisuke Tsuda at 2channel's VIP Board on
+Oct. 20th
+
+When news of the plans for download legislation came out on Tsuda's Twitter
+feed, many readers wanted to know more, so Tsuda decided on Oct. 20th to
+[start a thread](https://globalvoicesonline.org/2008/10/22/japan-outlawing-
+illegal-downloads/) at the [VIP
+Board](http://en.wikipedia.org/wiki/Breaking_News_\(VIP\)_Board) on
+[2-channel](http://www.2ch.net/) [ja], Japan's largest bulletin board. He
+titled the thread with a question: “[The legislation outlawing downloads [of
+copyrighted material] is nearly finalized, do you have any
+questions?](http://www.itmedia.co.jp/news/articles/0810/20/news093.html)”
+[ja]. Readers began posting questions, which Tsuda answered.
+
+Responding to [one commenter](http://workingnews.blog117.fc2.com/blog-
+entry-1548.html), Tsuda explained who it was that was pushing for the
+legislation, and why:
+
+> DL違法化を強く要望してるのはレコード会社と映画会社、ゲーム業界。
+
+The ones who are really demanding this outlawing of downloads are the record
+companies and movie companies, and the game industry.
+
+> 特にレコード会社はCD売れない中伸びている着うたビジネスを守る必要があるので  
+>  ネットの違法着うたとか、中高生がSDカードとかで音楽をコピーしまくってる現状を  
+>  何とかしたがってる。中高生の割れ自慢が横行してるのも多少は影響あるだろうね。
+
+The record companies in particular are not able to sell CDs, and they need to
+protect the growing chaku-uta [ring tone] business, that's why they want to do
+something about the present situation in which there are illegal chaku-uta on
+the net, and middle and high-school students copying music like crazy onto SD
+cards. Middle and high-school students showing off their
+[warez](http://en.wikipedia.org/wiki/Warez) also probably also has somewhat of
+an impact.
+
+Later in the VIP thread, another commenter asked whether there was any chance
+people could get arrested by the police for an illegal download. Given the
+fact that [3 people were arrested just the next
+day](http://headlines.yahoo.co.jp/hl?a=20081021-00000019-oric-ent) [ja]
+allegedly for [running illegal chaku-uta
+sites](http://d.hatena.ne.jp/heatwave_p2p/20081022/1224605142) [ja], it is not
+hard to imagine that actually happening. However, Tsuda explained that the
+current legislation would not go that far (for downloads):
+
+> >>36  
+>  DLの場合、そもそも警察にばれるということが考えにくい。刑事罰はないので現状は  
+>  DLだけなら逮捕はされない。ただし、民事の損害賠償の対象にはなるので、逮捕は  
+>  されないけどブログとかで「違法着うたダウンロードしまくりｗｗｗ」とか書いてて、  
+>  かつそれが証明されたら、民事訴訟される可能性はゼロじゃないけど、日本の司法  
+>  制度とか権利者が米国ほど強硬手段には出ないということを考えると、限りなく  
+>  リスクは低いだろうとは思う。
+
+In the case of downloads, from the start it's hard to imagine that the police
+will find out about it. There is no criminal penalty, so in the present
+situation you won't be arrested just for downloading. However, [downloading]
+is subject to compensation for losses in civil [law], so while you will not be
+arrested, if you write something like “I'm downloading chaku-uta songs like
+crazy!!!”, and if that is used as evidence, the possibility is not zero that
+you could face a civil lawsuit. Considering though that there are not as tough
+measures available to rights owners in the Japan legal system as there are in
+the U.S., it would seem to me that the risk is next to nothing.
+
+Another commenter asked about
+[BitTorrent](http://en.wikipedia.org/wiki/BitTorrent_\(protocol\)) [ja], to
+which Tsuda responded:
+
+> 法律が変わったら、BitTorrentで違法なファイルをダウンロードをするのは違法になる。  
+>  本来、今回の改正は刑事罰はついてないので落としただけだと「逮捕」されることは  
+>  ないんだけど（未成年の飲酒と同じ）、BTの場合Winnyみたいにファイル転送の  
+>  中継（アップロード）も行われる構造になってるので、違法なファイルを中継してたら  
+>  「違法なファイルアップロードしたね」という感じで捕まる可能性はある。  
+>  （限りなく低いとは思うけど
+
+If the law changes, then it would be illegal to download illegal [copyrighted]
+files via BitTorrent.  
+The current legislation does not in essence have any criminal penalty attached
+to it, however, so you won't be “arrested” just for downloading (just like in
+the case of minors drinking alcohol). In the case of BT, however, like Winny,
+there is an architecture that also allows for live streaming (uploading) of
+files, and if you live stream illegal files there is a chance you could get
+arrested, told something like, “You uploaded illegal files.” (very unlikely
+though, I think).
+
+Another commenter asks what happens if someone moves the contents of the cache
+folder where a YouTube video is stored. Tsuda explained:
+
+> それ微妙だよね。一応そのへんも審議会で聞いたんだけど、YouTube見るのはセーフで  
+>  ブラウザのキャッシュフォルダにデータが入るのはOKってことだったんだよね。  
+>  キャッシュファイルを移動してリネームしたら普通に再生できるわけだけど、それは  
+>  「ダウンロード」行為じゃないし。まあそれぐらいあいまいな部分を含む改正ってことですね。
+
+That's a tough call, isn't it. I asked that at the inquiry commission, and
+[what I was told was that] watching YouTube is okay, and it's okay if data is
+stored in the browser's cache folder. If you move and rename the cache folder,
+you can normally replay [the video], but that's not an act of “downloading”.
+Well, this revision has portions of it that reach that level of ambiguity.
+
+Another commenter, finally, [expresses
+frustration](http://workingnews.blog117.fc2.com/blog-entry-1549.html):
+
+> 50 名前：以下、名無しにかわりましてVIPがお送りします：2008/10/20(月) 22:32:03.44 ID:njpRF4dt0  
+>  罰則が決まって違法ダウンロードが減ったとしても  
+>  CDを買うかと言われたらNOだと思うんだよね  
+>  だから落ちた売り上げとかは変わらないと思うの  
+>  その場合の権利者側の言い訳はどうなるとおもう？
+
+Even if penal regulations are put into place and illegal downloads decrease,  
+if you ask me whether I will buy CDs the answer is NO.  
+So I don't think the drop in sales will change.  
+What will the excuse be of the rights holders if this is what happens?
+
+To which Tsuda replied:
+
+> >>50  
+>  ずっとインターネットのせいにし続けるような気がするなー。
+
+I have a feeling they'll just keep blaming it on the Internet.
+
+**Reactions from bloggers**
+
+Blogger id:Aoba [was puzzled by the
+legislation](http://d.hatena.ne.jp/Aoba/20081022/1224656673):
+
+> ダウンロード違法化ってツッコミ所満載だよな。ちょっと挙げると、
+>
+>   * ダウンロードはアウト。だけどストリーミングはセーフ
+>   * YouTubeやニコ動はストリーミングじゃないけどセーフ
+>   * つまり『キャッシュ』ならダウンロードしてもセーフ
+>
+
+>
+> という具合なので、一体何を考えてるんだか非常に興味深い。
+
+There's all kinds of things to pick on with this outlawing of downloads. Here
+are just a few:
+

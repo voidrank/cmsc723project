@@ -1,0 +1,159 @@
+[本文英文版原載於2010年4月27日]
+
+_本文為三段式報告之二，希望為資訊透明科技網絡計畫提供更多案例研究背景，前篇報告請[見此](https://globalvoicesonline.org/2010/03/02/the-
+technology-for-transparency-review-part-i/
+"https://globalvoicesonline.org/2010/03/02/the-technology-for-transparency-
+review-part-i/")。_
+
+在[資訊透明科技網絡](https://transparency.globalvoicesonline.org/
+"https://transparency.globalvoicesonline.org/")計畫網站上，我們已收集[30項科技計畫](https://transparency.globalvoicesonline.org/projects/all
+"https://transparency.globalvoicesonline.org/projects/all")，都致力於推動資訊透明、政治責任與公民參與，但我們尚未明確定義每項概念，亦未詳述這些計畫如何帶動良好治理與健全社會。
+
+**資訊為何要透明？**
+
+所謂[資訊透明](http://en.wikipedia.org/wiki/Transparency_%28behavior%29
+"http://en.wikipedia.org/wiki/Transparency_\(behavior\)")，通常意指公布政府程序、預算及民選官員的資訊，也有些計畫希望提供涉及公共利益的民間企業資訊，如[CorpWatch](http://www.corpwatch.org/
+"http://www.corpwatch.org/")、[Publish What You
+Pay](http://www.publishwhatyoupay.org/
+"http://www.publishwhatyoupay.org/")、[Sourcemap](http://www.sourcemap.org/
+"http://www.sourcemap.org/")等。
+
+有時這些資訊是由各國政府自行公告，例如2002年6月時，時任墨西哥總統的福克斯（Vincente
+Fox）頒布[國內第一部資訊自由法](http://www.gwu.edu/%7Ensarchiv/NSAEBB/NSAEBB68/laweng.pdf
+"http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB68/laweng.pdf")，要求政府機關定期以便民方式，公開所有涉及日常功能、預算、運作、人員、薪資、內部報告、招標得標資訊，Kate
+Doyle在法案通過當天提供[深入分析](http://www.gwu.edu/%7Ensarchiv/NSAEBB/NSAEBB68/
+"http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB68/")，John
+Ackerman檢視[法律實施三年來的成果](http://www.fundar.org.mx/secciones/publicaciones/pdf/right_to_know/SEC8%20John%20M.%20Ackerman.pdf
+"http://www.fundar.org.mx/secciones/publicaciones/pdf/right_to_know/SEC8%20John%20M.%20Ackerman.pdf")，並對比世界上其他類似的資訊自由計畫。
+
+不過在許多情況中，政府並不希望公布運作及預算相關資訊，因為此舉可能招致批評，並揭露貪腐情事，某些國家民眾於是開始自行發表資訊，[Mzalendo](http://www.mzalendo.com/
+"http://www.mzalendo.com/")共同創辦人Ory
+Okolloh[表示](https://transparency.globalvoicesonline.org/project/mzalendo
+"https://transparency.globalvoicesonline.org/project/mzalendo")，該計畫始於2006年，起因是肯亞國會議員要求關閉國會網站，以避免大眾獲知議員表現情況，關心此事的肯亞民眾開始出席國會議事，在網路上張貼觀察結果，並協助整理[立法資訊網路資料庫](http://www.mzalendo.com/Bills.List.php
+"http://www.mzalendo.com/Bills.List.php")；[Mumbai
+Votes](http://mumbaivotes.com/ "http://mumbaivotes.com/")則收集印度官員及候選人的犯罪記錄。
+
+各國政府有時確已公開活動及開銷資訊，但人民卻不易取用，資訊也不夠完整，例如以色列特拉維夫（Tel
+Aviv）地方政府每年以詳細的PDF格式公布預算書，但格式與形式卻讓民眾難以瞭解並分析政府開支，「[Our
+Budget](https://transparency.globalvoicesonline.org/project/our-budget
+"https://transparency.globalvoicesonline.org/project/our-
+budget")」幕後團隊運用光學字元識別（OCR）技術，再加上人工確認，將資料轉為試算表格式，再使用網路工具分析市政花費。阿根廷所有政黨至少在投票前十天，就必須公布競選獻金情況，但各黨同樣是以長篇PDF格式發表報告，藉此模糊金錢與政治在競選時的關聯，[Dinero
+y Política](https://transparency.globalvoicesonline.org/project/dinero-y-
+pol%C3%ADtica-money-politics
+"https://transparency.globalvoicesonline.org/project/dinero-y-pol%C3%ADtica-
+money-politics")計畫試圖運用互動視覺化工具呈現相同資訊內容，能夠清楚對比各地區、各政黨及各產業的競選獻金。肯亞[Budget
+Tracking Tool](https://transparency.globalvoicesonline.org/project/budget-
+tracking-tool "https://transparency.globalvoicesonline.org/project/budget-
+tracking-
+tool")計畫[從難以尋找的政府網頁中](http://www.cdf.go.ke/index.php?option=com_content&task=view&id=2188&Itemid=85
+"http://www.cdf.go.ke/index.php?option=com_content&task=view&id=2188&Itemid=85")，取得聯邦資助的地方發展計畫預算書，統整於單一資料庫裡，讓使用者能留言說明計畫進度、衝擊及效能（不過目前留言很少）。
+
+**民眾為何參與？**
+
+資訊透明就能帶來責任政治嗎？若民眾掌握更多政府活動資訊，也能取得更多資料，官員就會因此提升施政效能嗎？民眾就會要求在擬定與實施政策時，納入自己的意見嗎？近期有些學者與觀察者開始質疑這項長久以來的看法，Jonathan
+Fox[寫道](http://www.escholarship.org/uc/item/8c25c3z4
+"http://www.escholarship.org/uc/item/8c25c3z4")，「資訊透明觸發羞恥的力量，但無恥之徒可能不會因消息曝光而受影響，真相常無法帶來正義」。[Transparência
+Brasil](http://www.transparencia.org.br/index.html
+"http://www.transparencia.org.br/index.html")成員Fabiano
+Angelico今年接受電台[訪問](https://globalvoicesonline.org/2010/02/09/podcast-
+interview-with-fabiano-angelico-of-transparncia-brasil/
+"https://globalvoicesonline.org/2010/02/09/podcast-interview-with-fabiano-
+angelico-of-transparncia-brasil/")時，
+亦呼應上述言論，指稱巴西政治人物因貪污下台後，卻常因貪污而再度當選，他主張任命記錄良好的法官，裁決禁止多次貪污的政治人物再度參選；傳統自由民主觀
+念中，民眾最終透過投票讓領袖負責，但這項主張卻挑戰這項看法，不過Guillermo
+O'Donnell亦支持這個構想，[認為](http://books.google.com/books?id=MD8Vx1HLOZgC&pg=PA14&lpg=PA14&dq=Schedler+answerability&source=bl&ots=-iQ0rqBPQ5&sig=n3YuRguQf_YFcS6OC26Q9owJyi0&hl=en&ei=WZbVS_bGJ46J_AbenPm4Dw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBQQ6AEwAw#v=onepage&q&f=false
+"http://books.google.com/books?id=MD8Vx1HLOZgC&pg=PA14&lpg=PA14&dq=Schedler+answerability&source=bl&ots=-iQ0rqBPQ5&sig=n3YuRguQf_YFcS6OC26Q9owJyi0&hl=en&ei=WZbVS_bGJ46J_AbenPm4Dw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBQQ6AEwAw#v=onepage&q&f=false")現代民主需要「垂直責任」（如選舉）與「水平責任」，後者意指跨部會機構有權制裁不守法的政治人物。
+
+賴比瑞亞亦發生透明無法帶來責任政治的案例，總統瑟利夫（[Ellen Johnson-
+Sirleaf](http://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf
+"http://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf")）於2005年成立「[真相和解委員會](https://www.trcofliberia.org/
+"https://www.trcofliberia.org/")」，仿效南非終止種族隔離後的經驗，這就是種行使「水平責任」的機構，負責調查與公布國內逾20年內亂的資訊，並制裁其中犯法的民選官員。2009年6月，委員會發表最終報告，列出[包括總統](http://www.time.com/time/world/article/0,8599,1908635,00.html
+"http://www.time.com/time/world/article/0,8599,1908635,00.html")在內共50人名單，主張這些人直接參與內戰，故應禁止服務公職30年，然而瑟利夫依然在位，無視於委員會建議，[繼續推動她提出的透明及反貪污法案](http://allafrica.com/stories/200908101384.html
+"http://allafrica.com/stories/200908101384.html")。儘管瑟利夫過去具有爭議，但許多人仍認為她是位國際知名領袖，能夠協助賴比瑞亞回歸和平與民主。
+
+多數研究人員與觀察者都同意，除非民眾積極參與資訊揭露過程，資訊透明也無法提升責任政治，我們所研究的多項計畫中，都意圖運用社會網絡促進民眾參與，例如墨西哥的[#InterNetnecesario](https://transparency.globalvoicesonline.org/project/internetnecesario
+"https://transparency.globalvoicesonline.org/project/internetnecesario")計畫結合Twitter、部落格及媒體，向國會議員施壓，要求取消未經媒體或民意諮議，便逕自決定增加的3%網路使用稅，這便是資訊透明加上公民參與，帶來責任政治的經典範例。墨西哥Twitter用戶[Alejandro
+Pisanty](http://twitter.com/pisanty "http://twitter.com/pisanty")透
+過網路，張貼別處無法取得的新法資訊，人們透過Twitter動員抗爭，部落格過濾並提供事件背景，並以電子郵件寄送連署書給參議員；眾議院很快意識到社
+會反彈聲浪強烈，邀請網路抗爭運動代表出席議會，說明反對課稅理由，出席代表則在與會前幾週，在網路上反覆演練；不
+過#InternetNecesario目前仍只是個暫時性現象，未能建立長久制度，繼續推動資訊透明或要求未來領袖負責。Cuidemos El
+Voto這個案例則較為長久，意圖避免聯邦與地方選舉舞弊及買票，墨西哥自2002年成立「特別檢察署」，記錄過往人權侵害案件，Cuidemos El
+Voto與檢察署合作後，收集的選舉舞弊案例亦獲聯邦政府背書，但是讓民眾注意到政治人物及政黨買票現象後，究竟能造成多少衝擊，至今無法量化，也[尚無](https://transparency.globalvoicesonline.org/project/cuidemos-
+el-voto#comment-68
+"https://transparency.globalvoicesonline.org/project/cuidemos-el-
+voto#comment-68")政黨人物或政黨因網站通報舞弊消息而不得參選。
+
+對於增進民眾討論能否改善政府治理，其他計畫領導人相當懷疑，[Mumbai
+Votes](https://transparency.globalvoicesonline.org/project/mumbai-votes
+"https://transparency.globalvoicesonline.org/project/mumbai-votes")計畫的Vivek
+Gilani表示，網路討論以個人意見及流言為主，但他的計畫希望依據事實，提供讀者明確清楚的評估內容，他並非意圖為使用者創造參與空間，而是做為資源，讓人們能獲取所需資訊，投票給最合格的候選人。
+
+**如何帶來責任政治？**
+
+我們收羅的多個網站運作如同入口網站，讓民眾能夠申訴，內容主要以社區及政府行政管理為主，藉以向政府施壓，要求回應民眾需求，約旦的[Ishki](https://transparency.globalvoicesonline.org/project/ishki
+"https://transparency.globalvoicesonline.org/project/ishki")、印度的[Kiirti](https://transparency.globalvoicesonline.org/project/kiirti
+"https://transparency.globalvoicesonline.org/project/kiirti")、馬來西亞的[Penang
+Watch](https://transparency.globalvoicesonline.org/project/penang-watch
+"https://transparency.globalvoicesonline.org/project/penang-
+watch")皆為範例，這些計畫的目標及策略各異；[Andreas
+Schedler](http://books.google.com/books?id=MD8Vx1HLOZgC&lpg=PA14&ots=-iQ0rqBPQ5&dq=Schedler%20answerability&pg=PA14#v=onepage&q&f=false
+"http://books.google.com/books?id=MD8Vx1HLOZgC&lpg=PA14&ots=-iQ0rqBPQ5&dq=Schedler%20answerability&pg=PA14#v=onepage&q&f=false")亦認為，責任政治有兩種不同面向，一方面是要求解答的權利，另一方面則是制裁的能力，這些網站做為民間計畫，當然沒有任何官方制裁力量，但許多計畫都試圖爭取要解答的權利。
+
+[Ishki](https://transparency.globalvoicesonline.org/project/ishki
+"https://transparency.globalvoicesonline.org/project/ishki")由
+四位約旦技術人員成立，他們厭倦人們總在抱怨相同的事，卻沒有任何行動或計畫，於是創設網站，收集大眾抱怨公民營單位的內容，以瞭解約旦社會最普遍出現的
+申訴事項，之後與報紙及電台等主流媒體合作，製作有關申訴內容的報導，希望媒體關注之後，能夠迫使官員回應。Ishki網站篩選網路使用者的各色言論，提
+供給尋求報導素材的主流媒體，使用者可在網站上[通報內容與加入連署](http://ishki.com/en/petitions
+"http://ishki.com/en/petitions")，不過最近期的連署書已是兩個月前設立，且目前為止，尚無官員回應網站上提出的申訴案或連署內容。
+
+印度[Kiirti](https://transparency.globalvoicesonline.org/project/kiirti
+"https://transparency.globalvoicesonline.org/project/kiirti")計
+畫的策略稍有不同，相較於運用平面或電子媒體向官員施壓，他們直接寄發電子郵件至印度主要城市相關單位，要求他們追蹤網站上的申訴案件，創辦人 Selvam
+Velmurugan表示，因為網站內容，有一盞路燈修復、一條泥路重新舖設，由網站轉交申訴內容給相關單位，竟比直接聯繫相關單位更有效，這種現象或許
+聽來奇怪，也未必較有效率，但或許是申訴內容與回應成果都公開在網路上，成為官員願意回應的誘因，不僅可展現他們的服務有其需求，他們也確實回應需求。
+
+在馬來西亞西北部檳城地區，[Penang
+Watch](https://transparency.globalvoicesonline.org/project/penang-watch
+"https://transparency.globalvoicesonline.org/project/penang-
+watch")更進一步，以一連串步驟聯繫（與騷擾）地方官員，直到他們回覆民眾申訴內容，申訴案通報至[PenangWatch.net](http://www.penangwatch.net/
+"http://www.penangwatch.net/")網
+站後，先經過一群志工確認，再轉寄至相關單位或個人，要求回覆或解決，若一兩星期後仍無回音，則寄發提醒函；若時隔兩週依然沒有消息，則會在網站公告申訴
+內容與失職單位／個人，也寄發電子郵件至所有地方政府單位及媒體，計畫成員Ong Boon
+Keong表示，「每年網站大約經手300件申訴案」，目前「已處理比例約五成」，例如因為民眾向網站申訴，檳城聯合國教科文組織世界遺產內的非法商家才 歇業。
+
+**與政府合作，而非對立**
+
+[Penang Watch](https://transparency.globalvoicesonline.org/project/penang-
+watch "https://transparency.globalvoicesonline.org/project/penang-watch")成員Ong
+Boon Keong強調，網站藉由「提供正反回應」，力圖改善地方政府表現，[Archon
+Fung](http://www.nextgov.com/nextgov/ng_20090903_7217.php
+"http://www.nextgov.com/nextgov/ng_20090903_7217.php")等
+部分觀察員則擔心，許多網站均以揭露政府缺失為主，可能會損害民眾對政府機構的信心，加深民眾對政府無能及浪費的印象；其他人認為，若時常報導政府醜聞，
+將導致民眾對政府真正貪腐案例習以為常；甚至有些人主張，在新生民主國家中，監督報導可能造成民眾對民主制度不滿，引發暴動及社會混亂。
+
+>
+> 為了追求責任政治，政府資訊透明可能使情況惡化，削弱政府合法性，因為資訊透明即可幫助民眾揪出政府過失，這是好事，人們當然希望糾舉政府錯誤，但這項制度同時也應彰顯政府正面作為。
+>
+> 目前有關政府資訊透明的網站中，多數建立類似亞馬遜書店的民眾評分制度，給予一顆星或兩顆星，但其實應能建立更完整的機制，讓政府表現最高可達五星級。
+
+許多網站確實都突顯貪污官員的惡行，但也有少數獎勵績優表現及清廉記錄的網站，我們建議在未來，這些網站應能求取平衡，一方面抨擊政府表現不佳之處，另一方面讚揚值得嘉獎仿效之處。
+
+**責任政治與自治**
+
+我們目前收集共30個案例中，反映出以公開資訊鼓勵民眾參與，既能展現責任政治（回覆與制裁）的潛力，卻也有極大困難，不過就我們分析的幾項計畫中，責任政治並非唯一目標，除了要求政府改善績效，[Cidade
+Democrática](https://transparency.globalvoicesonline.org/project/cidade-
+democr%C3%A1tica-0
+"https://transparency.globalvoicesonline.org/project/cidade-
+democr%C3%A1tica-0")等
+平台亦可促進社區自治，不需仰賴官員或人力不足的政府機構，這個平台與其他申訴網站一樣，讓巴西民眾列舉與地方相關的問題，鼓勵其他使用者提出可能解決之
+道，並草擬策略及行動方案。截至目前，成功方案都仰賴政府參與，但未來包括社區花圃、步道與回收工作，都能由民眾自行組織，不必透過政府。
+
+Map Kibera計畫共同創辦人Mikel
+Maron[表示](http://mapkibera.org/wiki/index.php?title=Background_Reading
+"http://mapkibera.org/wiki/index.php?title=Background_Reading")，根據一份世界銀行研究結果，相較於首都富裕社區以水表計費，肯亞奇貝拉（Kibera）居民的平均水費高出十倍，人們可藉由[Voice
+of Kibera](http://kibera.ushahidi.com/
+"http://kibera.ushahidi.com/")這個平台連署，要求政府及部落領袖採取措施壓低用水成本，不過這也能成為誘因，吸引其他供水商進入當地，藉增加競爭降低價格，換言之，民眾除可利用這些平台向政府施壓，亦能直接改善社區，不再處處倚靠官員。
+
+校對：[Soup](http://proj.daodin.net/mediawiki/index.php/%E4%BD%BF%E7%94%A8%E8%80%85:Soup
+"使用者:Soup")
+

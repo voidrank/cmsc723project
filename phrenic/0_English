@@ -1,0 +1,106 @@
+![sofware-libre.jpg](https://www.globalvoicesonline.org/wp-
+content/uploads/2008/03/sofware-libre.jpg)
+
+Picture by [Presidencia de la República del
+Ecuador](http://www.flickr.com/photos/presidenciaecuador/) and reproduced
+under authorization
+
+Ecuador has been in the headlines a lot in 2008 so far. First, torrential
+rains have fallen and have left much of the country under water. Then, the
+controversial dispute involving national sovereignty and its neighbor,
+Colombia, has also been in the news recently. Finally, [the announcement that
+has left Ecuador's government in hot water
+[es]](http://rubendariobuitron.wordpress.com/2008/03/16/%e2%80%9csi-
+tuvieramos-que-rectificar-lo-hariamos-pero-no-es-el-caso) indicates that the
+Revolutionary Armed Forces of Colombia (FARC) has found shelter in the
+country. However, something that has not been in the news, but may be just as
+worrisome is the question of security on the internet and the recent incidents
+of hacking.
+
+The hacking of the [page of the
+presidency](https://www.globalvoicesonline.org/2008/02/15/ecuador-presidents-
+website-hacked/) occurred in the middle of February, and was committed by a
+hacker who [openly mocked [es]](http://palulo.ec/blog/2008/02/13/entrevista-
+exclusiva-d4n1ux-el-hacker-que-puso-en-jaque-a-la-presidencia/) the security
+of government systems and assures he will get into other media portals.
+[_Carlos Jumbo [es]_](http://carlosjumbo.com/2008/02/10/el-sitio-web-de-la-
+presidencia-del-ecuador-defaceado/), who works in this profession explains
+that it is not the first time this happened in Ecuador and problems like this
+can be solved:
+
+> Fácil de ubicar y detectar con prevención, el problema está en los
+> responsables de las seguridades de estos espacios gubernamentales, deben
+> saber qué hoy en día las verdaderas batallas se libran en el ciberespacio….
+> se tiene que aprovechar la reforma a la ambigua Ley de Seguridad Nacional
+> que se debatirá en la Asamblea Constituyente, introduciendo nuevos artículos
+> que conlleven a la protección de los recursos naturales y para la lucha
+> contra el [Ciberterrorismo](http://carlosjumbo.com/2008/02/24/mencion-en-
+> diario-hoy-ciberterrorismo/), una amenaza creciente en América Latina debido
+> al poco esfuerzo de los países en dedicar su esfuerzo en diseñar y
+> planificar estrategias para contrarrestar estas amenazas latentes, mientras
+> tanto, una cultura de Ciberseguridad puede convertirse en un elemento
+> indispensable para el desarrollo de los pueblos con menor desarrollo.
+
+It's easy to locate and identify with prevention, the problem lies with those
+responsible for the security of these government's entities, they should know
+today that the real battles are being fought in cyberspace…. They need to take
+advantage of the reform of the ambiguous National Security Law that is being
+debated in the Constituent Assembly, which introduces new regulations
+involving the protection of natural resources and the fight against [
+Cyberterrorism](http://carlosjumbo. com/2008/02/24/mencion-en-diario-hoy-
+ciberterrorismo / ), which is a growing threat in Latin America because of the
+little effort made by countries to devote their efforts to design and plan
+strategies to counter these latent threats. In the meantime, a culture of
+Cybersecurity can become an indispensible element for the development of
+lesser developed countries.
+
+People and bloggers were concerned of this incident and [_Palulo
+[es]_](http://palulo.ec/blog/2008/02/20/que-puertas-permitieron-el-ataque-a-
+la-web-presidencial-de-ecuador/) while visiting southern Ecuador tried to look
+for a technical answer from the experts at the Technical University of Loja.
+He interviewed two professionals who have deep knowledge of ASP applications,
+ISS servers y hacking. The following are Fausto Loja's opinions:
+
+> La servidores ISS pueden ser atacados por fallos en el sistema operativo
+> utilizado para gestionarlo. En el caso de la página de la Presidencia se
+> utiliza Windows, que no es tan seguro, y eso se manifiesta en la publicación
+> de parches de seguridad (service packs) por parte de Microsoft; además
+> “cuando los desarrollos no son hechos por quienes sepan de seguridad, pueden
+> dejar muchas puertas abiertas”, y esto puede provocar que personas se
+> introduzcan en las aplicaciones y hagan alteraciones,…
+
+The ISS servers can be attacked by bugs in the operating system used to manage
+it. In this case, the page of the presidency uses Windows, which is not as
+secure, and this is manifested in the publication of security patches (service
+packs) by Microsoft , besides “when developments are not made by those who
+know the facts, security may leave many doors open,” and this can allow others
+to enter the applications and make alterations…
+
+Some of these violations are common in Ecuador, but not when the company
+allows the opening of private data. A major telephone company in the country
+allows the public see all sensitive information about its customers. [_La
+Bitácora de Calú [es]_](http://calu.ec/bitacora/2008/01/28/informacion-
+sensible-en-la-web-de-pacifictel.html), warns:
+
+> Precisamente eso sucede ahora mismo con Pacifictel, uno de los operadores
+> estatales de telefonía fija del Ecuador. Cualquiera está en capacidad de
+> llegar a conocer no solamente el nombre, el número de cédula o la dirección
+> de un abonado a partir de su número telefónico, sino incluso los números
+> telefónicos a los cuales ha llamado, la duración de las llamadas y otros
+> detalles más [..] Sin duda que para el propio abonado esta información le
+> puede ser útil, pero Pacifictel debería crear un perfil con usuario y
+> contraseña para que cada abonado pueda ingresar a un entorno donde se provea
+> esta información, de lo contrario -tal como sucede ahora- todas tus llamadas
+> -y las de tu vecino/a- efectuadas y recibidas pueden ser espiadas por
+> cualquier persona que tenga un simple acceso a Internet.
+
+This is happening with Pacifictel, one of the state-owned fixed-line telephone
+operators in Ecuador. Anyone is able to know not only the name, identity card
+number or address of a subscriber from your listed phone number, but even the
+telephone numbers to which you have called, duration of calls and other
+details [..] Certainly for the customer itself, this information can be
+useful, but Pacifictel should create a user profile and password for each
+subscriber to enter where such information is provided, or else-as is
+happening right now-all your incoming and outgoing calls – and those of your
+neighbor- can be spied by anyone who has a simple Internet access.
+

@@ -1,0 +1,56 @@
+[![Wall of keys. Photo by Robert via Flickr \(CC BY
+2.0\)](https://globalvoicesonline.org/wp-
+content/uploads/2015/04/3148510935_3c81360982_b-800x532.jpg)](https://www.flickr.com/photos/robertmontalvo/3148510935/)
+
+鑰匙牆 由Robert使用Flickr拍攝 (CC BY 2.0)
+
+中國科技專家公開聲明支持Google和Mozilla撤銷[中國互聯網絡信息中心安全憑證](http://www1.cnnic.cn/)。
+
+[安全憑證](https://en.wikipedia.org/wiki/Public_key_certificate)是項專門性的工具，許多網站用它來保護網站本身和使用者，確保網站的連線正常。舉例來說，想像你到你的網路銀行轉帳，登入後，輸入個人資料並且檢查帳戶中的餘額。銀行會設法確保只有員工和客戶可以觀看這些資料，但是聰明的駭客會介入你和銀行之間的安全連結，在此同時取得過程中傳遞的資料。
+
+安全憑證是能夠阻擋上述攻擊的方法之一，對網路銀行或網路商務而言，安全認證是無聲且強力的保鑣。一個沒有認證的網站會被視為非法且不可信任，當用戶試圖進入沒有合法認證的網站，通常會有警告標語（如下圖）。通常用戶應該要聽從警告，但多數時候他們[選擇忽略](http://www.slate.com/articles/technology/future_tense/2015/02/ssl_warnings_users_ignore_them_can_we_fix_that.html)。
+
+![connectionisnotprivate](https://globalvoicesonline.org/wp-
+content/uploads/2015/04/connectionisnotprivate-800x419.png)
+
+[Google和Mozilla](https://googleonlinesecurity.blogspot.hk/2015/03/maintaining-
+digital-certificate-
+security.html)決定從四月起不再認可中國互聯網絡信息中心（CNNIC）所頒發的安全認證。根據Google偕同中國互聯網絡信息中心所做的一連串調查，在多起Google主要服務入侵事件當中，埃及資安業者[MCS](http://www.mcsholding.com/)涉入其中一起，而中國互聯網絡信息中心正是該起事件的中間憑證機構。這起事件透過[中間人攻擊](https://en.wikipedia.org/wiki/Man-
+in-the-
+middle_attack)的手法，藉由指引用戶到另一個獨立的偽裝網頁，成功攔截用戶和原先網頁的安全連結。這類型的攻擊只有可能在偽裝網頁從可信任當局取得數位憑證的情況下發生。
+
+作為中國的主要數位憑證核發當局，中國互聯網絡信息中心發表聲明，認為Google的決定是「[不被接受和不明智的](http://www1.cnnic.cn/AU/MediaC/Announcement/201504/t20150402_52049.htm)」，並且勸說Google「通盤考量用戶的權利和利益」。儘管中國互聯網絡信息中心保證未來會避免類似事件的發生，但Google仍決定在自家產品上撤銷該數位憑證。
+
+Mozilla則在官方網站上[公開](https://blog.mozilla.org/security/files/2015/04/CNNIC-
+MCS.pdf)自2012年來，與中國互聯網絡信息中心討論誤發憑證到第三方網站的問題。Mozilla曾提醒中國互聯網絡信息中心:「故意或蓄意錯發憑證…[…]…將導致Mozilla撤銷在中國產品的憑證。」
+
+對於最近發生的事件，中國互聯網絡信息中心堅稱那些錯誤憑證只是作為「測試」使用，但這也代表該中心是在知情的情況下授予「未受約束的中間憑證」到私人機構，而這明顯地違反了該中心自己的憑證生效[聲明](http://www.cnnic.cn/jczyfw/fwqzs/CNNICfwqzsywgz/201206/W020130929345948738150.pdf)。
+
+這類的攻擊事件在中國屢見不鮮。有網友就在中國科技部落客「月光博客(William Long)」的微博上回應，提到前一次中間人攻擊的目標是微軟Hotmail。
+
+> 本无鬼见愁：前段时间工作用的 Hotmail 邮箱受到一次中间人攻击，然后马上把所有电脑上的 CNNIC 证书设置为永不信任，就算 CNNIC
+> 以后不干这么龌龊的事，能达到国际公认的安全要求，我也再不会信任他家的证书了。
+
+上面提到的攻擊[發生](http://netsecurity.51cto.com/art/201410/453617.htm)在2014年10月初微軟信箱的登入頁面，目標是中國境內各主要城市的“login.live.com”。從2011年起就陸續發生類似事件：2011年的Skype、2013年1月GitHub還有2014年9月Yahoo。
+
+如同多數的網路用戶一樣，在微博上出現許多聲音，大家都對中國互聯網絡信息中心的作法感到不解，網友Bfsu99則用淺顯易懂的話回覆penta5kill：
+
+> bfsu99：[…]
+> @penta5kill:回复@舞法舞天丨:就是CNNIC通过假证书骗取浏览器信任然后监控用户，结果被人发现了。你可以理解成间谍把窃听器伪装成手机零配件出售给手机制造商，然后每台出厂的手机自带窃听功能
+
+在月光博客的微博討論串中，許多評論都支持Google和Mozilla的決定 ：
+
+>
+> xxxxoxoxoxoxo：Google宣布旗下产品删除CNNIC根证书，给CNNIC闪亮一巴掌，帮助中国人民出了一口气！支持Google，CNNIC这种机构就得扇脸！
+
+> 聿渔：互联网应该团结起老对大陆网路进行封杀，禁止一切大陆网络信息外链和送出，既然要搞局域网何不帮狗共一把
+
+> ____harm：一個騙子問人為什麼不信任他，大家覺得可笑不？
+
+不難想見，如同網友「海鵬在上海」所言，在中國網路內任何有關批評中國互聯網絡信息中心的評論都被當局給移除了。
+
+> 网上搜了一下，这几天国内关于CNNIC的负面新闻和评论都被删了，国家级流氓确实牛逼
+
+譯者：Kai-Chi Lin  
+校對：Matt
+

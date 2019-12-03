@@ -1,0 +1,116 @@
+[![Image by Mozilla in Europe on Flickr. Taken on February 24, 2014. CC-BY
+2.0](https://globalvoicesonline.org/wp-
+content/uploads/2015/02/12748159034_89b8469983_k.jpg)](https://www.flickr.com/photos/mozillaeu/12748159034/in/photolist-
+kqvDxq-dkvfYg-dkvfq2-dkveZT-dkvfEa-dkvfaM-dkvibY-dkvhEW-dkvfPR-dkvimW-
+dkvhr9-9R1vwR-kFascE-5SGHWW-
+emPB3w-dYevqL-6r2MQ7-74D5e4-cXDCUm-4FWPJ7-NhL6d-jXjM5c-g8yrqM-6aJeBK-21uwmv-
+dUyEbw-fGkums-66AZqD-fG3TXK-7RGdNq-5SCraA-owjg6E-bxYGyN-7FjRWL-i23xyR-5PnxKf-
+qacBLZ-3WAqLG-q5PKmP-pM7iK6-pLTb9b-3WApj9-qrrH1r-4Lf4wn-3WAnhq-kZ9eqT-
+kqu1Q8-iDR6oA-iDN5cv-iDM4jc)
+
+Image by Mozilla in Europe on Flickr. Taken on February 24, 2014. CC-BY 2.0
+
+One of the “biggest Snowden stories yet” has arrived today, [according
+to](https://twitter.com/ggreenwald/status/568492138952056832) journalist Glenn
+Greenwald.
+
+Spies from the United States’ National Security Agency (NSA) and the United
+Kingdom's Government Communication Headquarters (GCHQ) “hacked into the
+internal computer network of the largest manufacturer of SIM cards in the
+world,[ stealing encryption keys used to protect the privacy of
+cellphone](https://firstlook.org/theintercept/2015/02/19/great-sim-heist/)
+communications across the globe.” The information was obtained from top-secret
+documents leaked by Edward Snowden.
+
+So what, exactly, did the spy agencies do? According to [journalist Jeremy
+Scahill](https://twitter.com/jeremyscahill/status/568493259347111936) (who
+also works for The Intercept with Greenwald):
+
+> The NSA & GCHQ covertly stole millions of encryption keys used to protect
+> your mobile phone communications: <http://t.co/dVjLuxl4k3>
+>
+> — jeremy scahill (@jeremyscahill) [February 19,
+> 2015](https://twitter.com/jeremyscahill/status/568493259347111936)
+
+Encryption keys are what keep [encrypted
+communications](https://ssd.eff.org/en/module/what-encryption) private to
+third parties, such as governments. In the case of mobile technology, the key
+is [stored in the SIM card](http://paginas.fe.up.pt/~mricardo/08_09/cmov-
+mieec/slides/security-3gpp.pdf) [pdf], and the mobile carrier also holds a
+copy.
+
+Communications are encrypted between the carrier and the phone only, meaning
+that the mobile carrier can use their key to access your data. Typically, a
+mobile carrier would only hand over the key if compelled to do so by law
+enforcement. Therefore, by hacking into the network of Gemalto, the world's
+largest SIM card manufacturer, the spy agencies are able to bypass the rule of
+law and gain access to the SIM encryption keys of potentially billions of
+mobile phone users, allowing them to decrypt phone calls, text messages, and
+other traffic.*
+
+On Twitter, many readers seemed unsurprised by the latest news, considering
+all of the leaks that came before it.
+
+@AnonyOps [questioned](https://twitter.com/AnonyOps/status/568562587371212800)
+the efficacy of the hack, asking:
+
+> It must be asked again, now that we know GCHQ/NSA have basically pwned
+> everything: Why do we still have crime? How is ISIS even a thing?
+>
+> — Anonymous (@AnonyOps) [February 20,
+> 2015](https://twitter.com/AnonyOps/status/568562587371212800)
+
+Privacy International's Eric King joked:
+
+> Who thinks it's a good idea to give Cameron a “golden key”, now we've
+> learned spies have been able to steal millions of them in the past.
+>
+> — Eric King (@e3i5) [February 20,
+> 2015](https://twitter.com/e3i5/status/568695746192494592)
+
+Another important question raised by the story is _who_ is affected by the
+breach. As The Intercept points out, Gemalto's clients include US mobile
+carriers AT&T, T-Mobile, Verizon, and Sprint, as well as 450 wireless network
+providers around the world.
+
+“The company operates in 85 countries and has more than 40 manufacturing
+facilities,” they
+[report](https://firstlook.org/theintercept/2015/02/19/great-sim-heist/). The
+piece also mentions Vodafone (Europe), Orange (France), EE (Europe), Royal KPN
+(the Netherlands), China Unicom, NTT (Japan), and Chungwa Telecom (Taiwan), as
+well as “scores of wireless network providers throughout Africa and the Middle
+East.” A look at Gemalto's
+[website](http://www.gemalto.com/companyinfo/partners) also unearths China
+Mobile and [South Africa's
+MTN](http://www.gemalto.com/press/Pages/news_708.aspx) as partners; the
+company's [Wikipedia page](http://en.wikipedia.org/wiki/Gemalto) shows telecom
+clients in Turkey and Italy, as well.
+
+Some readers expressed anger at the two countries for their seemingly endless
+spying.
+
+Claudio Guarnieri, an Italian malware expert,
+[tweeted](https://twitter.com/botherder/status/568709644555816960):
+
+> United Kingdom is a European Union member state. It's time the Commission
+> sanctions the British for [#GCHQ](https://twitter.com/hashtag/GCHQ?src=hash)
+> hacking of other member states.
+>
+> — Claudio (@botherder) [February 20,
+> 2015](https://twitter.com/botherder/status/568709644555816960)
+
+[Maher Arar](http://en.wikipedia.org/wiki/Maher_Arar), a Syrian-Canadian who
+was once renditioned by the US to Syria and reportedly tortured while in
+custody, [wrote](https://twitter.com/ArarMaher/status/568436740685484032):
+
+> Obama isn't at war w/ Islam but the target of the NSA malware in the US & UK
+> were all Islamic activists & scholars: <http://t.co/eSypJtGYKe>
+>
+> — Maher Arar (@ArarMaher) [February 19,
+> 2015](https://twitter.com/ArarMaher/status/568436740685484032)
+
+Gemalto, the company at the center of the story, has not yet responded
+publicly, but a video from the manufacturer shows its good intentions:
+
+*It's worth noting that this does _not_ allow NSA and GHCQ to access calls, messages, and other communications that are encrypted by other, additional means, such as tools like [RedPhone](https://whispersystems.org/) or [ChatSecure](https://guardianproject.info/). For more information on mobile security, check out [Surveillance Self-Defense](https://ssd.eff.org) or [Security in a Box](https://securityinabox.org/).
+

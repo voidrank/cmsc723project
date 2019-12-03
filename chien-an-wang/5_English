@@ -1,0 +1,102 @@
+![Images mixed by Tetyana Lokot.](https://globalvoicesonline.org/wp-
+content/uploads/2015/01/all-presidents-tweets-runetecho.jpg)
+
+Images mixed by Tetyana Lokot.
+
+The political and social turmoil caused by the [Euromaidan
+protests](https://globalvoicesonline.org/specialcoverage/2013-special-
+coverage/ukraines-euromaiden-protests/) in Ukraine, Russia's annexation of
+Crimea, and the ongoing conflict between the two countries in Eastern Ukraine
+have kept the two states in world news headlines. Social media users in both
+countries have provided an ongoing stream of opinions, forecasts, and stories,
+many of which [RuNet Echo](https://globalvoicesonline.org/-/special/runet-
+echo/) has reported on extensively.
+
+The motivation for this project stems from the observed increase in the use of
+social media as a tool for political debate and discussion in both Ukraine and
+Russia, which became evident during the Euromaidan protests in Ukraine, and
+has been a regular feature of the prolonged Russian-Ukrainian conflict. We are
+interested in learning more about the kinds of discussions people have, the
+kinds of content they post about political issues, and the nature of the
+content that “goes viral.” We are also curious about the extent to which the
+Twittersphere reflects the daily news agenda and the key political events
+during an overall state of political turmoil.
+
+This research builds on the large amount of tweets from opinionated Twitter
+users in Ukraine and Russia, and harnesses the power of big-data analysis and
+information visualization to shed light on what Internet users think about
+their political leaders.
+
+We want to investigate how Russian and Ukrainian Twitter users talk about
+their presidents—Vladimir Putin and Petro Poroshenko. Which one do they talk
+about more? What do they say and in what context? What images and multimedia
+do users associate with these prominent politicians?
+
+To find answers to these and some other questions, we've been collecting
+tweets since October 2014, and now have a corpus of over six million tweets
+mentioning Putin or Poroshenko in English, Russian, and Ukrainian—data that
+can reveal insights about the public discourse around these two men.
+
+We expect these conversations on Twitter to show how users frame the political
+situation and their leaders’ decisions in a broad sense, as well as to
+demonstrate emotional perceptions of both politicians and their actions.
+
+Twitter, in particular, is a medium through which videos, photographs, and
+links to Web content are shared, re-shared, and discussed in a multitude of
+ways, so it gives us rich content with which to work. The 140 characters of a
+tweet’s text makes up only a small portion (about 2%) of the data for each
+tweet. There are also links to embedded media (photos and videos), links to
+the Web, the sender's number of followers, “geotag” locations, and so on. This
+wealth of metadata, coupled with the tweet’s content, provides a significant
+amount of information to explore and visualize.
+
+The data gathering, analysis, and reporting, conducted by [Tetyana
+Lokot](https://globalvoicesonline.org/author/tetyana-lokot/), RuNet Echo's
+contributing editor, [Lawrence
+Alexander](https://globalvoicesonline.org/author/lawrence-alexander/), a data
+scientist and regular RuNet Echo contributor, and [Ed
+Summers](http://mith.umd.edu/people/person/ed-summers/), Lead Developer at the
+Maryland Institute for Technology in the Humanities, will result in a series
+of stories, interactive data visualizations, and multimedia content. These
+pieces, highlighting different aspects of the dataset and interesting
+findings, will be published on RuNet Echo throughout 2015.
+
+We hope you join us as we delve into the collective mind of Russian/Ukrainian
+Twitter users to find out how they talk about their presidents, their
+politics, and the events of the last year.
+
+### RuNet Echo's stories about the ‘presidential’ Twitter dataset from Ukraine
+and Russia
+
+  * [What Do Twitter Users in Ukraine and Russia Say About Their Presidents? An Introduction](https://globalvoicesonline.org/2015/01/13/all-the-presidents-tweets-russia-ukraine-intro/)  
+Internet users often resort to discussing public figures, officials, and
+politicians as representing the best and worst of their countries, and none
+have been as central to recent events as the leaders of the two states.
+
+  * [Twitter Chatter About Putin and Poroshenko: The Language Breakdown](https://globalvoicesonline.org/2015/02/19/twitter-presidents-putin-poroshenko-language/)  
+Tweets in Russian account for over half of the 6,342,294 tweets in our
+dataset. English, Spanish, Ukrainian, and French are the other common
+languages in tweets about Putin and Poroshenko.
+
+  * [Mapping Geolocated Tweets About Putin and Poroshenko](https://globalvoicesonline.org/2015/03/09/heat-map-geolocated-tweets-putin-poroshenko/)  
+North America, Western Europe, and parts of Eastern Europe have the largest
+share of geolocated content in our dataset of tweets about the presidents of
+Russia and Ukraine.
+
+  * [Twitter Discourse Around Putin and Poroshenko in Ukraine and Russia](https://globalvoicesonline.org/2015/06/15/twitter-discourse-around-putin-and-poroshenko-in-ukraine-and-russia/)  
+In a new installment of our citizen-media data-analysis project, All The
+Presidents’ Tweets, we use word clouds to visualize the Russian and Ukrainian
+discourse around Putin and Poroshenko on Twitter.
+
+  * [Hashtags and User Networks in the Putin-Poroshenko Twitter Chatter](https://globalvoicesonline.org/2015/06/29/hashtags-and-user-networks-in-the-putin-poroshenko-twitter-chatter/)  
+Network graphs reveal the associations between individual Twitter users in
+Russia and Ukraine and the hashtags they include in their tweets about
+presidents Putin and Poroshenko.
+
+_**What we do:** [Global Voices](https://globalvoicesonline.org/) reporters
+cover how citizens use the Internet and social media to make their voices
+heard, often translating from and to different languages._
+
+[![](https://globalvoicesonline.org/wp-content/uploads/2012/10/runet-
+echo-375x86.png)](https://globalvoicesonline.org/-/special/runet-echo/)
+

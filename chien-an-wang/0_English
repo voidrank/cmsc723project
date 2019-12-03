@@ -1,0 +1,128 @@
+![Images mixed by Tetyana Lokot.](https://globalvoicesonline.org/wp-
+content/uploads/2015/03/geolocating-presidents-tweets.jpg)
+
+Images mixed by Tetyana Lokot.
+
+_This article is part of a citizen-media data-analysis project, a
+collaboration between[RuNet
+Echo](https://globalvoicesonline.org/-/special/runet-echo/) and the [Maryland
+Institute for Technology in the Humanities](http://mith.umd.edu). Explore the
+complete article series on the [All the Presidents’
+Tweets](https://globalvoicesonline.org/specialcoverage/all-the-presidents-
+tweets/) page._
+
+Our targeted Twitter data sample of over six million tweets contains tweets
+[in many languages](https://globalvoicesonline.org/2015/02/19/twitter-
+presidents-putin-poroshenko-language/), but those are not always indicative of
+where people are tweeting from. While we were predominantly interested in what
+Russians and Ukrainians were saying about their presidents, we were also
+curious to see where tweets originated. As we collected all the tweets
+containing the last names of the presidents of Russia and Ukraine in Russian (
+_Путин_ and _Порошенко_ ), Ukrainian ( _Путін_ and _Порошенко_ ), and English
+( _Putin_ and _Poroshenko_ ), geolocating them could be useful for observing
+where people were talking about them more.
+
+Geolocating tweets can be tricky, as there are several ways Twitter lets users
+indicate their location. For one, a user can specify a _Place_ —manually
+select a city or neighborhood using a preexisting list of locations from a
+Twitter menu. Then there's the _Exact Location_ —a set of coordinates usually
+provided via GPS or cellular triangulation. Manual Place selections are
+usually made from desktops or other fixed-location devices, so if a user ends
+up traveling, the last selected location would still be reflected in the
+tweets, making this location method less precise. The geo-coordinates of the
+Exact Location though usually use a mobile device's GPS capabilities and are
+thus more exact, but this feature is disabled by default in Twitter apps, so
+users must change their account settings for it to be enabled.
+
+In their
+[study](http://journals.uic.edu/ojs/index.php/fm/article/view/4366/3654) of a
+sample of tweets from the Twitter Decahose (10% of all tweets sent globally
+each day) from the fall of 2012, Leetaru et al. found that on an average day
+only 1.6 percent of tweets had Exact Location enabled. According to
+[Semiocast](http://semiocast.com/en/publications/2012_07_30_Twitter_reaches_half_a_billion_accounts_140m_in_the_US),
+who looked at a broader sample of tweets in mid-2012, the geo-coordinates
+feature was used in roughly 0.77% of all public tweets.
+
+![All Exact Location coordinates in the Twitter Decahose 23 October 2012 to 30
+November 2012 \(Leetaru et al., 2013\).](https://globalvoicesonline.org/wp-
+content/uploads/2015/03/figure4_leetaruetal.jpg)
+
+All Exact Location coordinates in the Twitter Decahose 23 October 2012 to 30
+November 2012 (Leetaru et al., 2013).
+
+The image above shows all Exact Location coordinates from Leetaru et al.'s
+sample. Because the percentage of geolocated tweets is so negligible, studies
+relying only on these tweets will almost surely have a skewed view of the
+Twitterverse, especially over short periods of time. However, the map shows
+that in terms of geolocated tweets, Twitter exhibits strong geographic
+diversity, and most countries on the map have at least some geolocated tweets.
+The use of the Exact Location feature is, of course, also tied to mobile
+Internet penetration and smartphone use in various countries. All of this
+means that as a single source of data, geolocated tweets are not
+representative, but as one of many facets providing information about a sample
+of the Twitter stream, they can provide some interesting insights.
+
+The number of geolocated tweets in our Poroshenko/Putin dataset was 31013, or
+0.49% of 6,342,294 total tweets we collected. This is somewhat smaller then
+the percentage of geolocated tweets in the larger samples discussed above, but
+still in line with the general trend.
+
+All the geolocated tweets from our targeted sample are represented on the
+interactive map below, with a dot for each tweet. The saturation of particular
+areas with tweets is color-coded, so areas with more tweets are more red then
+yellow, and areas with a few tweets are more yellow than red. You can zoom in
+and out on the map to see the location of tweets in a particular geographic
+area in more detail by using the “+/-” controls at top left. Clicking on each
+dot reveals a pop-up window with an active link to the tweet in question.
+
+From the visualization, it's obvious that North America, Western Europe, and
+parts of Eastern Europe have the largest share of the geolocated tweets in our
+dataset, and some parts of South America are covered as well. This is fairly
+reflective of the overall global geolocated tweets distribution from larger
+studies with non-targeted samples, with the exception of Asia, which is
+overall more active with geolocated tweets then in our sample.
+
+The [map](http://cdb.io/19ytkqx) also allows you to zoom in on particular
+locations by searching for them in the search bar at top right. Here are some
+comparisons of geolocated tweet density of some key cities based on our sample
+(all magnified to the same level of detail).
+
+![Density of geolocated tweets about Putin and Poroshenko for Moscow \(top\),
+Kyiv \(middle\) and New York \(bottom\), from October 12 to November 30, 2014.
+](https://globalvoicesonline.org/wp-content/uploads/2015/03/moscow-kiev-
+newyork.jpg)
+
+Density of geolocated tweets about Putin and Poroshenko for Moscow (top), Kyiv
+(middle) and New York (bottom), from October 12 to November 30, 2014.
+
+![Density of geolocated tweets about Putin and Poroshenko for London \(top\),
+Paris \(middle\) and Berlin \(bottom\), from October 12 to November 30,
+2014.](https://globalvoicesonline.org/wp-content/uploads/2015/03/london-paris-
+berlin.jpg)
+
+Density of geolocated tweets about Putin and Poroshenko for London (top),
+Paris (middle) and Berlin (bottom), from October 12 to November 30, 2014.
+
+The relative density of geolocated tweets in some of the cities above roughly
+corresponds to Leetaru et al.'s [ranking of the top 20
+cities](http://journals.uic.edu/ojs/index.php/fm/article/view/4366/3654#tab1)
+by percent of geotagged tweets in their 2012 sample. In their ranking, New
+York City comes second, Paris is fifth, London seventh and Moscow 20th. Given
+the theme of our targeted sample, it would be logical to expect more tweets
+about Putin and/or Poroshenko from Berlin, since Germany is closely involved
+in the Russian/Ukrainian politics at the moment, but Berlin users do not seem
+to be in the habit of geotagging their tweets.
+
+Kyiv does not exhibit geolocated tweet density comparable to Moscow, but this
+is not surprising given the difference in [population
+size](http://www.wolframalpha.com/input/?i=population+of+moscow+and+kiev) and
+the difference in [smartphone penetration
+rates](http://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration)
+in Ukraine and Russia. New York has relatively fewer geolocated tweets than
+Paris or London, perhaps mirroring both its geographical and its political
+distance from the Russian/Ukrainian political affairs.
+
+While not entirely representative of the entire six million tweets, this
+smaller geolocated dataset presented as a heat map gives us some sense of how
+the world's attention to the two presidents and their politics is distributed.
+

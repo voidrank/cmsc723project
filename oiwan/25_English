@@ -1,0 +1,130 @@
+[![Wall of keys. Photo by Robert via Flickr \(CC BY
+2.0\)](https://globalvoicesonline.org/wp-
+content/uploads/2015/04/3148510935_3c81360982_b-800x532.jpg)](https://www.flickr.com/photos/robertmontalvo/3148510935/)
+
+Wall of keys. Photo by Robert via Flickr (CC BY 2.0)
+
+Chinese tech experts are openly expressing support for the decision of both
+Google and Mozilla to revoke security certificates issued by China's [Internet
+Network Information Center](http://www1.cnnic.cn/).
+
+A [security certificate](http://en.wikipedia.org/wiki/Public_key_certificate)
+is a technical tool that many websites use in order to provide themselves and
+their users with an extra layer of reassurance that their traffic is actually
+being sent to and from the site they think they're interacting with. For
+example, imagine that you go to your bank's website to transfer some funds.
+You log in, enter some personal information, and then check to see how much
+money is in your account. Banks go to great lengths to make sure that only
+their employees and their clients can see this information — but clever
+attackers can interfere with the secure connection between you and your bank's
+website and capture information as it travels from the website to your
+computer.
+
+Security certificates are a way to guard against such attacks. They have a
+quiet but powerful presence online, especially with online banking and
+e-commerce — a site without a certificate can be perceived as illegitimate and
+untrustworthy. A user will often come across a warning (like the one below)
+when trying to access a site with an invalid security certificate. Though
+users should heed these warnings, [they often ignore
+them](http://www.slate.com/articles/technology/future_tense/2015/02/ssl_warnings_users_ignore_them_can_we_fix_that.html).
+
+![connectionisnotprivate](https://globalvoicesonline.org/wp-
+content/uploads/2015/04/connectionisnotprivate-800x419.png)
+
+[Google and
+Mozilla](http://googleonlinesecurity.blogspot.hk/2015/03/maintaining-digital-
+certificate-security.html) decided this week that they will no longer honor
+certificates issued by CNNIC, following a joint investigation by Google and
+CCNIC into the hijacking of several Google domains, including one involving an
+Egyptian Company called [MCS](http://www.mcsholding.com/) Holdings, which
+served as an intermediary certificate authority of sorts for CNNIC. In this
+incident, a [man-in-the-middle attack](http://en.wikipedia.org/wiki/Man-in-
+the-middle_attack) intercepted secure connections between users and their
+intended destination by directing the users to a separate, disguised website.
+These kinds of attacks are only possible if the disguised website holds a
+digital certificate from a trusted authority.
+
+CNNIC, China's main digital certificate authority, described Google's decision
+as [“unacceptable and
+unintelligible”](http://www1.cnnic.cn/AU/MediaC/Announcement/201504/t20150402_52049.htm)
+and urged Google to “take user's rights and interests into full
+consideration.” Despite CNNIC's promise to prevent any future incidents,
+Google decided to revoke CNNIC's digital certificate in their products.
+
+Mozilla [disclosed](https://blog.mozilla.org/security/files/2015/04/CNNIC-
+MCS.pdf) on their official blog that since 2012, the company has been
+communicating with CNNIC over the problem of mis-issuing intermediate
+certificates to third parties. It has reminded CNNIC that “knowing or
+intential mis-issuance of certificate […] could result in removal of all the
+CNNIC certificates from Mozilla's products.”
+
+In the most recent incident, CNNIC argued that the certificate was issued for
+“testing purposes”, which means it knowingly issued “an unconstrained
+intermediate certificate” to HCS holding which appears to have violated
+CNNIC's own [certificate practice
+statement](http://www.cnnic.cn/jczyfw/fwqzs/CNNICfwqzsywgz/201206/W020130929345948738150.pdf).
+
+These kinds of attacks have become rather common in China. In the discussion
+thread of Chinese tech blogger William Long's
+[report](http://www.weibo.com/1494759712/CbxlO5Wnr?type=comment#_rnd1428054029073)
+on Mozilla and Google's decision on his Weibo, one Weibo user mentioned a
+previous man-in-the-middle attack that targeted Microsoft Hotmail:
+
+> 本无鬼见愁：前段时间工作用的 Hotmail 邮箱受到一次中间人攻击，然后马上把所有电脑上的 CNNIC 证书设置为永不信任，就算 CNNIC
+> 以后不干这么龌龊的事，能达到国际公认的安全要求，我也再不会信任他家的证书了。
+
+> “Non-existed ghost seems sad”: I experienced a [man-in-the-middle attack]
+> when using my Hotmail for my work some while ago. Since then, I changed my
+> computer setting to untrust all the certificates issued by CNNIC. Even
+> though CNNIC promised not to do such a dirty thing again and uphold the
+> international security standard, I will not trust their certificate anymore.
+
+The above-mentioned attack [took
+place](http://netsecurity.51cto.com/art/201410/453617.htm) in early October
+2014, leaving Microsoft's email login page, “login.live.com” under attack in
+most major cities in China. Similar attacks have played out since 2011,
+targeting Skype (2011), GitHub (January 2013), Yahoo (September 2014).
+
+Like most Internet users, many voices on Weibo were confused about CNNIC's
+role in the attack. Bfsu99 reposted penta5kill's explanation in non-technical
+language:
+
+> bfsu99：[…]
+> @penta5kill:回复@舞法舞天丨:就是CNNIC通过假证书骗取浏览器信任然后监控用户，结果被人发现了。你可以理解成间谍把窃听器伪装成手机零配件出售给手机制造商，然后每台出厂的手机自带窃听功能
+
+> bfsu99: […] penta5kill in reply to “law and heaven dance”: CNNIC issued a
+> fake certificate [to clients] so that they could cheat the browsers to trust
+> them. That way they can monitor the targeted internet users. Now their acts
+> have been unveiled. It is as if a spy disguised a tapping device as a mobile
+> device and then sold it to the mobile vendor. From there, the mobile phones
+> automatically fulfill a wiretapping function.
+
+Many comments in William Long's discussion thread expressed support for Google
+and Mozilla's move:
+
+>
+> xxxxoxoxoxoxo：Google宣布旗下产品删除CNNIC根证书，给CNNIC闪亮一巴掌，帮助中国人民出了一口气！支持Google，CNNIC这种机构就得扇脸！
+
+> xxxxoxoxoxoxo: Google announced that all its products would revoke CNNIC's
+> certificate and slapped CNNIC in its face. It helps Chinese people to
+> retaliate. Support Google. Institutions like CNNIC should be slapped in the
+> face.
+
+> 聿渔：互联网应该团结起老对大陆网路进行封杀，禁止一切大陆网络信息外链和送出，既然要搞局域网何不帮狗共一把
+
+> yuyu, The whole Internet should unite and block the Chinese Intranet, ban
+> all the traffic from coming in and out. If CCP wants to build an Intranet,
+> help them!
+
+> ____harm：一個騙子問人為什麼不信任他，大家覺得可笑不？
+
+> ____harm: a liar asks people, why don't you trust me? this is a joke.
+
+As usual, critical comments about CNNIC have been removed from the mainland
+Chinese intranet, as reported by user “Haipeng in Shanghai” (@海鹏在shanghai):
+
+> 网上搜了一下，这几天国内关于CNNIC的负面新闻和评论都被删了，国家级流氓确实牛逼
+
+> I searched around online, all the negative news and comments about CNNIC
+> have been deleted. State-level thugs are so powerful.
+

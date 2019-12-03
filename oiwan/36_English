@@ -1,0 +1,135 @@
+On China's heavily censored web, many web users depend on [Virtual Private
+Networks](http://en.wikipedia.org/wiki/Virtual_private_network) (VPN) and
+[proxy servers](http://en.wikipedia.org/wiki/Proxy_server) to access blocked
+sites such as Facebook and YouTube. However, most of non-commercial proxy
+access points are blocked once the Chinese government identifies their
+existence. In fact, most of the public access points on Tor, part of a vast
+volunteer network that conceals a user's location, [are blocked in
+China](http://www.technologyreview.com/view/427413/how-china-blocks-the-tor-
+anonymity-network/).
+
+Joining the fight against censorship is a new circumvention software called
+Lantern, which launched recently. Using peer-to-peer technology, the software
+allows users to invite friends into a “trust network” and enables members of
+the same network who have VPN or free Internet access to share their Internet
+connection with their friends. This “trust network” makes it difficult for the
+government to discover individual access points as the network is dispersed
+and distributed. So far the majority of the users and traffic come from within
+China.
+
+The makers of the free software released a video to explain how the program
+works, seen above.
+
+Jian Alan Huang, a software engineer, shared the user information of the new
+software with his friends in Twitter:
+
+> [#Lantern](https://twitter.com/search?q=%23Lantern&src=hash)
+> 的用户数刚刚突破了10000，其中中国境内的用户7500人，占75%。从流量上看，中国流量占90%。因此，按比例估计，中国境外还有1500人左右是为中国用户提供流量的。除此之外的其他地区用户只有差不多1000人左右。
+>
+> — Jian Alan Huang (@hnjhj) [November 30,
+> 2013](https://twitter.com/hnjhj/statuses/406643379611500544)
+
+> The number of #Lantern's users has reached 10,000. About 7,500 come from
+> China, which means 75 percent of its total users. Taking a look at its
+> traffic, 90 percent come from China. My estimation is that about 1,500 users
+> overseas are providing their network to help Chinese netizens to circumvent
+> censorship. Only 1,000 users come from other regions.
+
+Alan is among one of the users providing network access to his friends in
+mainland China:
+
+> 打算把一台旧电脑24小时开着专门分享
+> [#Lantern](https://twitter.com/search?q=%23Lantern&src=hash) 连接给墙内小伙伴们。欢迎加我。
+> [pic.twitter.com/0pUnbvFV98](http://t.co/0pUnbvFV98)
+>
+> — Jian Alan Huang (@hnjhj) [November 25,
+> 2013](https://twitter.com/hnjhj/statuses/404950597318635520)
+
+> I am planning to turn on an old computer only for the purpose of sharing.
+> For those who want to get access to the other side of the Wall via #Lantern,
+> please add me.
+
+Many users shared their review on the new tool. Editor of ChinaChange.org
+Yaxue Cao reminded his friends that #Lantern cannot counter surveillance:
+
+> 灯笼
+> （Lantern）是一个为击败互联网审查而共同努力的世界人群网络。灯笼是同伴与同伴间绕开“围墙”的一种新软件。安装和分享这个新软件，从墙内获得被审查和阻挡的墙外信息。
+> 灯笼旨在提供准入，无法保障你不受监控。反监控使用Tor. <http://t.co/hSrfFC1zZl>
+>
+> — Yaxue Cao (@YaxueCao) [November 26,
+> 2013](https://twitter.com/YaxueCao/statuses/405378918095388672)
+
+> Lantern is a network target at defeating Internet censorship. It is a new
+> software for friends to work together to get around the Wall. By installing
+> and sharing this software, you can get access to censored information from
+> outside the Great Firewall. However, Lantern only offers you an open door,
+> it won't protect you from surveillance. If you need to prevent surveillance,
+> you have to use Tor.
+
+@wenyunchao, a Chinese activist based in US, has some suggestions to make:
+
+> 建议 [#Lantern](https://twitter.com/search?q=%23Lantern&src=hash)
+> 能有同时有提供连接和使用连接模式，墙外有很多用户想翻回中国看一些网络资源，如果能双向提供，相信可以吸引更多的墙外节点。同时建议能增加共享带宽设置，例如，我愿意分享30%的带宽给不是好友的用户。
+>
+> — 北风（温云超, Yunchao Wen） (@wenyunchao) [November 24,
+> 2013](https://twitter.com/wenyunchao/statuses/404489897546764288)
+
+> I suggest that #Lantern provide a mutual connection mode as some users from
+> outside China also want to get access to information in mainland China [that
+> are blocked from foreign IP visits]. I believe this would attract more users
+> from outside China to get connected to their friends on the inside. Also, if
+> possible, the user should be able to set broadband traffic preferences. For
+> example, they can choose to allocate 30 percent of their broadband to
+> acquaintances.
+
+@zuihulu and @MyDF explained why they chose Lantern as circumvention tool.
+@zuihulu pointed out that the software icon of Lantern light is very symbolic:
+
+>
+> 试用了两天的Lantern，虽说稳定性和速度都不如我购买的收费VPN或SSH，但是在冬天上网的时候开着Lantern，看着电脑状态栏里面点着一盏灯笼（Lantern的图标），内心居然多了些许的温暖。
+> [#Lantern](https://twitter.com/search?q=%23Lantern&src=hash)
+>
+> — 醉葫芦 (@zuihulu) [November 30,
+> 2013](https://twitter.com/zuihulu/statuses/406779634655576064)
+
+> I have tried the tool for two days. The stability and speed is not as good
+> as commercial VPNs or SSH. But lighting up the Lantern while going online
+> this winter, with a bit of candle light shining from the computer monitor, I
+> feel warmer inside.
+
+> [#Lantern](https://twitter.com/search?q=%23Lantern&src=hash)
+> 是翻墙史上最温馨的一次集结，感性的宣传片，漂亮的界面，好友遥相呼应，当看到软件运行时划出的那一道道美丽的弧线，这个冬天你再也不会感到孤独。
+>
+> — MyDF (@MyDF) [December 1,
+> 2013](https://twitter.com/MyDF/statuses/406947013008162816)
+
+> #Lantern is the most warm-hearted collective action in the history of
+> circumvention. The video is very touching. The interface is pretty and
+> friends are working together. When the software is running, you can see a
+> curve drawn across two continents [friend's network], you won't feel lonely
+> this winter.
+
+[![The program indicates to the user that they are connected to the network
+outside China. Image from Lantern.](https://globalvoicesonline.org/wp-
+content/uploads/2013/12/50b24994.vis_-800x490.gif)](https://www.getlantern.org/images/50b24994.vis.gif)
+
+The program indicates to the user that they are connected to the network
+outside China. Image from Lantern.
+
+With the Great Firewall on Sina Weibo, the most popular microblogging website
+in China, there is little discussion about the new software there. Ken Wang
+[managed](http://weibo.com/1400499162/AkRF4ykIE) to introduce the new tool to
+his friends by avoiding the use of sensitive words:
+
+> 介绍一个全新的网络项目Lantern(灯笼)，这是Google
+> Ideas资助的一个计划，旨在通过p2p信任网络实现突破xxx的努力。项目原理类似点对点下载，每一台安装了灯笼的解放区电脑都可以作为proxy帮助沦陷区电脑上网。灯笼的特色在于只有信任的朋友才能互相帮助，以保证proxy的安全
+
+> Introduced a new Internet project called Lantern. It is a project sponsored
+> by Google Ideas. It is an initiative to break through the XXX [Great
+> Firewall deleted by Ken Wang to prevent censorship] by building a P2P
+> trusted network. The mechanism is similar to
+> [BitTorrent](http://en.wikipedia.org/wiki/BitTorrent). Computers from a
+> liberated area running the Lantern program can serve as proxy for computers
+> from occupied area. To protect the safety of the proxy, users are only
+> connected to their friends’ networks.
+

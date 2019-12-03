@@ -1,0 +1,121 @@
+[![Radiation symbol, photo by Michael
+Hicks](https://globalvoicesonline.org/wp-
+content/uploads/2011/03/radiation-375x250.jpg)](http://www.flickr.com/photos/mulad/1737651749/)
+
+Radiation symbol, photo by Michael Hicks
+
+The crowdsourcing project of mapping radiation levels in Russia measured by
+private dosimeters not only became an interesting case of digital activism,
+but also showed some effects its creators didn’t even think of.
+
+**Disaster Triggers Online Activity**
+
+While writing the [article on nuclear
+debate](https://globalvoicesonline.org/2011/03/14/russia-fukushima-plant-
+disaster-trigger-nuclear-power-debate/) provoked by the series of explosions
+at “Fukushima 1″ nuclear plant, I’ve noticed that in the comments section of
+news articles, as well as at the local message boards, Internet users were
+exchanging the data on radiation levels in their cities. Excited by the
+observation, I offered to Gregory Asmolov, a RuNet Echo contributing editor,
+to create a crowdsourcing map that would structure these chaotic data and
+provide comprehensive information on radiation levels in the regions
+surrounding Japan.
+
+It took one night for Gregory to create this
+[map](http://radiation.crowdmap.com/) (later called “Radiation Map”) at
+_Crowdmap.com_ , online _Ushahidi_ service. And unlike in our [previous
+project,](https://globalvoicesonline.org/2010/08/10/russia-russian-fires-ru-
+the-first-ushahidi-experience/) we didn’t have to go through the painful
+process of bug-fixing and editing Russian translations of Ushahidi
+installation. We were also able to make a multi-lingual platform offering
+opportunities to map radiation for English-speakers. After sending a few links
+to the interested parties (like Russian _Greenpeace_ , which helped a lot in
+spreading the news about the project), we started inviting moderators. Five
+out of six moderators that joined Radiation Map came from the Help Map
+project. This proves the
+[point](https://globalvoicesonline.org/2010/10/23/russia-post-emergency-
+sustainability-of-crowdsourcing-projects/) of Gregory Asmolov that
+crowdsourcing initiatives from one emergency case to another form a core of
+activists willing to participate in the next projects.
+
+In the United States, a similar map-based project _rdtn.org_ had been launched
+several days later. Almost simultaneous appearance of several projects doing
+basically the same thing illustrated that mapping became a somewhat
+“conditioned reflex” of the bloggers all over the world. If radio gave each
+event a sound, TV – an image, then this relatively new ‘mapping reflex’ gave
+each event a geographical location.
+
+**Unplanned Usage**
+
+The initial idea of Radiation Map was to organize the chaotic data from the
+personal dosimeters in the Russian regions neighboring Japan. Most personal
+readings have proven (and keep proving) that there’s no increase in the
+radiation level on the Russian side, and thus all rumors about the “nuclear
+plume” are highly exaggerated by the conventional media.
+
+Then, the users started to report reading and ask to measure radiation levels
+in their own areas. The requests were made from the cities on the other side
+of the globe – in the European Russia, some eight-nine thousand kilometers
+from Japan. What’s even more interesting, other users started to reply to the
+requests, providing dosimeter data and supporting it with the photos of
+dosimeters.
+
+The Radiation Map not only helped organize information and lower the panic
+around Fukushima, but also assisted in re-discovering Russian territories
+heavily contaminated with radiation. The [following
+message](http://radiation.crowdmap.com/reports/view/142) [ru] represents one –
+and so far, the only – case of such “re-discovery”:
+
+> Автомагистраль Челябинск-Екатеринбург. Возле моста фон – 340 мкР/час. В 20
+> метрах от моста 310 мкР/час. Замерено радиометром “Нейва”.
+>
+> Комментарий Дениса Куландина:  
+>  При мощности экспозиционной дозы естественного фона (5-30) мкР/ч, показания
+> на индикаторе должны быть в пределах 5 – 30 мкР/ч. Опасной считается доза в
+> 50 микрорентген. Тут речь идет об опасном для жизни уровне! Необходимо
+> проверить показания! Я отправил письмо, ожидаю ответа.
+
+Highway somewhere between Chelyabinsk and Yekaterinburg. Next to the bridge
+[over [Techa river](http://en.wikipedia.org/wiki/Techa_River)] – 340
+microroentgen per hour. In 20 meters from the bridge – 310 microroentgen per
+hour. Measured with “Neiva” [ _Russian brand – GV_ ] dosimeter.
+
+Denis Kulandin [ _one of the Radiation Map moderators – GV_ ] commented:  
+Considering that the exposure dose of the natural radiation level is about
+5-30 microroentgen per hour, the data on the [ _dosimeter – GV_ ] indicator
+should be within these values. The radiation level is considered dangerous
+starting from the level of 50 microroentgen per hour. Now, that is the
+dangerous level! We need to check this data! I've sent a letter, waiting for
+the answer.
+
+[Techa
+river](http://www.google.ru/search?sourceid=chrome&ie=UTF-8&q=techa+river) is
+a famous case of radioactive contamination for physicians all over the world
+(as one article re-phrased a famous meme: “In Soviet Russia, Lake Contaminates
+You”). Back in 1957, a [Kyshtym
+disaster](http://en.wikipedia.org/wiki/Kyshtym_disaster) happened (the second
+most destructive nuclear disaster in the human history after Chernobyl). For
+many Russians, however, the story is still either unknown or the radioactive
+contamination is perceived not dangerous.
+
+Commenter named Pavel (in his e-mail he wrote that he's a local journalist)
+[explained](http://radiation.crowdmap.com/reports/view/142) [ru] the nature of
+unusually high level of the radiation:
+
+> […] Это последствия сброса жидких радиоактивных отходов ПО “Маяк” в каскад
+> Теченских водоемов. Странно что на этом сайте это не было отмечено ранее…
+> Выше по течению (как можно видеть на карте) и располагается этот каскад. Там
+> фон, я думаю, в тысячи раз выше того, что я намерил на этом мосту.[…]
+
+[…] These are the consequences of the liquid radioactive waste discharge from
+[Mayak chemical plant](http://en.wikipedia.org/wiki/Mayak) [ _early Cold War
+nuclear plant – GV_ ] to the cascade of Techa reservoirs. It is strange that
+no one had pointed out this place before… As you can see on the map, the
+cascade is situated upstream. The radiation level there, I think, is thousand
+times higher than at the bridge where I made my radiation measurement […]
+
+When the Radiation Map was created, the both cases of self-help in spreading
+radiation data and re-discovery of contaminated places were not planned . This
+unusual usage illustrates how people inhabitate digital spaces and use
+platform functionality in the ways limited only by their creativity.
+

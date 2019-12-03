@@ -1,0 +1,105 @@
+[![Image by Mozilla in Europe on Flickr. Taken on February 24, 2014. CC-BY
+2.0](https://globalvoicesonline.org/wp-
+content/uploads/2015/02/12748159034_89b8469983_k.jpg)](https://www.flickr.com/photos/mozillaeu/12748159034/in/photolist-
+kqvDxq-dkvfYg-dkvfq2-dkveZT-dkvfEa-dkvfaM-dkvibY-dkvhEW-dkvfPR-dkvimW-
+dkvhr9-9R1vwR-kFascE-5SGHWW-
+emPB3w-dYevqL-6r2MQ7-74D5e4-cXDCUm-4FWPJ7-NhL6d-jXjM5c-g8yrqM-6aJeBK-21uwmv-
+dUyEbw-fGkums-66AZqD-fG3TXK-7RGdNq-5SCraA-owjg6E-bxYGyN-7FjRWL-i23xyR-5PnxKf-
+qacBLZ-3WAqLG-q5PKmP-pM7iK6-pLTb9b-3WApj9-qrrH1r-4Lf4wn-3WAnhq-kZ9eqT-
+kqu1Q8-iDR6oA-iDN5cv-iDM4jc)
+
+相片來自Flickr，Mozilla in Europe。拍攝於2014年2月24日。CC-BY 2.0
+
+根據爆出斯諾登(Edward Snowden)事件的記者格林沃德(Glenn
+Greenwald)[所說](https://twitter.com/ggreenwald/status/568492138952056832)，一個「目前為止最精彩的斯諾登故事」在2月20日浮出水面。
+
+美國國家安全局(NSA)和英國政府通信總部(GCHQ)的間諜「入侵了世界最大的幾家SIM卡生產商的內部信息系統，[竊取了用於保護全球手機通訊隱私的密鑰](https://firstlook.org/theintercept/2015/02/19/great-
+sim-heist/)」。這則消息來自於斯諾登洩露的高度機密文件。
+
+那麼，這些間諜到底做了什麼？格林沃德在The Intercept的同事[記者Jeremy
+Scahill](https://twitter.com/jeremyscahill/status/568493259347111936)這樣說：
+
+> The NSA & GCHQ covertly stole millions of encryption keys used to protect
+> your mobile phone communications: <http://t.co/dVjLuxl4k3>
+>
+> — jeremy scahill (@jeremyscahill) [February 19,
+> 2015](https://twitter.com/jeremyscahill/status/568493259347111936)
+
+> NSA和GCHQ秘密竊取了幾百萬個用於保護你的手機信息的密鑰:[interc.pt/1COE51C](http://t.co/dVjLuxl4k3
+> "http://interc.pt/1COE51C")
+
+這些密鑰可以確保[個人通訊的隱私](https://ssd.eff.org/es/module/%C2%BFqu%C3%A9-es-el-
+cifrado)不被包括政府在內的第三方掌握。對於手機通訊來說，這個密鑰[儲存在](https://sites.google.com/site/globalvoiceszh/file-
+cabinet-2/goog_2036140021)[SIM卡裡](http://paginas.fe.up.pt/~mricardo/08_09/cmov-
+mieec/slides/security-3gpp.pdf)，同時電信公司也保存備份。
+
+通訊信息只在電信公司和手機之間加密，這意味著只有電信公司可以通過這個密鑰來獲取資料。通常來說，電信公司只有在執行法律要求的情況下才會交出這個密鑰。所以，這些間諜機構入侵了世界最大的SIM卡生產商Gemalto，就意味著他們可以避開法律來獲取可能約幾十億手機用戶的密鑰，然後解密這些手機上的電話、簡訊和其他通訊交流＊。
+
+在Twitter上，很多看到這則新聞的人並不覺得驚訝，特別是考慮到斯諾登之前曝光的資料。
+
+@AnonyOps就質問了這些駭客的有效性：
+
+> It must be asked again, now that we know GCHQ/NSA have basically pwned
+> everything: Why do we still have crime? How is ISIS even a thing?
+>
+> — Anonymous (@AnonyOps) [February 20,
+> 2015](https://twitter.com/AnonyOps/status/568562587371212800)
+
+> 我們必須要問了，既然GCHQ/NSA幾乎知道了所有的事情：現在世界上怎麼還有犯罪？伊斯蘭國怎麼還這麼囂張？
+
+隱私國際(Privacy International)的Eric King也開玩笑：
+
+> Who thinks it's a good idea to give Cameron a “golden key”, now we've
+> learned spies have been able to steal millions of them in the past.
+>
+> — Eric King (@e3i5) [February 20,
+> 2015](https://twitter.com/e3i5/status/568695746192494592)
+
+> 現在我們知道了間諜們已經偷了幾百萬個「鑰匙」，誰還覺得給卡梅倫一個「金鑰匙」是一個好主意？
+
+這則新聞所帶來的另一個重要的問題是這些間諜行為的受害者是誰。據The
+Intercept所說，Gemalto的客戶有全世界的450多家無線通訊公司，包括美國的AT&T, T-Mobile, Verizon和Sprint.
+
+據The Intercept[報導](https://firstlook.org/theintercept/2015/02/19/great-sim-
+heist/)，「這家公司在全球85個國家經營並擁有40多家工廠」。這篇文章也提到了歐洲的Vodafone和EE，法國的Orange，荷蘭的Royal
+KPN,
+中國聯通，日本的NTT，台灣的中華電信，以及好幾間「非洲和中東的電信公司」。Gemalto的[網站](http://www.gemalto.com/companyinfo/partners)還提到與中國移動和[南非的MTN](http://www.gemalto.com/press/Pages/news_708.aspx)也有合作，他們公司的[維基百科頁面](http://es.wikipedia.org/wiki/Gemalto)同時提到了土耳其和義大利的移動通信商也是Gemalto的客戶。
+
+一些Twitter網友也對美英兩國無休止的間諜行為表達了憤怒。
+
+義大利的信息安全專家Claudio
+Guarnieri[寫到](https://twitter.com/botherder/status/568709644555816960)：
+
+> United Kingdom is a European Union member state. It's time the Commission
+> sanctions the British for [#GCHQ](https://twitter.com/hashtag/GCHQ?src=hash)
+> hacking of other member states.
+>
+> — Claudio (@botherder) [February 20,
+> 2015](https://twitter.com/botherder/status/568709644555816960)
+
+> 英國是歐盟成員國。GCHQ監視其他歐盟成員國，現在是歐盟委員會該制裁英國人的時候了。
+
+[Maher
+Arar](http://en.wikipedia.org/wiki/Maher_Arar)是一個敘利亞裔的加拿大人，他曾經被美國引渡回敘利亞並在被拘捕時遭到虐待。他在Twitter[寫到](https://twitter.com/ArarMaher/status/568436740685484032)：
+
+> Obama isn't at war w/ Islam but the target of the NSA malware in the US & UK
+> were all Islamic activists & scholars: <http://t.co/eSypJtGYKe>
+>
+> — Maher Arar (@ArarMaher) [February 19,
+> 2015](https://twitter.com/ArarMaher/status/568436740685484032)
+
+> 歐巴馬沒有和伊斯蘭開戰，但是NSA惡意程式的目標卻都是美國和英國的伊斯蘭活躍人士和學者。:
+> [ow.ly/Jkf62](http://t.co/eSypJtGYKe "http://ow.ly/Jkf62")
+>
+> [http://](http://t.co/eSypJtGYKe
+> "http://ow.ly/Jkf62")[ow.ly/Jkf62](http://t.co/eSypJtGYKe
+> "http://ow.ly/Jkf62")
+
+被捲入這次曝光漩渦中心的Gemalto公司還沒有做出任何回應。但是這家公司的一段影片卻表現了他們的善意：
+
+＊值得一提的是，如果電話、簡訊和其他通訊被其他工具(例如[RedPhone](https://whispersystems.org/)和[ChatSecure](https://guardianproject.info/))所保護，NSA和GCHQ並不能通過這個密鑰來竊取這些信息。如果希望更了解信息安全，可以看看[Surveillance
+Self-Defense](https://ssd.eff.org/en)和[Security in a
+Box](https://securityinabox.org/)。
+
+校對：Bamboo Hsu
+

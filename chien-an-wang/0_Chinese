@@ -1,0 +1,63 @@
+![Images mixed by Tetyana Lokot.](https://globalvoicesonline.org/wp-
+content/uploads/2015/03/geolocating-presidents-tweets.jpg)
+
+圖片由Tetyana Lokot製作。
+
+__本篇文章是一份公民媒體資料分析計畫的其中部分。該計畫是由[回聲計畫](https://globalvoicesonline.org/-/special/runet-
+echo/)(RuNet
+Echo)和[馬里蘭科技暨人文學院](http://mith.umd.edu/)共同合作。請上[總統們的所有貼文](https://zh.globalvoicesonline.org/hant/2015/02/18/18077/)一文頁面，探索完整的文章系列。__
+
+我們鎖定的這超過600萬筆推文數據樣本[涵蓋了眾多語言](https://globalvoicesonline.org/2015/02/19/twitter-
+presidents-putin-poroshenko-
+language/)，但這可不表示推友實際的所在地區。雖然我們主要感興趣的是俄國人和烏克蘭人對於他們的總統都討論些什麼，然而我們也同樣好奇，這些推文來自何方?
+我們蒐集了所有包含俄烏兩國總統名字的推文──包含了俄文(Путин, Порошенко)、烏克蘭文(Путін, Порошенко)、英文(Putin,
+Poroshenko)的拼寫。地理標記有助我們更能觀察出，討論這兩位的推友們都分布在哪裡。
+
+要標記推文的位置可以是一項棘手的工作，因為推特提供許多方式讓使用者表現他們的位置。首先，使用者可以明確指示一個「地點」，即透過推特上現有的位置清單，手動選擇一座城市或鄰近地區。接著還有「詳細位置」──即一組由衛星定位系統或三角測量提供的經緯度。地點通常是藉著桌上型電腦或是其他可設定地點的裝置手動選定的。一個用戶結束一段旅途後，他的最終位置仍會反映在他的推文上面，而這會讓其定位方法更不精確；詳細位置的經緯度雖然通常採自行動裝置內建的衛星定位，且較準確，但其實這還會受到推特
+APP 的限制，所以用戶必須更改他們的帳戶設定，好讓定位更為準確。
+
+Leetaru
+等人從2012年秋季起便著手收集推特樣本，每一天蒐集全球各地所發推文數量的10%。而在他們透過Decahose得到的推文樣本進行的[研究](http://journals.uic.edu/ojs/index.php/fm/article/view/4366/3654)發現，只有1.6%的樣本包含了詳細位置。而[Semiocast](http://semiocast.com/en/publications/2012_07_30_Twitter_reaches_half_a_billion_accounts_140m_in_the_US)在2012年中得來的推文樣本則更廣。他們指出，在所有公開推文中只有0.77%包含地理經緯度。
+
+![All Exact Location coordinates in the Twitter Decahose 23 October 2012 to 30
+November 2012 \(Leetaru et al., 2013\).](https://globalvoicesonline.org/wp-
+content/uploads/2015/03/figure4_leetaruetal.jpg)
+
+Leetaru 等人在2013年公布的研究。從2012年10月23日至2012年11月30日蒐集了所有推文。圖上是這些推文在全球的分布經緯位置。
+
+上面圖片展示了 Leetaru
+等人所有推文樣本的詳細位置。但由於他們蒐集到有地理標記推文的比例，小到可被忽略，單純根據這些推文所做的研究，對整個推特圈的觀察當然會扭曲，特別是如果只採集短期內的資料的話。然而，就地理標記而言，這張地圖卻說明了，推特存在著極大的地理分布差異。圖上大部分的國家都有一些地理標記過的推文。當然，詳細位置的採用，也和許多國家行動網路普及、智慧型手機的使用有緊密關聯。這一切意味著，地理標記推文作為資料的單一來源，其實代表性並不足夠，但是就提供關於推文趨勢資訊這方面來說，它們可以提供一些有趣的見解。
+
+而在我們蒐集到的這總計634,2294筆標有波洛申科和普丁的推文資料中，有地理標記的推文有31013筆，佔0.49%。比上面介紹的研究中標有地理位置的推文的比例，還來得少一些，但仍和整體趨勢相吻合。
+
+從我們鎖定的樣本中得來的所有被標記過的推文，已呈現在下面這張互動圖表裡，每個點代表一筆推文。某些地區的推文十分飽和，則會用彩色表示。一個推文越多的地方，紅色就會比黃色多。推文少的地方，黃色就會比紅色多。你可以藉著地圖左上方的「
++/-」在地圖上放大縮小，以看清楚在特定地區裡的推文分布位置。在每一個點上按一下的話則會跳出視窗，裡面會有現成的連結導往推文。
+
+透過視覺化技術很明顯地可以看出，在我們的數據資料裡，地理標記在北美、西歐和東歐部分地區的推文佔掉了有標記地理位置的最大部分。南美洲一些地區也包含在內。這完全反映了在更大型且未鎖定樣本的研究中，全球有地理標記推文的分布位置。而亞洲是例外。在我們的樣本中，亞洲總體而言有更多附地理標記的推文。
+
+而這張[地圖](http://tlokot.cartodb.com/viz/c2be4d38-b7c4-11e4-a947-0e853d047bba/public_map)也能讓你藉著右上方的搜尋框框，在特定地區裡放大。以下是根據我們樣本標記在各特定城市中的推文，利用分布密度所做出的比較。圖片皆放大至相同程度。
+
+![Density of geolocated tweets about Putin and Poroshenko for Moscow \(top\),
+Kyiv \(middle\) and New York \(bottom\), from October 12 to November 30, 2014.
+](https://globalvoicesonline.org/wp-content/uploads/2015/03/moscow-kiev-
+newyork.jpg)
+
+含有地理標記且關於俄烏總統的推文，在特定城市裡的分布密度。由上至下依序為莫斯科、基輔和紐約。蒐集時間從2014年10月12日至11月30日。
+
+![Density of geolocated tweets about Putin and Poroshenko for London \(top\),
+Paris \(middle\) and Berlin \(bottom\), from October 12 to November 30,
+2014.](https://globalvoicesonline.org/wp-content/uploads/2015/03/london-paris-
+berlin.jpg)
+
+含有地理標記且關於俄烏總統的推文，在特定城市裡的分布密度。由上至下依序為倫敦、巴黎和柏林。蒐集時間從2014年10月12日至11月30日。
+
+位置標記在一些城市裡的推文，其相對密度比例來說大致呼應了 Leetaru
+等人在2012年採集的地理標記推文樣本中，[前20名的城市](http://journals.uic.edu/ojs/index.php/fm/article/view/4366/3654#tab1)。在它們所做的排名中，紐約排名第二，巴黎是第五名，倫敦位第七名而莫斯科是第二十名。而我們鎖定的樣本有特定的主題，預測柏林那裏關於普丁或波洛申科的推文會比較多，應該是很合理的，因為德國在此時對俄烏兩國的政治糾紛涉入甚深。但是，柏林的用戶們似乎沒有幫他們的推文打卡的習慣。
+
+標記在基輔的推文數量無法和標記在莫斯科的相比，就烏俄兩國各自的[人口數量](http://www.wolframalpha.com/input/?i=population+of+moscow+and+kiev)和[智慧型手機](http://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration)普及率來說這其實不意外。而標記在紐約的推文，比起巴黎或倫敦還相對地少，也許這反映了紐約和俄烏政治事務之間的地理和政治距離。
+
+雖然這微小的地理標記推文資料不能完全代表這整整600萬筆的推文，但它們以熱圖呈現後，也給了我們一些判斷對這兩位總統的關注，在全球分布情況的見解。
+
+譯者：Chien-An Wang  
+校對：YH Lin
+

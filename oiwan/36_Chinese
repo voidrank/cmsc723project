@@ -1,0 +1,28 @@
+由於中國嚴格的網絡監管，很多網民依靠[Virtual Private
+Networks](http://en.wikipedia.org/wiki/Virtual_private_network)與[proxy
+servers](http://en.wikipedia.org/wiki/Proxy_server)登錄被封殺的網絡，如Facebook和YouTube。但是，一旦中國政府發現後，大部分非商業性質的proxy接入點就被封殺了。事實上，在中國，Tor（Tor是一個巨大的義工網絡的一部分，用來遮蔽用戶的地址）上大部分公共接入點都遭到[封殺](http://www.technologyreview.com/view/427413/how-
+china-blocks-the-tor-anonymity-network/)。
+
+最近，一款叫「Lantern（燈籠）」的新型規避軟體也加入了對抗網絡封殺的鬥爭中。該軟體應用WIN對等技術，允許用戶邀請好友到「信任網絡」中，同時，允許同一網絡中使用VPN或可以自由網絡接入的成員與好友共享他們的網絡連接。該「信任網絡」使中國政府難以發現個體接入點，因為網絡更加分散了。至今大部分用戶和流量來自於中國。
+
+該軟體製造商發佈了以上影片來解釋該程序是如何運作的。
+
+Jian Alan Huang是一位軟體工程師，在推特上與好友分享了該新型軟體的用戶信息：
+
+> [#Lantern](https://twitter.com/search?q=%23Lantern&src=hash)
+> 的用戶數剛剛突破了10000，其中中國境內的用戶7500人，佔75%。從流量上看，中國流量佔90%。因此，按比例估計，中國境外還有1500人左右是為中國用戶提供流量的。除此之外的其他地區用戶只有差不多1000人左右。
+>
+> — Jian Alan Huang (@hnjhj) [November 30,
+> 2013](https://twitter.com/hnjhj/statuses/406643379611500544)
+
+Alan就是為他的中國大陸朋友提供網絡接入的用戶之一：
+
+> 打算把一台舊電腦24小時開著專門分享
+> [#Lantern](https://twitter.com/search?q=%23Lantern&src=hash) 連接給牆內小夥伴們。歡迎加我。
+> [pic.twitter.com/0pUnbvFV98](http://t.co/0pUnbvFV98)
+>
+> — Jian Alan Huang (@hnjhj) [November 25,
+> 2013](https://twitter.com/hnjhj/statuses/404950597318635520)
+
+不少用戶分享了他們使用這一項新工具的評論。
+

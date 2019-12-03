@@ -1,0 +1,301 @@
+_This is the second of a three-part series that aims to add more context to
+the case studies and project listings on the Technology for Transparency
+Network. You can find part
+one[here](https://globalvoicesonline.org/2010/03/02/the-technology-for-
+transparency-review-part-i/)._
+
+Over at the [Technology for Transparency
+Network](https://transparency.globalvoicesonline.org/) we have already
+documented [30 technology
+projects](https://transparency.globalvoicesonline.org/projects/all) that
+promote transparency, accountability, and civic engagement, but we still have
+yet to clearly define each of those concepts and explain in detail why they
+are valued in bringing about good governance and a healthy society.
+
+### Why Transparency?
+
+When we discuss
+[transparency](http://en.wikipedia.org/wiki/Transparency_\(behavior\)), we are
+generally referring to published information about government processes,
+budgets, and elected officials. There are also other projects, such as
+[CorpWatch](http://www.corpwatch.org/), [Publish What You
+Pay](http://www.publishwhatyoupay.org/), and
+[Sourcemap](http://www.sourcemap.org/) that aim to publish more private sector
+information that is also in the public's interest.
+
+Sometimes this information is made available by governments themselves. For
+example, in June, 2002 then-President of Mexico, Vicente Fox, signed [his
+country's first freedom of information
+law](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB68/laweng.pdf) which requires
+government agencies to publish in a routine and accessible manner all
+information concerning their daily functions, budgets, operations, staff,
+salaries, internal reports, and the awarding of contracts and concessions. (A
+[clear analysis of the law](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB68/) was
+published by Kate Doyle the day it was passed. John Ackerman has published a
+[three-year evaluation of Mexico's implementation of the
+law](http://www.fundar.org.mx/secciones/publicaciones/pdf/right_to_know/SEC8%20John%20M.%20Ackerman.pdf)
+in comparison to similar freedom of information initiatives around the world.)
+
+Many times, however, governments don't want to publish information about their
+activities and budgets because it invites criticism and could expose corrupt
+behavior. In some of these countries citizens have begun publishing that
+information for themselves. Ory Okolloh, the co-founder of
+[Mzalendo](http://www.mzalendo.com/), [tells
+us](https://transparency.globalvoicesonline.org/project/mzalendo) that the
+project began in 2006 when Kenyan MP's demanded that the Parliament website be
+shut down to prevent public access to their CV's. Concerned Kenyan citizens
+then began attending Parliament sessions in order to publish their
+observations and help build an [online database of legislative
+information](http://www.mzalendo.com/Bills.List.php). Similarly, [Mumbai
+Votes](http://mumbaivotes.com/) collects and publishes information about the
+criminal records of public officials and election candidates.
+
+Often times we find that governments do in fact publish information about
+their activities and spending, but they do so in ways that are not easily
+accessible or comprehensible. For example, the municipal government of Tel
+Aviv publishes their budget each year as a long, detailed PDF document. All of
+the information is there, but it is published in a way so that citizens cannot
+easily understand, visualize, and analyze their government's spending
+decisions. The team behind “[Our
+Budget](https://transparency.globalvoicesonline.org/project/our-budget)“,
+therefore, used a combination of optical character recognition (OCR)
+technology and human verification to convert the data to spreadsheet format
+and use online tools to visualize and analyze the city's spending. In
+Argentina all political parties are required to publicly disclose the campaign
+contributions they received at least ten days prior to voting day. However,
+once again these parties publish the information in long PDF reports that
+obscure the relationships between money and politics in electoral campaigns.
+[Dinero y
+Política](https://transparency.globalvoicesonline.org/project/dinero-y-
+pol%C3%ADtica-money-politics) is an attempt to present that same information
+using interactive visualizations that clearly compare and contrast campaign
+contributions by district, political party, and industry. In Kenya, [Budget
+Tracking Tool](https://transparency.globalvoicesonline.org/project/budget-
+tracking-tool) takes the budgets of federally funded, local development
+projects, which are [buried deep down in government web
+pages](http://www.cdf.go.ke/index.php?option=com_content&task=view&id=2188&Itemid=85),
+and presents them in a single database where users can leave comments about
+the progress, impact, and efficiency of the projects. (So far, few have.)
+
+### Why Civic Participation?
+
+Does transparency lead to accountability? If citizens have more information
+about the activities of their government, and more access to that information,
+then will public officials be compelled to perform their jobs more
+competently? Will citizens demand that their input be taken into consideration
+in the shaping and enforcement of policy decisions? Recently, some scholars
+and observers are casting doubt on that long-held assumption. “Transparency
+mobilizes the power of shame,” [writes Jonathan
+Fox](http://www.escholarship.org/uc/item/8c25c3z4), “yet the shameless may not
+be vulnerable to public exposure. Truth often fails to lead to justice.” In a
+[podcast interview earlier this year with Fabiano
+Angelico](https://globalvoicesonline.org/2010/02/09/podcast-interview-with-
+fabiano-angelico-of-transparncia-brasil/) of [Transparência
+Brasil](http://www.transparencia.org.br/index.html), he echoes Fox's argument,
+claiming that Brazilian politicians who have been repeatedly outed as corrupt
+are still re-elected, often times _because_ of their corruption. In such cases
+Angelico advocates that special, appointed judges with proven track records
+should bar repeatedly corrupt politicians from running for office. This
+challenges classical notions of liberal democracy: that citizens should
+ultimately hold their leaders accountable by supporting or removing them from
+office on election day. But Guillermo O'Donnell supports Angelico's proposal,
+[noting](http://books.google.com/books?id=MD8Vx1HLOZgC&pg=PA14&lpg=PA14&dq=Schedler+answerability&source=bl&ots=-iQ0rqBPQ5&sig=n3YuRguQf_YFcS6OC26Q9owJyi0&hl=en&ei=WZbVS_bGJ46J_AbenPm4Dw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBQQ6AEwAw#v=onepage&q&f=false)
+that modern democracies require both “vertical accountability”, as in
+elections, and “horizontal accountability”, such as inter-governmental
+regulatory agencies that are empowered to sanction politicians that don't
+follow the law.
+
+Another example of transparency failing to lead to accountability can be found
+in Liberia where [President Ellen Johnson-
+Sirleaf](http://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf) established a
+[Truth and Reconciliation Commission (TRC)](https://www.trcofliberia.org/) in
+2005, modeled after a similar post-Apartheid truth commission in South Africa.
+The TRC is very much an agent of horizontal accountability, tasked with
+investigating and publishing information related to more than 20 years of
+civil conflict in the country, and sanctioning elected officials who were
+criminally involved. In June 2009 the TRC issued its final report, which named
+50 individuals – [including Johnson-
+Sirleaf](http://www.time.com/time/world/article/0,8599,1908635,00.html) – who
+should be barred from public office for 30 years because of their direct
+involvement in the country's civil war. President Johnson-Sirleaf, however,
+remains in power, ignoring the recommendations of the TRC while [implementing
+her own transparency and anti-corruption
+legislation](http://allafrica.com/stories/200908101384.html). Despite her
+controversial past, Johnson-Sirleaf is still seen by many as a strong leader
+with a strong international profile who can help Liberia return to peace and
+democracy.
+
+Most researchers and observers do agree that greater transparency will not
+lead to increased accountability unless proactive civic engagement is shaped
+around the information that is published. Several of the projects we've
+documented aim to use social networks to bring about this engagement.
+[#InterNetnecesario](https://transparency.globalvoicesonline.org/project/internetnecesario)
+in Mexico, for example, used a combination of Twitter, blog posts, and media
+outreach to put pressure on Mexican legislators to eliminate a three percent
+tax on internet access that was passed without the the media or civil
+society's consultation. It is a classic example of transparency plus civic
+participation leading to accountability. Mexican Twitter user [Alejandro
+Pisanty](http://twitter.com/pisanty) published information about the newly
+passed law that was not formerly available. A decentralized, online protest
+then took place using Twitter, blogs which acted as filters and added context,
+and email petitions to Mexican senators. The Mexican Chamber of Deputies soon
+realized the size and strength of the opposition to the tax and invited
+representatives of the online protest into the Chamber to make their arguments
+against the tax, which they had been rehearsing online over the previous few
+weeks. However, #InternetNecesario has also (so far) proved to be a temporary
+phenomenon that in no way builds systematic processes to continually promote
+transparency or to hold leaders accountable in the future. Cuidemos El Voto
+offers an example of a more sustained project that aims to prevent electoral
+misconduct – and specifically the buying of voters – during federal and local
+elections. By partnering with the Office of the Special Prosecutor, which was
+established in 2002 to document past human rights abuses, Cuidemos El Voto
+attracted official federal endorsement of the voter misconduct they
+documented. It is difficult, however, to measure the impact of making more
+visible the buying of votes by politicians and political parties and we have
+[yet to see an
+example](https://transparency.globalvoicesonline.org/project/cuidemos-el-
+voto#comment-68) of a candidate or party who was barred from office for
+electoral misconduct that was reported on a website like Cuidemos el Voto.
+
+Other project leaders were skeptical that increased civic discussion will
+ultimately lead toward improved governance. Vivek Gilani of [Mumbai
+Votes](https://transparency.globalvoicesonline.org/project/mumbai-votes) says
+that online discussions tend to be rooted in personal opinion and gossip
+whereas his project aims to provide readers with crisp, clear assessment based
+on facts. He does not wish to provide users with a space to participate, but
+rather a resource to become better informed in order to vote for the most
+qualified candidates.
+
+### How to Bring About Accountability?
+
+A number of websites we've reviewed function as portals where citizens can
+list their complaints – in general about their community, and specifically
+related to their government's administration of their community – to put
+pressure on the government to be more responsive to their needs. Examples
+include [Ishki](https://transparency.globalvoicesonline.org/project/ishki) in
+Jordan, [Kiirti](https://transparency.globalvoicesonline.org/project/kiirti)
+in India, and [Penang
+Watch](https://transparency.globalvoicesonline.org/project/penang-watch) in
+Malaysia. The varying goals and strategies of these projects point to a
+distinction that [Andreas Schedler
+makes](http://books.google.com/books?id=MD8Vx1HLOZgC&lpg=PA14&ots=-iQ0rqBPQ5&dq=Schedler%20answerability&pg=PA14#v=onepage&q&f=false)
+between two different dimensions of accountability: on the one hand, the
+capacity or the right to demand answers (“answerability”) and, on the other
+hand, the capacity to sanction. Of course, as grassroots projects, none of the
+websites we reviewed are empowered with any official capacity to sanction. But
+several projects do seek answerability in a variety of ways.
+
+[Ishki](https://transparency.globalvoicesonline.org/project/ishki) was started
+by four Jordanian technologists who were tired of hearing the same complaints
+muttered over and over again without any action or plan for action. They
+created a website to collect citizen complaints against the public and private
+sector as a way to better understand and visualize the most common complaints
+in Jordanian society. Their strategy is then to work with mainstream media
+organizations – newspapers and radio stations – to create stories about
+recurring complaints with the hope that increased coverage in the media will
+put pressure on public officials to respond. In this sense, Ishki serves as a
+community filter between internet users at large and mainstream media looking
+for interesting watchdog stories to report on. Users can also [submit and sign
+petitions](http://ishki.com/en/petitions), though the most recent petition was
+posted two months ago. So far we have no examples of public officials
+responding to complaints or petitions that originated on the website.
+
+In India, [Kiirti](https://transparency.globalvoicesonline.org/project/kiirti)
+takes a slightly different approach from Ishki. Rather than relying on print
+and broadcast media as an instrument to put pressure on public officials, they
+send emails directly to the relevant agencies in major Indian cities to ask
+them to follow up on the complaints submitted to Kiirti. Founder Selvam
+Velmurugan says that a streetlight was repaired and a mud path was paved
+because of complaints submitted to Kiirti. It might seem strange that
+submitting a complaint to a website which is then relayed to the proper agency
+is more effective than submitting the complaint directly to the agency itself
+in the first place. It certainly isn't more efficient. But perhaps the public
+visibility of such complaints – and the responses by officials to those
+complaints – is an incentive for public officials to react. They are therefore
+able to show not only the demand for their work, but also their
+responsiveness.
+
+In northwestern Malaysia, [Penang
+Watch](https://transparency.globalvoicesonline.org/project/penang-watch) takes
+the accountability agenda one step further with a series of steps to
+communicate with – and then harass – city officials until citizen complaints
+are answered. Complaints submitted to
+[PenangWatch.net](http://www.penangwatch.net/) are first verified by a team of
+volunteers, and then forwarded to the relevant authority and/or individual to
+answer or resolve the complaint. If there is no response within a week or two
+then a reminder is sent out. If the complaint is still not dealt with after
+two more weeks then a profile of the complaint is featured on the website and
+the negligent agency/individual is “named and shamed” on the website, and via
+emails to all council departments and media organizations. Project coordinator
+Ong Boon Keong says that “roughly 300 complaints are submitted through Penang
+Watch per year” and that so far they have “been able to settle 50 percent of
+submitted complaints.” Illegal shop houses in Penang's UNESCO World Heritage
+site have been shut down because of complaints submitted to the website.
+
+### Working With, Not Against, Government
+
+[Penang Watch](https://transparency.globalvoicesonline.org/project/penang-
+watch) coordinator Ong Boon Keong is eager to point out that the website aims
+to improve the local government's performance by “providing it with both
+positive and negative feedback.” Some observers, [such as Archon
+Fung](http://www.nextgov.com/nextgov/ng_20090903_7217.php), worry that that
+the adversarial nature of many transparency and accountability websites erodes
+trust in governments and institutions, and presents the government as more
+inefficient and wasteful than it really is. Others say that a constant barrage
+of reporting about scandals desensitizes people to actual instances of
+government corruption. There are even suggestions that in countries that are
+new democracies, watchdog reporting can lead to dissatisfaction with democracy
+itself and lead to riots and chaos.
+
+> The effect of governmental transparency that is about accountability may be
+> simply to make that problem worse, to further de-legitimize government,
+> because what the transparency system is doing is helping people catch
+> government making mistakes. That's good. You do want to catch government
+> making mistakes. But you want transparency and information systems that also
+> highlight when government is doing a good job.
+>
+> Much of the current activity around governmental transparency is like
+> creating a big Amazon rating system for government that only allows one- or
+> two-star ratings. But that's not necessarily the case. You could also
+> construct governmental transparency systems that provide the full five-star
+> range.
+
+Indeed, we have found many websites that strive to highlight the worst actions
+of corrupt officials, but few if any that reward effective performance and
+clean track records. In the future it is recommended that transparency and
+accountability websites strike a balance between criticizing poor government
+performance and celebrating that which is worth duplicating.
+
+### Accountability Verus Self-Governance
+
+The thirty case studies we have collected so far illustrate both the potential
+and the extreme difficulty in bringing about accountability (either
+answerability or sanctions) by shaping civic engagement about public
+information. But, then again, accountability isn't the only stated objective
+of several of the projects we've reviewed. In addition to demanding better
+performance from government, platforms like Cidade Democrática can also
+facilitate better community self-governance that does not rely on public
+officials or understaffed agencies. Like other complaint websites we have
+reviewed, [Cidade
+Democrática](https://transparency.globalvoicesonline.org/project/cidade-
+democrática-0) enables Brazilian citizens to list problems related to their
+municipality. Other users are then encouraged to list potential solutions to
+the problems and draft strategies and action plans. So far successful
+solutions have depended on government involvement, but in the future one can
+envision that communal gardens, walking paths, and even recycling programs can
+all be coordinated by citizens _without_ government involvement.
+
+Similarly, we are [told by Map Kibera co-founder Mikel
+Maron](http://mapkibera.org/wiki/index.php?title=Background_Reading) that a
+World Bank study found that Kibera residents pay on average ten times more for
+water than the average person in a wealthy Nairobi neighborhood with
+municipally supplied, metered water service. [Voice of
+Kibera](http://kibera.ushahidi.com/) could be used as a platform to petition
+government and tribal leaders to enact measures that bring down the cost of
+water. However, it could also be used as a visualization of daily water costs
+as an incentive to bring new suppliers into the neighborhood which would
+increase competition and lower prices. In other words, these platforms can be
+used by citizens to put pressure on their governments, but they can also be
+used by citizens to directly improve their communities without depending on
+public officials.
+

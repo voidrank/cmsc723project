@@ -1,0 +1,45 @@
+![sofware-libre.jpg](https://www.globalvoicesonline.org/wp-
+content/uploads/2008/03/sofware-libre.jpg)
+
+在2008年間厄瓜多一直都是國際頭條，首先是大雨不斷使得整個國家都成了水鄉澤國。隨後，是有關自己國家的主權與哥倫比亞間的衝突，這也成為了最近的新聞。最後則是一篇指出哥倫比亞革命軍已經在國內找到庇護處的相關[宣言，使得厄瓜多政府現在陷入了水深火熱的情況](http://rubendariobuitron.wordpress.com/2008/03/16/“si-
+tuvieramos-que-rectificar-lo-hariamos-pero-no-es-el-caso
+"http://rubendariobuitron.wordpress.com/2008/03/16/%e2%80%9csi-tuvieramos-que-
+rectificar-lo-hariamos-pero-no-es-el-
+caso")。然而，有關網路安全性以及近期駭客的問題，這些雖然還不是新聞，不過仍是令人擔憂。
+
+在2月中旬，發生了駭客入侵[總統府網頁](https://www.globalvoicesonline.org/2008/02/15/ecuador-
+presidents-website-hacked/
+"https://www.globalvoicesonline.org/2008/02/15/ecuador-presidents-website-
+hacked/")的事情，隨後有一個駭客承認該駭客事件是其所為，並[公開的取笑](http://palulo.ec/blog/2008/02/13/entrevista-
+exclusiva-d4n1ux-el-hacker-que-puso-en-jaque-a-la-presidencia/
+"http://palulo.ec/blog/2008/02/13/entrevista-exclusiva-d4n1ux-el-hacker-que-
+puso-en-jaque-a-la-
+presidencia/")政府機關網路的安全性且聲稱他將會再入侵其他媒體的入口網頁。在這個專業領域工作的[Carlos
+Jumbo](http://carlosjumbo.com/2008/02/10/el-sitio-web-de-la-presidencia-del-
+ecuador-defaceado/ "http://carlosjumbo.com/2008/02/10/el-sitio-web-de-la-
+presidencia-del-ecuador-defaceado/")解釋，在厄瓜多這樣的事情已經不是第一次了，而且這種問題其實是可以解決的：
+
+>
+> 可以很簡單的藉由追蹤IP位置以作為防範，現在的問題其實是在那些應該要對網路安全負責的政府機關。他們要瞭解，現在真正的戰爭是發生在網路上….政府應該要盡快的重新擬製那個規範有關保護自然資源以及規範打擊網路駭客，而現在正在憲法大會上爭論的國家安全法案。因為只要國家出一點點的力量就可以解決現在拉丁美洲所不斷增長的威脅。另一方面，網路安全文化已經成為低開發國家開發元素中不可缺的一部份。
+
+民眾與部落客都擔心這件事件，當[Palulo](http://palulo.ec/blog/2008/02/20/que-puertas-
+permitieron-el-ataque-a-la-web-presidencial-de-ecuador/
+"http://palulo.ec/blog/2008/02/20/que-puertas-permitieron-el-ataque-a-la-web-
+presidencial-de-ecuador/")
+參訪南厄瓜多，試著向Loja科技大學的專家學者詢問技術上的答案，他與兩位對ASP的規則及入侵ISS伺服器有相當了解的教授面談，而以下則是Fausto
+Loja的觀點:
+
+>
+> ISS伺服器會被用來管理它作業系統裡的bug攻擊，就總統府網頁被攻擊這個事件來看，總統府的網頁是用微軟系統，這個系統並不夠安全而且這在微軟公開的安全系統補丁中被證實過。而且「當系統的建置不是由那些知道事實的人負責時，安全系統可能就會有許多的漏洞。」
+
+有些駭客入侵在厄瓜多是十分常見的，但要是企業公司不公開私人資料的話，也許就不會有這些入侵事件的發生。一個國內主要的電話公司允許大眾查看其所有用戶的隱私資料，[La
+Bitácora de Calú ](http://calu.ec/bitacora/2008/01/28/informacion-sensible-en-
+la-web-de-pacifictel.html "http://calu.ec/bitacora/2008/01/28/informacion-
+sensible-en-la-web-de-pacifictel.html")警告:
+
+>
+> 這是發生在一家在厄瓜多名為Pacifictel的國有固網電話公司，任何人不僅可以從你的電話簿中得知用戶的姓名、身分證號碼及地址，甚至還可以知道你曾撥過的電話號碼、你通話的時間和其他的細節資料。當然，這樣的資訊對用戶本身是很方便的，但當這些資訊有被提供時，Pacifictel應該要爲每位用戶建立一使用者帳戶跟密碼。不然的話，現在你所有的撥出和接聽過的電話—和你的鄰居—都可以被任何有網路的人監視。
+
+校對：[Portnoy](http://taipedia.selfip.info/mediawiki/index.php/User:Portnoy
+"User:Portnoy")
+

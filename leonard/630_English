@@ -1,0 +1,374 @@
+Throughout our mapping and
+[analysis](https://globalvoicesonline.org/-/special/transparency-technology-
+network/) of the 36 case studies on the [Technology for Transparency Network
+](https://transparency.globalvoicesonline.org/) we have tended to group
+projects by their geographic region. This is in large part because [our team
+of researchers and research
+reviewers](https://transparency.globalvoicesonline.org/team) were hired
+explicitly to map and evaluate technology projects that promote transparency
+and accountability in the regions were they are based. However, when one steps
+back to take in all of the projects from a global perspective, it becomes
+readily apparent that there are thematic and strategic categories which apply
+across regions. This week's posts aim to tease out some of those trends and
+offer constructive criticism and concrete recommendations to funders, project
+leads, and researchers as to how such projects can become more effective,
+efficient, and sustainable.
+
+On the [Technology for Transparency Network
+platform](https://transparency.globalvoicesonline.org/) we have organized
+[case studies](https://transparency.globalvoicesonline.org/projects/all) and
+[project listings](https://transparency.globalvoicesonline.org/listings/all)
+into ten different categories: budget monitoring, civic complaints, election
+monitoring, parliament informatics, extractive industries, private sector
+transparency, advocacy, crime, local government, and aid transparency. You can
+sort through each of the ten categories by clicking on the filters beneath our
+[map interface](https://transparency.globalvoicesonline.org/). If you have
+suggestions for other categories that we should be tracking, please leave a
+comment below.
+
+Today's post will focus on two of the largest categories we reviewed – budget
+and election monitoring.
+
+### Budget Monitoring
+
+Monitoring the budgets of local and national governments is a key instrument
+in the toolkit of any accountability activist. Active budget monitoring can
+both prevent and expose corruption. As an example, despite protests from
+privacy activists, the Mexican government decided to [publish the salaries of
+elected
+officials](http://www.elsemanario.com.mx/news/news_display.php?story_id=5148).
+(At the time, Mexican governors were among the highest paid in the world.) The
+reasoning is that any elected official who is clearly spending more than
+his/her salary permits should be scrutinized closely to determine where that
+money is coming from, and whether it is linked to political misbehavior.
+
+Budget monitoring can also lead to improved public services and
+infrastructure. For example, in the United States the government recently
+passed the largest economic stimulus program in the country's history. To
+track how that money was spent the government created
+[Recovery.gov](http://www.recovery.gov/) while ProPublica created [Eye on the
+Stimulus](http://www.propublica.org/ion/stimulus), which also tracks how the
+money is spent. Kenya had its own stimulus program, called the Constituency
+Development Fund, which started in 2003 as a way to fund local governments to
+improve their infrastructure and services. [Budget Tracking
+Tool](https://transparency.globalvoicesonline.org/project/budget-tracking-
+tool) is a way to see how that money is being spent and to leave comments to
+report on the progress of those projects. However, so far few people seem to
+use the tool, and even fewer comment on the progress of the development
+projects in their constituency.
+
+In order to effectively monitor and evaluate any budget, the data must be
+available in a format which allows for analysis in a spreadsheet or database
+program. The information should be both granular, in order to evaluate as many
+variables as possible, and timely, in order to expose corruption and
+inefficiencies before it is too late. Unfortunately, most governments that do
+publicly release their budget information do so using Adobe's PDF format,
+which doesn't allow for data analysis. As Noam Hoffstater and Alon Padan of
+Our Budget pointed out in our
+[interview](https://transparency.globalvoicesonline.org/project/our-budget),
+the accounting offices of governments obviously have their budget information
+in spreadsheet format, but they purposely publish it as a PDF document in
+order to discourage closer scrutiny.
+
+[Our Budget](http://ourbudget.org.il/) uses OCR technology to create an Excel
+spreadsheet version of the Tel Aviv municipal budget. Volunteers go over and
+check every entry, and then they make visualizations and graphs of how the
+municipality is spending taxpayers’ money. Importantly, while they have done
+this for two years running, in the end they decided that litigation (demanding
+that the municipality release the budget in spreadsheet format) was a better
+strategy than time-consuming, technological solutions.
+
+[Dinero y
+Politica](https://transparency.globalvoicesonline.org/project/dinero-y-
+pol%C3%ADtica-money-politics) uses a similar strategy to create more
+information about campaign financing in Argentinian elections so that voters
+can make fully informed choices. In Argentina, political parties must disclose
+all of the campaign contributions they received at least ten days before the
+election. But, once again, they only have to disclose those numbers in a PDF
+report, which, doesn't allow citizens analyze the data to see relationships
+between political interests and politicians. So the Dinery y Politica team has
+created an interactive database which [maps donations and creates
+visualizations](http://www.dineroypolitica.org/) of which parties receive
+donations from which groups, unions, and companies.
+
+**Recommendations:**
+
+Both Our Budget and Dinero y Política use [Many
+Eyes](https://transparency.globalvoicesonline.org/tools/many-eyes) to
+visualize the data they collect. We recommend that other budget monitoring
+activists learn how to use Many Eyes and [Many Eyes
+Wikified](https://transparency.globalvoicesonline.org/tools/many-eyes-
+wikified) in order to dynamically visualize budget information. [Google's
+Fusion Tables](http://tables.googlelabs.com) is another powerful online tool
+to both store and visualize complex information related to public budgets.
+
+The information collected and analyzed from all three projects does not seem
+to be exploited well by civil society organizations, journalists, or bloggers
+in the countries where they are based. We recommend to project leaders that
+they do more outreach to train journalists, activists, and bloggers how to use
+the tools they have developed. A sample gallery of effective ways their
+information has been used could help inspire others to build on that work.
+
+A number of traditional civil society organizations have been working in the
+realm of budget monitoring and open budgets for quite some time. The
+[International Budget Partnership](http://www.internationalbudget.org) has a
+very useful [world map](http://www.internationalbudget.org/worldmap/) which
+links to country profiles with related information and organizations working
+on budget monitoring. We recommend to donors that they support an
+international event that brings together technologists and budget monitoring
+activists to share best practices and strategies regarding the use of modern
+technology and information management systems to improve the efficiency of
+budget monitoring. This event should be followed by a three-day intense “[book
+sprint](http://www.booksprint.info/)” which leads to a open licensed, freely
+accessible book that explains the technical steps in order to: 1) extract
+financial information from PDF documents using OCR technology, 2) store budget
+information in structured, public databases, 3) verify and cross-reference
+information, 4) analyze and evaluate data using Many Eyes and Google Fusion
+Tables, and 5) use resulting findings and conclusions to partner with media,
+bloggers, civil society and government to seek greater accountability.
+
+Following the publication of such a book – and its translation into relevant
+languages – we recommend that donors support [barcamp-
+style](http://www.pbs.org/idealab/2008/02/barcamps-without-borders-the-
+unconference-spreads-globally005.html) events at the national level that bring
+together technologists, civil society organizations, government officials,
+investigative journalists, and bloggers to focus specifically on budget
+monitoring.
+
+Finally, we recommend that budget monitoring platforms partner with
+accounting, statistics, and computer science professors at local universities
+so that the students of their classes can help improve the governance of their
+country while learning new skills and techniques.
+
+### Election Monitoring
+
+Like budget monitoring, election observation is an activity of government
+accountability and transparency with a long history. According to
+[Wikipedia](http://en.wikipedia.org/wiki/Election_monitoring), it dates back
+to at least to the 1866 plebiscite of Moldavia and Wallachia, which led to
+modern Romania. In more recent times, election monitoring has tended to focus
+on countries with weak democracies or democracies in transition, and has been
+organized by international organizations such as the Organization for Security
+and Co-operation in Europe, the European Union, the Commonwealth Secretariat,
+the Council of Europe and the African Union. Major international NGOs like the
+Carter Center, the International Foundation for Election Systems (IFES), the
+National Endowment for Democracy (NED), the Electoral Institute of Southern
+Africa, the National Democratic Institute, and the European Network for
+Election Monitoring have also become increasingly active, and often partner
+with local NGO's to take advantage of established national networks.
+
+As if all of those many players weren't enough, a new generation of election
+monitoring websites now ask ordinary citizens to also become election
+observers by using their cell phones to report any voting irregularities they
+may encounter. If all goes to plan, such reports are then verified,
+categorized, and placed on a publicly accessible map.
+
+One such project that we did not document because we felt that it has been
+discussed sufficiently in both mainstream and citizen media is [Vote Report
+India](http://votereport.in/). In fact, co-founder Gaurav Mishra has joked
+that perhaps there were more articles about the project than reports submitted
+to the platform. Mishra has also written an excellent and candid
+[evaluation](http://www.digiactive.org/2009/05/15/case-study-the-report-card-
+on-vote-report-india-version-10/) of the project, which lists successes,
+failures, and – most importantly – lessons learned for the next incarnation of
+the platform for the 2014 Indian elections.
+
+Last month saw the first multiparty election to take place in Sudan in over 20
+years. [Sudan Vote
+Monitor](https://transparency.globalvoicesonline.org/project/sudan-vote-
+monitor) is one of many [Ushahidi-based websites we
+reviewed](https://transparency.globalvoicesonline.org/tools/ushahidi) that
+allow voters to report irregularities by submitting text messages which are
+then verified by a partner NGO and placed on a map. To understand the context
+behind Sudan Vote Monitor and the difficulty in implementing a technology
+project in Sudan, I highly recommend Rebekah Heacock's post, “[Sudan: Is ICT
+all it's cracked up to be?](https://globalvoicesonline.org/2010/03/04/sudan-
+is-ict-all-its-cracked-up-to-be/)” Most of the attention given to the
+initiative during the election itself focused on the fact that the site was
+[temporarily blocked](https://globalvoicesonline.org/2010/04/26/sudan-sudan-
+vote-monitor-website-was-blocked-for-six-days/) by the government. Less
+reported was the website's impact on ensuring credible elections. According to
+the website itself, [257 reports](http://sudanvotemonitor.com/reports) of
+voting irregularities were received. In a [followup
+interview](https://globalvoicesonline.org/2010/04/29/sudan-checking-in-with-
+sudan-vote-monitor/) with Heacock, project coordinator Fareed Zein says that
+number is probably somewhere between 300 – 500 if you count all SMS reports,
+which have yet to be added to the system. But few, if any, of these reports
+have been verified, and there has been no official response to any of the
+reports. Still, Zein
+[suggests](https://globalvoicesonline.org/2010/04/29/sudan-checking-in-with-
+sudan-vote-monitor/) that the objective of this first implementation was
+simply to create more information, rather than necessarily holding anyone
+accountable:
+
+> In previous elections it was all a closed door affair — nobody knew exactly
+> what went on on the ground. The intention of this was to be able to get the
+> information out to the public, internally and externally, about what's going
+> on. Just being able to get the word out was enough for us. We didn't set out
+> to try to urge anybody to take any specific action. Our mission was to get
+> the information out and then let people judge and act for themselves.
+
+Zein says it is likely that Sudan Vote Monitor will be used again during the
+January 2011 [Southern Sudanese independence
+referendum](http://en.wikipedia.org/wiki/Southern_Sudanese_independence_referendum,_2011).
+
+Like Vote Report India and Sudan Vote Monitor, [Cuidemos el
+Voto](https://transparency.globalvoicesonline.org/project/cuidemos-el-voto) is
+another national election monitoring platform that uses
+[Ushahidi](https://transparency.globalvoicesonline.org/tools/ushahidi). Co-
+founder Oscar Salazar
+[notes](https://transparency.globalvoicesonline.org/project/cuidemos-el-voto)
+that, while Mexico transitioned to multiparty democracy in 2000 with the
+election of Vicente Fox, vote buying and [conditional cash
+transfer](http://en.wikipedia.org/wiki/Conditional_Cash_Transfer) programs are
+still corrupting the democratic process. Cuidemos el Voto managed to achieve
+something important that other, similar projects lacked: support and
+endorsement from an official government body, in this case, Mexico's Special
+Prosecutor's Office. Still, that endorsement did not apparently lead to any
+sort of accountability. For example, on July 5, 2009 someone [reported that in
+Puebla they were offering 500 pesos to vote for the PAN
+party](http://www.cuidemoselvoto.org/reports/view/219). But this report wasn't
+verified and we don't see any kind of followup. For such election monitoring
+projects to make an impact in terms of accountability, they need the staff and
+resources to verify all reports and ensure that the proper government body
+responds. Or, perhaps more appropriately, they must partner with other
+organizations who can invest in the long haul of followup work. It could even
+be the perfect semester-length project for a political science graduate-level
+class.
+
+The [African Elections
+Project](https://transparency.globalvoicesonline.org/project/african-
+elections-project) differs slightly from other election monitoring projects we
+reviewed in that 1) it doesn't use Ushahidi and 2) it focuses on multiple
+countries throughout Sub-Saharan Africa. The project, funded by the [Open
+Society Initiative for West Africa](http://www.osiwa.org/), uses new media
+tools to produce and disseminate more information about elections in ten
+African countries including Malawi, Namibia, Botswana, Niger, Guinea,
+Mozambique, Mauritania and Togo. Their hope is that more watchful eyes
+reporting on the electoral process will help prevent and expose vote fraud,
+and encourage clean elections. However, most of the countries where they work
+have broadband penetration levels between five and ten percent. Until there is
+greater connectivity, the impact of an online project like [African Elections
+Project](http://www.africanelections.org/) is inherently circumscribed,
+despite its relatively large budget.
+
+[VoteReport
+PH](https://transparency.globalvoicesonline.org/project/votereportph) is the
+last Ushahidi-based election monitoring initiative we reviewed. Most of these
+projects were only attract the participation of very few users because there
+was not broad awareness that the websites exist at all. [VoteReport
+PH](http://votereportph.org/) is different in that its team spent six months
+prior to the election going around the country and giving voter education
+classes about how to use automated voting machines (which were used for the
+first time), and simultaneously, how to submit reports to VoteReporter PH by
+sending text messages. Such on-the-ground outreach work is necessary in order
+to create more awareness about citizen election monitoring platforms. In all,
+[654 reports of voting
+irregularities](http://ushahidi.votereportph.org/reports/) were submitted. For
+example, at 1 p.m. on May 10 “massive vote buying” was
+[reported](http://ushahidi.votereportph.org/reports/view/133) by an anonymous
+contributor via text message. We are told that the report was verified, but
+there is no further detail on what constitutes verification, or if anything
+was done to follow up on the report. One very useful strategy by the
+VoteReportPH team was to write a [separate blog post highlighting the most
+urgent reports of vote fraud](http://votereportph.org/blog/votereportphs-best-
+sms-reports-3-may-54110pm-10-may-070614am). They also published a [helpful
+blog post](http://votereportph.org/blog/vote-report-ph-gist-so-far-
+mapping-2010-philippine-elections) summarizing some of their early experiences
+and conclusions. I recommend Mong Palatino's overview, “[Monitoring Philippine
+Elections through Social
+Media](https://globalvoicesonline.org/2010/05/11/monitoring-philippine-
+elections-through-social-media/)“, to get a better idea of how Twitter and
+blogging played a distributed role in monitoring the Philippine elections.
+
+Though Ushahidi was created to [map reports of
+violence](http://legacy.ushahidi.com/) that occurred _after_ Kenya's 2007
+election, it was quickly adapted to monitor elections themselves. In addition
+to the above-mentioned case studies, Ushahidi was also used to map voting
+irregularities in [Afghanistan](http://aliveinafghanistan.org/) and
+[Lebanon](http://www.sharek961.org/).
+
+Ushahidi implementations have already been set up for [Colombia's presidential
+election](http://denuncia.nuestraselecciones.org/) later this month, the
+[Puebla municipal elections in July](http://puebla.cuidemoselvoto.org/), and
+[Brazil's general election in October](http://eleitor2010.com/).
+
+**Recommendations:**
+
+We recommend to project implementers that they plan at least one year ahead of
+the elections they will monitor. In addition to the technical challenges of
+implementing and localizing the Ushahidi platform, they must also concentrate
+on outreach efforts to 1) establish an SMS shortcode, 2) hold on-the-ground
+training workshops, 3) partner with relevant civil society organizations, and
+4) partner with media organizations to spread awareness. Such projects should
+also seek funding to cover the expenses of marketing the project via
+billboards, radio commercials, posters, and leaflets. Finally, and perhaps
+most importantly, election monitoring platforms should establish strong
+relationships with the governing electoral commission in order to agree upon a
+protocol for verifying and acting on reports of vote fraud. Without a signed
+agreement in place, the project is unlikely to make a concrete impact toward
+greater accountability and credibility of elections.
+
+We recommend that online election monitoring projects partner with students at
+universities to verify and follow up on all submitted reports, similar to how
+[Tufts University students worked to verify
+reports](http://enews.tufts.edu/stories/1621/2010/02/05/crisismapping)
+submitted to the [Ushahidi implementation for the Haiti
+earthquake](http://haiti.ushahidi.com/).
+
+We recommend to funders that they fund specific election-related plugins that
+make Ushahidi a more functional platform for election monitoring. Oscar
+Salazar of Cuidemos el Voto has
+[noted](https://transparency.globalvoicesonline.org/project/cuidemos-el-voto)
+that Ushahidi lacks certain features for election monitoring:
+
+> Ushahidi's main design was to provide a common pool of reports. So if I
+> started giving administrative access to everyone, everyone will see the same
+> pools . What happen's if two NGOs that are associated with two different
+> political parties get access to the same pool and start approving or
+> disapproving the reports? I don't want everyone to have access to the same
+> pool. i want to give special accounts to different NGOs, where they see only
+> their own reports plus the citizen reports. Ushahidi wasnt designed for a
+> lot of NGOs working together. So we are tweaking it for these local
+> elections to make it work in this way.
+
+The tweaks by the Cuidemos el Voto team should be packaged into a plugin that
+can be shared with other election monitoring initiatives.
+
+We recommend to the Ushahidi team and to their funders, that increased
+emphasis be placed on documentation, especially in regard to best practices
+regarding election monitoring. Patrick Meier has written an [introductory
+primer](http://blog.ushahidi.com/index.php/2010/04/23/primer-election-
+monitoring/) and Erik Hersman has made a [forum
+posting](http://forums.ushahidi.com/topic/common-election-monitoring-
+categories) to compare common election-related categories, but there is still
+a lack of needed documentation for any activist wanting to use Ushahidi to
+monitor elections. We suggest that Ushahidi aspire to a documentation resource
+as thorough and easily accessible as WordPress’
+[Codex](http://codex.wordpress.org/).
+
+We recommend that researchers do both more longitudinal and comparative
+research in order to better understand the impact and methodology of online,
+citizen election monitoring websites. How does verification compare across
+projects? What strategies bring about accountability? How do you increase the
+signal to noise ratio for submitted reports? How do you best visualize reports
+to inspire action? What are obstacles to collaboration with traditional
+election monitoring organizations? What are the pros and cons of anonymity in
+citizen election reporting? These are just a few open-ended questions that
+require more research.
+
+Finally, we recommend that multilateral and civil society organizations
+focused on election monitoring organize an international event to bring
+together the coordinators and technologists behind the various online election
+monitoring websites we have listed above to share experiences and prepare
+improved documentation for future implementations. This has [already happened
+at the regional level in East Africa](http://www.ndi.org/node/16080), which
+led to [calls for a “Tech Election Monitoring
+Toolbox”](http://blog.ushahidi.com/index.php/2010/03/05/the-need-for-a-tech-
+election-monitoring-toolbox/), but it should also happen at the international
+level to share skills, techniques, resources, and future plans across distinct
+tech communities.
+
+In the next post we will summarize and offer our recommendations related to
+more categories of case studies from the Technology for Transparency Network.
+

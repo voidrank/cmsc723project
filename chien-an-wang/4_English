@@ -1,0 +1,111 @@
+![Images mixed by Tetyana Lokot.](https://globalvoicesonline.org/wp-
+content/uploads/2015/02/twitter-presidents-language.jpg)
+
+Images mixed by Tetyana Lokot.
+
+_This article is part of a citizen-media data-analysis project, a
+collaboration between[RuNet
+Echo](https://globalvoicesonline.org/-/special/runet-echo/) and the [Maryland
+Institute for Technology in the Humanities](http://mith.umd.edu). Explore the
+complete article series on the [All the Presidents’
+Tweets](https://globalvoicesonline.org/specialcoverage/all-the-presidents-
+tweets/) page._
+
+When we started collecting our Twitter data last October, we were
+predominantly interested in what Russians and Ukrainians were saying about
+their presidents. But we decided to cast a wider net and collected all the
+tweets containing the last names of the heads of states in Russian ( _Путин_
+and _Порошенко_ ), Ukrainian ( _Путін_ and _Порошенко_ ), and English (
+_Putin_ and _Poroshenko_ ). We ended up with over six million
+tweets—6,342,294, to be exact.
+
+Once we had our data, we faced a problem: how can we tell when a Russian or
+Ukrainian tweets about Putin or Poroshenko as opposed to a Brit or a Korean?
+There are several attributes of tweets and Twitter accounts that help indicate
+a user's country and language. First, there is _the location a user chooses to
+add to their profile_. Then there is _the language a user sets for their
+account and interface_. Third, _each tweet also has a language indicator_ ,
+determined from the keyboard setting and tweet content. Finally, some users
+choose to turn on geolocation on their smartphones, and in this case _each
+tweet also gets a set of coordinates_ that can be put on a map.
+
+None of these options tells you what the user's nationality is with 100%
+certainty, of course, but each of them gives us some useful information. So in
+this installment, we'll look at the language use in the tweets contained in
+our data set, and will leave geolocated tweets and further discussion of
+country-specific tweeting until next time.
+
+Here's the breakdown of our six-million strong tweet archive.
+
+![Tweets by Language
+](https://public.tableau.com/static/images/Pu/PutinandPoroshenkoTweetsbyLanguage/TweetsbyLanguage/1_rss.png)
+
+It is immediately obvious that tweets in Russian dominate the space,
+accounting for over half of all tweets in the dataset. But Twitter users
+posting in Russian include not just Russians, but also Ukrainians, Kazakhs,
+Moldovans, and citizens of other post-Soviet states. Russian-speaking
+immigrants anywhere from Italy to Australia also contribute to the massive
+presence of the language in our data set.
+
+Although Russian holds the top spot, lots of Ukrainians tweet in Russian and
+Ukrainian intermittently, so there is no real correlation between the number
+of tweets in Russian and Ukrainian and the number of Twitter users in Russia
+([over eight million in
+2014](http://habrahabr.ru/company/palitrumlab/blog/248645/)) and in Ukraine
+([about 600,000 as of July 2014](http://www.digitaleastfactor.com/yandex-
+report-twitter-usage-ukraine/)).
+
+Additionally, we know both Russians and Ukrainians often tweet in non-native
+languages, e.g., English and French. This is especially evident during times
+of political upheaval, and is consistent with tweeting behavior that Poell and
+Darmoni observed in their [2012 study of the Tunisian
+revolution](http://dare.uva.nl/document/493316), where people tweeted in
+English to engage the Western mainstream media and English-speaking users.
+
+The use of both Latin and non-Latin hashtags in the same tweet is another
+factor complicating language analysis. In her [analysis of millions of
+tweets](https://medium.com/what-about/when-are-tweets-about-ukraine-in-
+ukrainian-55ff8517a33b) during the Euromaidan protests in Ukraine, Katerena
+Kuksenok observed a “large number of tweets using equivalent hashtags in
+multiple languages” (eg, “#Євромайдан #Евромайдан #Euromaidan”), ostensibly to
+maximize exposure of the tweets’ messages.
+
+While Russian and Ukrainian at the top of our language pyramid are easy to
+explain, some other languages at the top are less obvious, especially if we
+compare the results from our sample with the broader statistics on Twitter's
+most used languages.
+
+![Dashboard 1
+](https://public.tableau.com/static/images/To/Top10TwitterLanguages/Dashboard1/1_rss.png)
+
+The popularity of English is evident, since Anglophone users come not only
+from English-speaking countries like the US and the UK, but from countries all
+over the world. Spanish is popular across Twitter in general, and that seems
+to be reflected in our sample as well.
+
+However, French is less popular overall, and German even less so, and yet they
+have a fairly significant presence in our sample. This might be because both
+France and Germany are intimately involved in the negotiations between Ukraine
+and Russia around the conflict in Eastern Ukraine, so the media and social
+network denizens of both countries are paying more than average attention to
+the affairs of Poroshenko and Putin.
+
+The same seems to be true of Turkish and Italian Twitter users, as the number
+of Turkish-language tweets mentioning the two presidents is almost equal to
+the number of tweets in German, and the Italian is not far behind, indicating
+heightened attention to the fate of their neighbors.
+
+A notable absence is the relatively small number of tweets in Japanese in our
+sample, given that a massive 16% of overall Twitter content is produced in
+Japanese. Arabic, Malay and Portuguese also constitute a negligent percentage
+of tweets about the Russian and Ukrainian presidents, whereas Indonesian-
+speaking Twitter users appear to be more interested in the matter.
+
+While the world at large is obviously interested in what the leaders of
+Ukraine and Russia are doing, an overwhelming amount of interest and opinions
+seems to be concentrated in the Russian-speaking Twitter sphere and its
+Ukrainian counterpart. As we dig deeper into this particular domain, we expect
+to bring you new insights about political debate and discussion on the RuNet,
+and a more nuanced understanding of what the personas of Vladimir Putin and
+Petro Poroshenko mean to Twitter users in Ukraine and Russia.
+
